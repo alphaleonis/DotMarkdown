@@ -439,6 +439,28 @@ namespace DotMarkdown.Tests
         }
 
         [Fact]
+        public static void MarkdownWriter_WriteLink_TextWithContent()
+        {
+            MarkdownWriter mw = CreateWriter();
+
+            string expected = $"[**b** *i* ~~s~~ `c` {CharsSquareBracketsBacktickLessThanEscaped}](u{CharsWithoutSpacesParenthesesEscaped} \"t{CharsDoubleQuoteEscaped}\")";
+
+            mw.WriteStartLink();
+            mw.WriteBold("b");
+            mw.WriteString(" ");
+            mw.WriteItalic("i");
+            mw.WriteString(" ");
+            mw.WriteStrikethrough("s");
+            mw.WriteString(" ");
+            mw.WriteInlineCode("c");
+            mw.WriteString(" ");
+            mw.WriteString(Chars);
+            mw.WriteEndLink($"u{CharsWithoutSpaces}", $"t{Chars}");
+
+            Assert.Equal(expected, mw.ToStringAndClear());
+        }
+
+        [Fact]
         public static void MarkdownWriter_Write_Link()
         {
             MarkdownWriter mw = CreateWriter();

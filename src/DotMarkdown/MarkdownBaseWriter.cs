@@ -88,7 +88,7 @@ namespace DotMarkdown
             if (_state == State.Error)
                 throw new InvalidOperationException("Cannot write to a writer in error state.");
 
-            State newState = _stateTable[((int)_state * 15) + (int)state - 1];
+            State newState = _stateTable[((int)_state * 16) + (int)state - 1];
 
             if (newState == State.Error)
                 throw new InvalidOperationException($"Cannot write '{state}' when state is '{_state}'.");
@@ -488,9 +488,55 @@ namespace DotMarkdown
                 Error.ThrowOnInvalidUrl(url);
 
                 Push(State.SimpleElement);
+
                 WriteRaw("!");
-                WriteLinkCore(text, url, title);
+                WriteSquareBrackets(text);
+                WriteRaw("(");
+                WriteString(url, MarkdownEscaper.ShouldBeEscapedInLinkUrl);
+                WriteLinkTitle(title);
+                WriteRaw(")");
+
                 Pop(State.SimpleElement);
+            }
+            catch
+            {
+                _state = State.Error;
+                throw;
+            }
+        }
+
+        public override void WriteStartLink()
+        {
+            try
+            {
+                Push(State.Link);
+
+                WriteRaw("[");
+                ShouldBeEscaped = MarkdownEscaper.ShouldBeEscapedInLinkText;
+            }
+            catch
+            {
+                _state = State.Error;
+                throw;
+            }
+        }
+
+        public override void WriteEndLink(string url, string title = null)
+        {
+            try
+            {
+                Error.ThrowOnInvalidUrl(url);
+
+                ThrowIfCannotWriteEnd(State.Link);
+
+                ShouldBeEscaped = MarkdownEscaper.ShouldBeEscaped;
+                WriteRaw("]");
+                WriteRaw("(");
+                WriteString(url, MarkdownEscaper.ShouldBeEscapedInLinkUrl);
+                WriteLinkTitle(title);
+                WriteRaw(")");
+
+                Pop(State.Link);
             }
             catch
             {
@@ -503,29 +549,13 @@ namespace DotMarkdown
         {
             try
             {
-                if (text == null)
-                    throw new ArgumentNullException(nameof(text));
-
-                Error.ThrowOnInvalidUrl(url);
-
-                Push(State.SimpleElement);
-                WriteLinkCore(text, url, title);
-                Pop(State.SimpleElement);
+                base.WriteLink(text, url, title);
             }
             catch
             {
                 _state = State.Error;
                 throw;
             }
-        }
-
-        private void WriteLinkCore(string text, string url, string title)
-        {
-            WriteSquareBrackets(text);
-            WriteRaw("(");
-            WriteString(url, MarkdownEscaper.ShouldBeEscapedInLinkUrl);
-            WriteLinkTitle(title);
-            WriteRaw(")");
         }
 
         public override void WriteAutolink(string url)
@@ -1149,6 +1179,8 @@ namespace DotMarkdown
 
         private void WriteString(string text, Func<char, bool> shouldBeEscaped, char escapingChar = '\\')
         {
+            Func<char, bool> tmp = ShouldBeEscaped;
+
             try
             {
                 ShouldBeEscaped = shouldBeEscaped;
@@ -1158,7 +1190,7 @@ namespace DotMarkdown
             finally
             {
                 EscapingChar = '\\';
-                ShouldBeEscaped = MarkdownEscaper.ShouldBeEscaped;
+                ShouldBeEscaped = tmp;
             }
         }
 
@@ -1326,16 +1358,17 @@ namespace DotMarkdown
             Bold = 6,
             Italic = 7,
             Strikethrough = 8,
-            Table = 9,
-            TableRow = 10,
-            TableCell = 11,
-            BulletItem = 12,
-            OrderedItem = 13,
-            TaskItem = 14,
-            BlockQuote = 15,
-            Document = 16,
-            Closed = 17,
-            Error = 18,
+            Link = 9,
+            Table = 10,
+            TableRow = 11,
+            TableCell = 12,
+            BulletItem = 13,
+            OrderedItem = 14,
+            TaskItem = 15,
+            BlockQuote = 16,
+            Document = 17,
+            Closed = 18,
+            Error = 19
         }
 
         [DebuggerDisplay("{DebuggerDisplay,nq}")]
@@ -1369,6 +1402,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Table,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1386,6 +1420,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Error,
             /* State.Italic            */ State.Error,
             /* State.Strikethrough     */ State.Error,
+            /* State.Link              */ State.Error,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1403,6 +1438,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Error,
             /* State.Italic            */ State.Error,
             /* State.Strikethrough     */ State.Error,
+            /* State.Link              */ State.Error,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1420,6 +1456,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Error,
             /* State.Italic            */ State.Error,
             /* State.Strikethrough     */ State.Error,
+            /* State.Link              */ State.Error,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1437,6 +1474,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Error,
             /* State.Italic            */ State.Error,
             /* State.Strikethrough     */ State.Error,
+            /* State.Link              */ State.Error,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1454,6 +1492,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1471,6 +1510,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Error,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1488,6 +1528,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Error,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1505,6 +1546,25 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Error,
+            /* State.Link              */ State.Link,
+            /* State.Table             */ State.Error,
+            /* State.TableRow          */ State.Error,
+            /* State.TableCell         */ State.Error,
+            /* State.BulletItem        */ State.Error,
+            /* State.OrderedItem       */ State.Error,
+            /* State.TaskItem          */ State.Error,
+            /* State.BlockQuote        */ State.Error,
+
+            /* State.Link */
+            /* State.SimpleElement     */ State.SimpleElement,
+            /* State.FencedCodeBlock   */ State.Error,
+            /* State.IndentedCodeBlock */ State.Error,
+            /* State.HorizontalRule    */ State.Error,
+            /* State.Heading           */ State.Error,
+            /* State.Bold              */ State.Bold,
+            /* State.Italic            */ State.Italic,
+            /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Error,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1522,6 +1582,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Error,
             /* State.Italic            */ State.Error,
             /* State.Strikethrough     */ State.Error,
+            /* State.Link              */ State.Error,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.TableRow,
             /* State.TableCell         */ State.Error,
@@ -1539,6 +1600,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Error,
             /* State.Italic            */ State.Error,
             /* State.Strikethrough     */ State.Error,
+            /* State.Link              */ State.Error,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.TableCell,
@@ -1556,6 +1618,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Error,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1573,6 +1636,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Table,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1590,6 +1654,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Table,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1607,6 +1672,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Table,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1624,6 +1690,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Table,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
@@ -1641,6 +1708,7 @@ namespace DotMarkdown
             /* State.Bold              */ State.Bold,
             /* State.Italic            */ State.Italic,
             /* State.Strikethrough     */ State.Strikethrough,
+            /* State.Link              */ State.Link,
             /* State.Table             */ State.Table,
             /* State.TableRow          */ State.Error,
             /* State.TableCell         */ State.Error,
