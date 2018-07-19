@@ -248,29 +248,86 @@ namespace DotMarkdown
 
         public override void WriteInlineCode(string text)
         {
+            if (text == null)
+                return;
+
+            int length = text.Length;
+
+            if (length == 0)
+                return;
+
             try
             {
                 Push(State.SimpleElement);
-                WriteRaw("`");
 
-                if (!string.IsNullOrEmpty(text))
-                {
-                    if (text[0] == '`')
-                        WriteRaw(" ");
+                int backtickLength = GetBacktickLength();
 
-                    WriteString(text, MarkdownEscaper.ShouldBeEscapedInInlineCode, '`');
+                for (int i = 0; i < backtickLength; i++)
+                    WriteRaw("`");
 
-                    if (text[text.Length - 1] == '`')
-                        WriteRaw(" ");
-                }
+                if (text[0] == '`')
+                    WriteRaw(" ");
 
-                WriteRaw("`");
+                WriteString(text, _ => false);
+
+                if (text[length - 1] == '`')
+                    WriteRaw(" ");
+
+                for (int i = 0; i < backtickLength; i++)
+                    WriteRaw("`");
+
                 Pop(State.SimpleElement);
             }
             catch
             {
                 _state = State.Error;
                 throw;
+            }
+
+            int GetBacktickLength()
+            {
+                int minLength = 0;
+                int maxLength = 0;
+
+                for (int i = 0; i < length; i++)
+                {
+                    if (text[i] == '`')
+                    {
+                        i++;
+
+                        int len = 1;
+
+                        while (i < length
+                            && text[i] == '`')
+                        {
+                            len++;
+                            i++;
+                        }
+
+                        if (minLength == 0)
+                        {
+                            minLength = len;
+                            maxLength = len;
+                        }
+                        else if (len < minLength)
+                        {
+                            minLength = len;
+                        }
+                        else if (len > maxLength)
+                        {
+                            maxLength = len;
+                        }
+                    }
+                }
+
+                if (minLength == 1)
+                {
+                    return maxLength + 1;
+                }
+                else
+                {
+                    return 1;
+                }
             }
         }
 
@@ -470,6 +527,19 @@ namespace DotMarkdown
             {
                 Pop(State.TaskItem);
                 WriteLineIfNecessary();
+            }
+            catch
+            {
+                _state = State.Error;
+                throw;
+            }
+        }
+
+        public override void WriteTaskItem(string text, bool isCompleted = false)
+        {
+            try
+            {
+                base.WriteTaskItem(text, isCompleted);
             }
             catch
             {
@@ -681,21 +751,19 @@ namespace DotMarkdown
             try
             {
                 Error.ThrowOnInvalidFencedCodeBlockInfo(info);
+
                 Push(State.FencedCodeBlock);
 
                 WriteLine(Format.EmptyLineBeforeCodeBlock);
-
                 WriteRaw(Format.CodeFence);
                 WriteRaw(info);
                 WriteLine();
                 WriteString(text, _ => false);
-
                 WriteLineIfNecessary();
-
                 WriteRaw(Format.CodeFence);
-
                 WriteLine();
                 WriteEmptyLineIf(Format.EmptyLineAfterCodeBlock);
+
                 Pop(State.FencedCodeBlock);
             }
             catch
@@ -1004,6 +1072,19 @@ namespace DotMarkdown
 
                 _tableCellPos = -1;
                 Pop(State.TableCell);
+            }
+            catch
+            {
+                _state = State.Error;
+                throw;
+            }
+        }
+
+        public override void WriteTableCell(string text)
+        {
+            try
+            {
+                base.WriteTableCell(text);
             }
             catch
             {
@@ -1372,7 +1453,7 @@ namespace DotMarkdown
         }
 
         [DebuggerDisplay("{DebuggerDisplay,nq}")]
-        private struct ElementInfo
+        private readonly struct ElementInfo
         {
             public ElementInfo(State state, int number)
             {

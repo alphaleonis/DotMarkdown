@@ -28,12 +28,18 @@ namespace DotMarkdown
 
             for (int i = 0; i < info.Length; i++)
             {
-                if (TextUtility.IsCarriageReturnOrLinefeed(info[i]))
-                    throw new ArgumentException("Code block info cannot contain a new line character.", nameof(info));
+                switch (info[i])
+                {
+                    case '\r':
+                    case '\n':
+                        throw new ArgumentException("Code block info cannot contain a new line character.", nameof(info));
+                    case '`':
+                        throw new ArgumentException("Code block info cannot contain a backtick character.", nameof(info));
+                }
             }
         }
 
-        public static void ThrowOnInvalidHorizontalRuleFormat(HorizontalRuleFormat format)
+        public static void ThrowOnInvalidHorizontalRuleFormat(in HorizontalRuleFormat format)
         {
             ThrowOnInvalidHorizontalRuleCount(format.Count);
             ThrowOnInvalidHorizontalRuleSeparator(format.Separator);
