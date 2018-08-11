@@ -1,0 +1,13 @@
+# Emojis\.BustsInSilhouette Field
+
+**Containing Type**: [DotMarkdown](../../README.md)\.[Emojis](../README.md)
+
+**Assembly**: DotMarkdown\.dll
+
+```csharp
+public const string BustsInSilhouette = ":busts_in_silhouette:"
+```
+
+### Field Value
+
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

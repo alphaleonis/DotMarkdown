@@ -1,0 +1,57 @@
+# MBlockQuote Constructors
+
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockQuote](../README.md)
+
+**Assembly**: DotMarkdown\.dll
+
+## Overloads
+
+| Constructor | Summary |
+| ----------- | ------- |
+| [MBlockQuote()](#DotMarkdown_Linq_MBlockQuote__ctor) | |
+| [MBlockQuote(MBlockQuote)](#DotMarkdown_Linq_MBlockQuote__ctor_DotMarkdown_Linq_MBlockQuote_) | |
+| [MBlockQuote(Object)](#DotMarkdown_Linq_MBlockQuote__ctor_System_Object_) | |
+| [MBlockQuote(Object\[\])](#DotMarkdown_Linq_MBlockQuote__ctor_System_Object___) | |
+
+## MBlockQuote\(\)<a name="DotMarkdown_Linq_MBlockQuote__ctor"></a>
+
+```csharp
+public MBlockQuote()
+```
+
+## MBlockQuote\(MBlockQuote\)<a name="DotMarkdown_Linq_MBlockQuote__ctor_DotMarkdown_Linq_MBlockQuote_"></a>
+
+```csharp
+public MBlockQuote(MBlockQuote other)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| other | |
+
+## MBlockQuote\(Object\)<a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object_"></a>
+
+```csharp
+public MBlockQuote(object content)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| content | |
+
+## MBlockQuote\(Object\[\]\)<a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object___"></a>
+
+```csharp
+public MBlockQuote(params object[] content)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| content | |
+

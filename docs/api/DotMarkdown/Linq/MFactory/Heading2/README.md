@@ -1,0 +1,56 @@
+# MFactory\.Heading2 Method
+
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+
+**Assembly**: DotMarkdown\.dll
+
+## Overloads
+
+| Method | Summary |
+| ------ | ------- |
+| [Heading2()](#DotMarkdown_Linq_MFactory_Heading2) | |
+| [Heading2(Object)](#DotMarkdown_Linq_MFactory_Heading2_System_Object_) | |
+| [Heading2(Object\[\])](#DotMarkdown_Linq_MFactory_Heading2_System_Object___) | |
+
+## Heading2\(\)<a name="DotMarkdown_Linq_MFactory_Heading2"></a>
+
+```csharp
+public static MHeading Heading2()
+```
+
+#### Returns
+
+DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
+
+## Heading2\(Object\)<a name="DotMarkdown_Linq_MFactory_Heading2_System_Object_"></a>
+
+```csharp
+public static MHeading Heading2(object content)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| content | |
+
+#### Returns
+
+DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
+
+## Heading2\(Object\[\]\)<a name="DotMarkdown_Linq_MFactory_Heading2_System_Object___"></a>
+
+```csharp
+public static MHeading Heading2(params object[] content)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| content | |
+
+#### Returns
+
+DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
+

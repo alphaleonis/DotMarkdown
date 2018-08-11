@@ -1,0 +1,66 @@
+# MElement\.Save Method
+
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MElement](../README.md)
+
+**Assembly**: DotMarkdown\.dll
+
+## Overloads
+
+| Method | Summary |
+| ------ | ------- |
+| [Save(MarkdownWriter)](#DotMarkdown_Linq_MElement_Save_DotMarkdown_MarkdownWriter_) | |
+| [Save(Stream, MarkdownFormat)](#DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_) | |
+| [Save(String, MarkdownFormat)](#DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_) | |
+| [Save(TextWriter, MarkdownFormat)](#DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_) | |
+
+## Save\(MarkdownWriter\)<a name="DotMarkdown_Linq_MElement_Save_DotMarkdown_MarkdownWriter_"></a>
+
+```csharp
+public void Save(MarkdownWriter writer)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| writer | |
+
+## Save\(Stream, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_"></a>
+
+```csharp
+public void Save(Stream stream, MarkdownFormat format = null)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| stream | |
+| format | |
+
+## Save\(String, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_"></a>
+
+```csharp
+public void Save(string fileName, MarkdownFormat format = null)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| fileName | |
+| format | |
+
+## Save\(TextWriter, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_"></a>
+
+```csharp
+public void Save(TextWriter writer, MarkdownFormat format = null)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| writer | |
+| format | |
+

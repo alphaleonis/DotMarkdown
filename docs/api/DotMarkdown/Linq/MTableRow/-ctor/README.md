@@ -1,0 +1,57 @@
+# MTableRow Constructors
+
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MTableRow](../README.md)
+
+**Assembly**: DotMarkdown\.dll
+
+## Overloads
+
+| Constructor | Summary |
+| ----------- | ------- |
+| [MTableRow()](#DotMarkdown_Linq_MTableRow__ctor) | |
+| [MTableRow(MTableRow)](#DotMarkdown_Linq_MTableRow__ctor_DotMarkdown_Linq_MTableRow_) | |
+| [MTableRow(Object)](#DotMarkdown_Linq_MTableRow__ctor_System_Object_) | |
+| [MTableRow(Object\[\])](#DotMarkdown_Linq_MTableRow__ctor_System_Object___) | |
+
+## MTableRow\(\)<a name="DotMarkdown_Linq_MTableRow__ctor"></a>
+
+```csharp
+public MTableRow()
+```
+
+## MTableRow\(MTableRow\)<a name="DotMarkdown_Linq_MTableRow__ctor_DotMarkdown_Linq_MTableRow_"></a>
+
+```csharp
+public MTableRow(MTableRow other)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| other | |
+
+## MTableRow\(Object\)<a name="DotMarkdown_Linq_MTableRow__ctor_System_Object_"></a>
+
+```csharp
+public MTableRow(object content)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| content | |
+
+## MTableRow\(Object\[\]\)<a name="DotMarkdown_Linq_MTableRow__ctor_System_Object___"></a>
+
+```csharp
+public MTableRow(params object[] content)
+```
+
+#### Parameters
+
+| Name | Summary |
+| ---- | ------- |
+| content | |
+

@@ -40,4 +40,11 @@ DotMarkdown.Linq.MFactory</Description>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
+  <Target Name="GenerateDocumentation" AfterTargets="Build" Condition=" '$(Configuration)' == 'Release'">
+    <WriteLinesToFile File="$(OutDir)$(TargetName).assemblyreferences.txt" Lines="@(_ResolveAssemblyReferenceResolvedFiles)" Overwrite="true" Encoding="Unicode" />  
+    <Exec Command="dotnet &quot;$(SolutionDir)..\Roslynator\src\Documentation.CommandLine\bin\Release\netcoreapp2.0\Roslynator.Documentation.CommandLine.dll&quot; --assemblyReferences &quot;$(OutDir)$(TargetName).assemblyreferences.txt&quot; --assemblies &quot;$(OutDir)DotMarkdown.dll&quot; --outputDirectory &quot;$(SolutionDir)docs\api&quot; --heading &quot;DotMarkdown API&quot; --environment github --formatDefinitionBaseList true --formatDefinitionConstraints true --indicateOverriddenMember true --indicateInterfaceImplementation true" LogStandardErrorAsError="true" ConsoleToMSBuild="true">
+      <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
+    </Exec>
+  </Target>
+
 </Project>

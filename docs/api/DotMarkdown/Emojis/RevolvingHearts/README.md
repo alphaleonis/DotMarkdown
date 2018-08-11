@@ -1,0 +1,13 @@
+# Emojis\.RevolvingHearts Field
+
+**Containing Type**: [DotMarkdown](../../README.md)\.[Emojis](../README.md)
+
+**Assembly**: DotMarkdown\.dll
+
+```csharp
+public const string RevolvingHearts = ":revolving_hearts:"
+```
+
+### Field Value
+
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
