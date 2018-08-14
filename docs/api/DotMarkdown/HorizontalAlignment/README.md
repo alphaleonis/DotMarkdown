@@ -1,5 +1,7 @@
 # HorizontalAlignment Enum
 
+[Home](../../README.md)
+
 **Namespace**: [DotMarkdown](../README.md)
 
 **Assembly**: DotMarkdown\.dll

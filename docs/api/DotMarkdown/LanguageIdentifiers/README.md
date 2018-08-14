@@ -1,5 +1,7 @@
 # LanguageIdentifiers Class
 
+[Home](../../README.md)
+
 **Namespace**: [DotMarkdown](../README.md)
 
 **Assembly**: DotMarkdown\.dll

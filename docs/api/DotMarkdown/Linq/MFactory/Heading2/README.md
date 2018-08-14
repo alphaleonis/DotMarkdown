@@ -1,6 +1,8 @@
 # MFactory\.Heading2 Method
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

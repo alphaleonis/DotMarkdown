@@ -1,6 +1,8 @@
 # TableColumnInfo\.Width Property
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
+[Home](../../../README.md)
+
+**Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

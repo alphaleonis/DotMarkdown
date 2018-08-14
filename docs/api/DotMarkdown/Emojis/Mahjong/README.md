@@ -1,6 +1,8 @@
 # Emojis\.Mahjong Field
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[Emojis](../README.md)
+[Home](../../../README.md)
+
+**Type**: [DotMarkdown](../../README.md)\.[Emojis](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

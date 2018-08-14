@@ -1,6 +1,8 @@
 # MBulletItem\.WriteTo\(MarkdownWriter\) Method
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletItem](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletItem](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

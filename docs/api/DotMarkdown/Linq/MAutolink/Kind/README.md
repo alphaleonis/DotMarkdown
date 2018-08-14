@@ -1,6 +1,8 @@
 # MAutolink\.Kind Property
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MAutolink](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MAutolink](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

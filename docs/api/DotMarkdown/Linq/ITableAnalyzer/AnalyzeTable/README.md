@@ -1,6 +1,8 @@
 # ITableAnalyzer\.AnalyzeTable\(IEnumerable\<MElement>\) Method
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[ITableAnalyzer](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[ITableAnalyzer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

@@ -1,6 +1,8 @@
 # HorizontalRuleFormat\.Inequality\(HorizontalRuleFormat, HorizontalRuleFormat\) Operator
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
+[Home](../../../README.md)
+
+**Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

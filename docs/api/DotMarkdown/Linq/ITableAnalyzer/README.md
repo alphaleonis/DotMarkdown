@@ -1,5 +1,7 @@
 # ITableAnalyzer Interface
 
+[Home](../../../README.md)
+
 **Namespace**: [DotMarkdown.Linq](../README.md)
 
 **Assembly**: DotMarkdown\.dll

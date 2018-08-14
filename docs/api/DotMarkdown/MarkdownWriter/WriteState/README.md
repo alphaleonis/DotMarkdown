@@ -1,6 +1,8 @@
 # MarkdownWriter\.WriteState Property
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+[Home](../../../README.md)
+
+**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

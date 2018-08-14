@@ -1,6 +1,8 @@
 # MDocument\.WriteTo\(MarkdownWriter\) Method
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MDocument](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MDocument](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

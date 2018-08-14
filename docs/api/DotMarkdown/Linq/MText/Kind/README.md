@@ -1,6 +1,8 @@
 # MText\.Kind Property
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MText](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MText](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

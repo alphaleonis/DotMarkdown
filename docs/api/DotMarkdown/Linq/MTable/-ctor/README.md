@@ -1,6 +1,8 @@
 # MTable Constructors
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MTable](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MTable](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

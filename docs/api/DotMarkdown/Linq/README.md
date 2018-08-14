@@ -1,6 +1,6 @@
 # DotMarkdown\.Linq Namespace
 
-[Classes](#classes) &#x2022; [Interfaces](#interfaces)
+[Home](../../README.md) &#x2022; [Classes](#classes) &#x2022; [Interfaces](#interfaces)
 
 ## Classes
 

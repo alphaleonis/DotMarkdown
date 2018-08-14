@@ -1,6 +1,8 @@
 # MComment Constructors
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MComment](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MComment](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

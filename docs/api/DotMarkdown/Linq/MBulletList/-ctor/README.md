@@ -1,6 +1,8 @@
 # MBulletList Constructors
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletList](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

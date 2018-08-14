@@ -1,6 +1,8 @@
 # MarkdownEscaper\.Escape\(String, Func\<Char, Boolean>\) Method
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownEscaper](../README.md)
+[Home](../../../README.md)
+
+**Type**: [DotMarkdown](../../README.md)\.[MarkdownEscaper](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

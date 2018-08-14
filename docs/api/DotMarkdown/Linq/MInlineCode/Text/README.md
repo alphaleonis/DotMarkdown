@@ -1,6 +1,8 @@
 # MInlineCode\.Text Property
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MInlineCode](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MInlineCode](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

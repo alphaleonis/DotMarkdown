@@ -1,6 +1,8 @@
 # MContainer\.LastElement Property
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

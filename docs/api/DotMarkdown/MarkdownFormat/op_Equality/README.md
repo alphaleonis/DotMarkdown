@@ -1,6 +1,8 @@
 # MarkdownFormat\.Equality\(MarkdownFormat, MarkdownFormat\) Operator
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
+[Home](../../../README.md)
+
+**Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

@@ -1,6 +1,8 @@
 # MOrderedItem Constructors
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MOrderedItem](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MOrderedItem](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

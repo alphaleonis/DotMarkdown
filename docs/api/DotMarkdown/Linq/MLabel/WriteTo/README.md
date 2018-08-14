@@ -1,6 +1,8 @@
 # MLabel\.WriteTo\(MarkdownWriter\) Method
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MLabel](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MLabel](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

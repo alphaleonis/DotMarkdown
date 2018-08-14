@@ -1,6 +1,8 @@
 # MBold Constructors
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBold](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MBold](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

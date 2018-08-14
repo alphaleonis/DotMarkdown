@@ -1,6 +1,8 @@
 # MBlockQuote\.Kind Property
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockQuote](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockQuote](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

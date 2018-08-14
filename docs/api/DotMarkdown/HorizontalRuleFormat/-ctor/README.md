@@ -1,6 +1,8 @@
 # HorizontalRuleFormat\(HorizontalRuleStyle, Int32, String\) Constructor
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
+[Home](../../../README.md)
+
+**Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

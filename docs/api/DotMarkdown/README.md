@@ -1,6 +1,6 @@
 # DotMarkdown Namespace
 
-[Classes](#classes) &#x2022; [Structs](#structs) &#x2022; [Enums](#enums)
+[Home](../README.md) &#x2022; [Classes](#classes) &#x2022; [Structs](#structs) &#x2022; [Enums](#enums)
 
 ## Classes
 

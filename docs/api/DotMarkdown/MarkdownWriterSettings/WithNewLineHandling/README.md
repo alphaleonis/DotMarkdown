@@ -1,6 +1,8 @@
 # MarkdownWriterSettings\.WithNewLineHandling\(NewLineHandling\) Method
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriterSettings](../README.md)
+[Home](../../../README.md)
+
+**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

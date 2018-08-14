@@ -1,6 +1,8 @@
 # MBlockContainer Constructors
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockContainer](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockContainer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

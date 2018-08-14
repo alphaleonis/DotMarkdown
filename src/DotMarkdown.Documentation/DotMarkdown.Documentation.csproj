@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotMarkdown\DotMarkdown.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Roslynator.Documentation.CommandLine" Version="1.0.0-test" />
+  </ItemGroup>
+
+  <Target Name="PreRoslynatorDocumention" BeforeTargets="RoslynatorDocumentation" Condition="'$(Configuration)' == 'Release'">
+    <PropertyGroup>
+      <RoslynatorDocumentationParameters> --assemblies &quot;$(TargetDir)DotMarkdown.dll&quot; --outputDirectory &quot;$(SolutionDir)docs\api&quot; --heading &quot;DotMarkdown API&quot; --mode github --formatDefinitionBaseList true --formatDefinitionConstraints true --indicateOverriddenMember true --indicateInterfaceImplementation true</RoslynatorDocumentationParameters>
+    </PropertyGroup>
+  </Target>
+
+</Project>

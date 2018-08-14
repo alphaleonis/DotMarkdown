@@ -1,6 +1,8 @@
 # MHorizontalRule\.Count Property
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MHorizontalRule](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MHorizontalRule](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

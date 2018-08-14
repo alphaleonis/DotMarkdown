@@ -1,6 +1,8 @@
 # MTaskList\.Kind Property
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MTaskList](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MTaskList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

@@ -1,6 +1,8 @@
 # MStrikethrough\.WriteTo\(MarkdownWriter\) Method
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MStrikethrough](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MStrikethrough](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

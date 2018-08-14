@@ -1,6 +1,8 @@
 # MObject\(\) Constructor
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MObject](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MObject](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

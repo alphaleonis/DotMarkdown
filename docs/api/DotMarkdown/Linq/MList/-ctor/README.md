@@ -1,6 +1,8 @@
 # MList Constructors
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MList](../README.md)
+[Home](../../../../README.md)
+
+**Type**: [DotMarkdown.Linq](../../README.md)\.[MList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
