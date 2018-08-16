@@ -61,6 +61,7 @@ public abstract class MarkdownWriter : System.IDisposable
 | [WriteEndBulletItem()](WriteEndBulletItem/README.md) | |
 | [WriteEndHeading()](WriteEndHeading/README.md) | |
 | [WriteEndItalic()](WriteEndItalic/README.md) | |
+| [WriteEndLink(String, String)](WriteEndLink/README.md) | |
 | [WriteEndOrderedItem()](WriteEndOrderedItem/README.md) | |
 | [WriteEndStrikethrough()](WriteEndStrikethrough/README.md) | |
 | [WriteEndTable()](WriteEndTable/README.md) | |
@@ -98,6 +99,7 @@ public abstract class MarkdownWriter : System.IDisposable
 | [WriteStartCompletedTaskItem()](WriteStartCompletedTaskItem/README.md) | |
 | [WriteStartHeading(Int32)](WriteStartHeading/README.md) | |
 | [WriteStartItalic()](WriteStartItalic/README.md) | |
+| [WriteStartLink()](WriteStartLink/README.md) | |
 | [WriteStartOrderedItem(Int32)](WriteStartOrderedItem/README.md) | |
 | [WriteStartStrikethrough()](WriteStartStrikethrough/README.md) | |
 | [WriteStartTable(Int32)](WriteStartTable/README.md#DotMarkdown_MarkdownWriter_WriteStartTable_System_Int32_) | |

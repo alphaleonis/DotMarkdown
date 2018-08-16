@@ -29,6 +29,7 @@
 * &emsp; \| &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MBold](DotMarkdown/Linq/MBold/README.md)
 * &emsp; \| &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MItalic](DotMarkdown/Linq/MItalic/README.md)
 * &emsp; \| &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MStrikethrough](DotMarkdown/Linq/MStrikethrough/README.md)
+* &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MLink](DotMarkdown/Linq/MLink/README.md)
 * &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MList](DotMarkdown/Linq/MList/README.md)
 * &emsp; \| &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MBulletList](DotMarkdown/Linq/MBulletList/README.md)
 * &emsp; \| &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MOrderedList](DotMarkdown/Linq/MOrderedList/README.md)
@@ -40,17 +41,15 @@
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MFencedCodeBlock](DotMarkdown/Linq/MFencedCodeBlock/README.md)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MHorizontalRule](DotMarkdown/Linq/MHorizontalRule/README.md)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MCharEntity](DotMarkdown/Linq/MCharEntity/README.md)
+* &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MImage](DotMarkdown/Linq/MImage/README.md)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MIndentedCodeBlock](DotMarkdown/Linq/MIndentedCodeBlock/README.md)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MInlineCode](DotMarkdown/Linq/MInlineCode/README.md)
-* &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MLink](DotMarkdown/Linq/MLink/README.md)
-* &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MImage](DotMarkdown/Linq/MImage/README.md)
-* &emsp; \| &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MLabel](DotMarkdown/Linq/MLabel/README.md)
+* &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MLabel](DotMarkdown/Linq/MLabel/README.md)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MRaw](DotMarkdown/Linq/MRaw/README.md)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MText](DotMarkdown/Linq/MText/README.md)
 
 ## Static Classes
 
-* DotMarkdown\.[Emojis](DotMarkdown/Emojis/README.md)
 * DotMarkdown\.[LanguageIdentifiers](DotMarkdown/LanguageIdentifiers/README.md)
 * DotMarkdown\.[MarkdownEscaper](DotMarkdown/MarkdownEscaper/README.md)
 * DotMarkdown\.Linq\.[MFactory](DotMarkdown/Linq/MFactory/README.md)

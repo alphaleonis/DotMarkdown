@@ -7,12 +7,12 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MImage : MLink
+public class MImage : MElement
 ```
 
 ### Inheritance
 
-[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object) &#x2192; [MObject](../MObject/README.md) &#x2192; [MElement](../MElement/README.md) &#x2192; [MLink](../MLink/README.md) &#x2192; MImage
+[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object) &#x2192; [MObject](../MObject/README.md) &#x2192; [MElement](../MElement/README.md) &#x2192; MImage
 
 ## Constructors
 
@@ -30,9 +30,9 @@ public class MImage : MLink
 | [NextElement](../MElement/NextElement/README.md) |  \(Inherited from [MElement](../MElement/README.md)\) |
 | [Parent](../MObject/Parent/README.md) |  \(Inherited from [MObject](../MObject/README.md)\) |
 | [PreviousElement](../MElement/PreviousElement/README.md) |  \(Inherited from [MElement](../MElement/README.md)\) |
-| [Text](../MLink/Text/README.md) |  \(Inherited from [MLink](../MLink/README.md)\) |
-| [Title](../MLink/Title/README.md) |  \(Inherited from [MLink](../MLink/README.md)\) |
-| [Url](../MLink/Url/README.md) |  \(Inherited from [MLink](../MLink/README.md)\) |
+| [Text](Text/README.md) | |
+| [Title](Title/README.md) | |
+| [Url](Url/README.md) | |
 
 ## Methods
 

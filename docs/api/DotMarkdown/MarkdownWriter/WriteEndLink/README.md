@@ -1,4 +1,4 @@
-# MarkdownWriter\.WriteLink\(String, String, String\) Method
+# MarkdownWriter\.WriteEndLink\(String, String\) Method
 
 [Home](../../../README.md)
 
@@ -7,12 +7,10 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public virtual void WriteLink(string text, string url, string title = null)
+public abstract void WriteEndLink(string url, string title = null)
 ```
 
 ### Parameters
-
-#### text
 
 #### url
 

@@ -11,7 +11,7 @@
 | Constructor | Summary |
 | ----------- | ------- |
 | [MLink(MLink)](#DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_) | |
-| [MLink(String, String, String)](#DotMarkdown_Linq_MLink__ctor_System_String_System_String_System_String_) | |
+| [MLink(Object, String, String)](#DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_) | |
 
 ## MLink\(MLink\)<a name="DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_"></a>
 
@@ -23,15 +23,15 @@ public MLink(MLink other)
 
 #### other
 
-## MLink\(String, String, String\)<a name="DotMarkdown_Linq_MLink__ctor_System_String_System_String_System_String_"></a>
+## MLink\(Object, String, String\)<a name="DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_"></a>
 
 ```csharp
-public MLink(string text, string url, string title = null)
+public MLink(object content, string url, string title = null)
 ```
 
 ### Parameters
 
-#### text
+#### content
 
 #### url
 

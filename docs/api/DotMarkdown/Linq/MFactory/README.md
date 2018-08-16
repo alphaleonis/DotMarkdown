@@ -91,7 +91,7 @@ public static class MFactory
 | [Join(Object, Object\[\])](Join/README.md#DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___) | |
 | [LessThan()](LessThan/README.md) | |
 | [Link(MLink)](Link/README.md#DotMarkdown_Linq_MFactory_Link_DotMarkdown_Linq_MLink_) | |
-| [Link(String, String, String)](Link/README.md#DotMarkdown_Linq_MFactory_Link_System_String_System_String_System_String_) | |
+| [Link(Object, String, String)](Link/README.md#DotMarkdown_Linq_MFactory_Link_System_Object_System_String_System_String_) | |
 | [LinkOrAutolink(String, String, String)](LinkOrAutolink/README.md) | |
 | [LinkOrText(String, String, String)](LinkOrText/README.md) | |
 | [NonBreakingSpace()](NonBreakingSpace/README.md) | |

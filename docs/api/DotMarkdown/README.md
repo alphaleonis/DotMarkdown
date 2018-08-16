@@ -6,7 +6,6 @@
 
 | Class | Summary |
 | ----- | ------- |
-| [Emojis](Emojis/README.md) | |
 | [LanguageIdentifiers](LanguageIdentifiers/README.md) | |
 | [MarkdownEscaper](MarkdownEscaper/README.md) | |
 | [MarkdownFormat](MarkdownFormat/README.md) | |

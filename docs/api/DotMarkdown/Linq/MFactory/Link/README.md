@@ -11,7 +11,7 @@
 | Method | Summary |
 | ------ | ------- |
 | [Link(MLink)](#DotMarkdown_Linq_MFactory_Link_DotMarkdown_Linq_MLink_) | |
-| [Link(String, String, String)](#DotMarkdown_Linq_MFactory_Link_System_String_System_String_System_String_) | |
+| [Link(Object, String, String)](#DotMarkdown_Linq_MFactory_Link_System_Object_System_String_System_String_) | |
 
 ## Link\(MLink\)<a name="DotMarkdown_Linq_MFactory_Link_DotMarkdown_Linq_MLink_"></a>
 
@@ -27,15 +27,15 @@ public static MLink Link(MLink other)
 
 DotMarkdown\.Linq\.[MLink](../../MLink/README.md)
 
-## Link\(String, String, String\)<a name="DotMarkdown_Linq_MFactory_Link_System_String_System_String_System_String_"></a>
+## Link\(Object, String, String\)<a name="DotMarkdown_Linq_MFactory_Link_System_Object_System_String_System_String_"></a>
 
 ```csharp
-public static MLink Link(string text, string url, string title = null)
+public static MLink Link(object content, string url, string title = null)
 ```
 
 ### Parameters
 
-#### text
+#### content
 
 #### url
 
