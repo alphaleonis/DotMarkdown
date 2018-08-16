@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MText](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MText](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MText(MText other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MText\(String\)<a name="DotMarkdown_Linq_MText__ctor_System_String_"></a>
 
@@ -31,9 +29,7 @@ public MText(MText other)
 public MText(string value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 

@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,7 @@ public MarkdownFormat WithBoldStyle(EmphasisStyle boldStyle)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| boldStyle | |
+#### boldStyle
 
 ### Returns
 

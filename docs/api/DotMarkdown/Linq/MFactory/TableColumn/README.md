@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,13 +21,11 @@
 public static MTableColumn TableColumn(HorizontalAlignment alignment)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| alignment | |
+#### alignment
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 
@@ -37,14 +35,13 @@ DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 public static MTableColumn TableColumn(HorizontalAlignment alignment, object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| alignment | |
-| content | |
+#### alignment
 
-#### Returns
+#### content
+
+### Returns
 
 DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 
@@ -54,14 +51,13 @@ DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 public static MTableColumn TableColumn(HorizontalAlignment alignment, params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| alignment | |
-| content | |
+#### alignment
 
-#### Returns
+#### content
+
+### Returns
 
 DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 
@@ -71,13 +67,11 @@ DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 public static MTableColumn TableColumn(MTableColumn other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 

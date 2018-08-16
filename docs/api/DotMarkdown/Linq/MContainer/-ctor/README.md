@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ protected MContainer()
 protected MContainer(MContainer other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MContainer\(Object\)<a name="DotMarkdown_Linq_MContainer__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ protected MContainer(MContainer other)
 protected MContainer(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MContainer\(Object\[\]\)<a name="DotMarkdown_Linq_MContainer__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ protected MContainer(object content)
 protected MContainer(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

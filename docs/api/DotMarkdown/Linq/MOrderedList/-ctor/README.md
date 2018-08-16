@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MOrderedList](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MOrderedList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MOrderedList()
 public MOrderedList(MOrderedList other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MOrderedList\(Object\)<a name="DotMarkdown_Linq_MOrderedList__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MOrderedList(MOrderedList other)
 public MOrderedList(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MOrderedList\(Object\[\]\)<a name="DotMarkdown_Linq_MOrderedList__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MOrderedList(object content)
 public MOrderedList(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

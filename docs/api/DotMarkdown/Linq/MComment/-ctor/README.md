@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MComment](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MComment](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MComment(MComment other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MComment\(String\)<a name="DotMarkdown_Linq_MComment__ctor_System_String_"></a>
 
@@ -31,9 +29,7 @@ public MComment(MComment other)
 public MComment(string value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 

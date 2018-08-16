@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MHeading](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MHeading](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,9 @@
 public MHeading(int level)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| level | |
+#### level
 
 ## MHeading\(Int32, Object\)<a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object_"></a>
 
@@ -33,12 +31,11 @@ public MHeading(int level)
 public MHeading(int level, object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| level | |
-| content | |
+#### level
+
+#### content
 
 ## MHeading\(Int32, Object\[\]\)<a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object___"></a>
 
@@ -46,12 +43,11 @@ public MHeading(int level, object content)
 public MHeading(int level, params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| level | |
-| content | |
+#### level
+
+#### content
 
 ## MHeading\(MHeading\)<a name="DotMarkdown_Linq_MHeading__ctor_DotMarkdown_Linq_MHeading_"></a>
 
@@ -59,9 +55,7 @@ public MHeading(int level, params object[] content)
 public MHeading(MHeading other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 

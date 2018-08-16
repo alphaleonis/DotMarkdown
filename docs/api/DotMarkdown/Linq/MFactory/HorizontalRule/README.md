@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -20,7 +20,7 @@
 public static MHorizontalRule HorizontalRule()
 ```
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md)
 
@@ -30,13 +30,11 @@ DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md)
 public static MHorizontalRule HorizontalRule(in HorizontalRuleFormat format)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| format | |
+#### format
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md)
 
@@ -46,15 +44,15 @@ DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md)
 public static MHorizontalRule HorizontalRule(HorizontalRuleStyle style, int count = 3, string separator = " ")
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| style | |
-| count | |
-| separator | |
+#### style
 
-#### Returns
+#### count
+
+#### separator
+
+### Returns
 
 DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md)
 

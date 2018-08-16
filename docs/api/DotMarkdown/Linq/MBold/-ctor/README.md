@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MBold](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBold](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MBold()
 public MBold(MBold other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MBold\(Object\)<a name="DotMarkdown_Linq_MBold__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MBold(MBold other)
 public MBold(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MBold\(Object\[\]\)<a name="DotMarkdown_Linq_MBold__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MBold(object content)
 public MBold(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

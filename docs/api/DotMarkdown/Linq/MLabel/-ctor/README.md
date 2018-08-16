@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MLabel](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MLabel](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MLabel(MLabel other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MLabel\(String, String, String\)<a name="DotMarkdown_Linq_MLabel__ctor_System_String_System_String_System_String_"></a>
 
@@ -31,11 +29,11 @@ public MLabel(MLabel other)
 public MLabel(string text, string url, string title = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| text | |
-| url | |
-| title | |
+#### text
+
+#### url
+
+#### title
 

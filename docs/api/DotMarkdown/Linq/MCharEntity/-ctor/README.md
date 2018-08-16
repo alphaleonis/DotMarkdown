@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MCharEntity](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MCharEntity](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MCharEntity(char value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 
 ## MCharEntity\(MCharEntity\)<a name="DotMarkdown_Linq_MCharEntity__ctor_DotMarkdown_Linq_MCharEntity_"></a>
 
@@ -31,9 +29,7 @@ public MCharEntity(char value)
 public MCharEntity(MCharEntity other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 

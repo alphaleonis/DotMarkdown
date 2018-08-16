@@ -1,6 +1,6 @@
 # ITableAnalyzer Interface
 
-[Home](../../../README.md)
+[Home](../../../README.md) &#x2022; [Methods](#methods)
 
 **Namespace**: [DotMarkdown.Linq](../README.md)
 

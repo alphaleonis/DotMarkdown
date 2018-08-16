@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFencedCodeBlock](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFencedCodeBlock](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MFencedCodeBlock(MFencedCodeBlock other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MFencedCodeBlock\(String, String\)<a name="DotMarkdown_Linq_MFencedCodeBlock__ctor_System_String_System_String_"></a>
 
@@ -31,10 +29,9 @@ public MFencedCodeBlock(MFencedCodeBlock other)
 public MFencedCodeBlock(string text, string info = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| text | |
-| info | |
+#### text
+
+#### info
 

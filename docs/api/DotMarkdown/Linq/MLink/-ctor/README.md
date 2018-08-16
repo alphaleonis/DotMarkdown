@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MLink](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MLink](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MLink(MLink other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MLink\(String, String, String\)<a name="DotMarkdown_Linq_MLink__ctor_System_String_System_String_System_String_"></a>
 
@@ -31,11 +29,11 @@ public MLink(MLink other)
 public MLink(string text, string url, string title = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| text | |
-| url | |
-| title | |
+#### text
+
+#### url
+
+#### title
 

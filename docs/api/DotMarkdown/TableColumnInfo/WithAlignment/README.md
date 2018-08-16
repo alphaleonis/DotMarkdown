@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,7 @@ public TableColumnInfo WithAlignment(HorizontalAlignment alignment)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| alignment | |
+#### alignment
 
 ### Returns
 

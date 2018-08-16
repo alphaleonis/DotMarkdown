@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,11 +23,9 @@
 public virtual void WriteValue(bool value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 
 ## WriteValue\(Decimal\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Decimal_"></a>
 
@@ -35,11 +33,9 @@ public virtual void WriteValue(bool value)
 public virtual void WriteValue(decimal value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 
 ## WriteValue\(Double\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Double_"></a>
 
@@ -47,11 +43,9 @@ public virtual void WriteValue(decimal value)
 public virtual void WriteValue(double value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 
 ## WriteValue\(Int32\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Int32_"></a>
 
@@ -59,11 +53,9 @@ public virtual void WriteValue(double value)
 public virtual void WriteValue(int value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 
 ## WriteValue\(Int64\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Int64_"></a>
 
@@ -71,11 +63,9 @@ public virtual void WriteValue(int value)
 public virtual void WriteValue(long value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 
 ## WriteValue\(Single\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Single_"></a>
 
@@ -83,9 +73,7 @@ public virtual void WriteValue(long value)
 public virtual void WriteValue(float value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 

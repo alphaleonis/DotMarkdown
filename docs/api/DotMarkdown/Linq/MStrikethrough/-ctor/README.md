@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MStrikethrough](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MStrikethrough](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MStrikethrough()
 public MStrikethrough(MStrikethrough other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MStrikethrough\(Object\)<a name="DotMarkdown_Linq_MStrikethrough__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MStrikethrough(MStrikethrough other)
 public MStrikethrough(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MStrikethrough\(Object\[\]\)<a name="DotMarkdown_Linq_MStrikethrough__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MStrikethrough(object content)
 public MStrikethrough(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

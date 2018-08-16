@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -10,8 +10,8 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [Equals(HorizontalRuleFormat)](#DotMarkdown_HorizontalRuleFormat_Equals_DotMarkdown_HorizontalRuleFormat_) |  \(Implements [IEquatable\<HorizontalRuleFormat>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)\) |
-| [Equals(Object)](#DotMarkdown_HorizontalRuleFormat_Equals_System_Object_) |  \(Overrides [ValueType.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype.equals)\) |
+| [Equals(HorizontalRuleFormat)](#DotMarkdown_HorizontalRuleFormat_Equals_DotMarkdown_HorizontalRuleFormat_) | |
+| [Equals(Object)](#DotMarkdown_HorizontalRuleFormat_Equals_System_Object_) | |
 
 ## Equals\(HorizontalRuleFormat\)<a name="DotMarkdown_HorizontalRuleFormat_Equals_DotMarkdown_HorizontalRuleFormat_"></a>
 
@@ -19,17 +19,15 @@
 public bool Equals(HorizontalRuleFormat other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-#### Implements
+### Implements
 
 * [IEquatable\<HorizontalRuleFormat>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)
 
@@ -39,13 +37,11 @@ System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 public override bool Equals(object obj)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | |
+#### obj
 
-#### Returns
+### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 

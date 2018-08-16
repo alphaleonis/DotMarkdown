@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public void WriteLinkOrText(string text, string url = null, string title = null)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| text | |
-| url | |
-| title | |
+#### text
+
+#### url
+
+#### title
 

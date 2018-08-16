@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MEntityRef](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MEntityRef](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MEntityRef(MEntityRef other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MEntityRef\(String\)<a name="DotMarkdown_Linq_MEntityRef__ctor_System_String_"></a>
 
@@ -31,9 +29,7 @@ public MEntityRef(MEntityRef other)
 public MEntityRef(string name)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| name | |
+#### name
 

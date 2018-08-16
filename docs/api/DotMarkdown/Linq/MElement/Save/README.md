@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MElement](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MElement](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,9 @@
 public void Save(MarkdownWriter writer)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| writer | |
+#### writer
 
 ## Save\(Stream, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_"></a>
 
@@ -33,12 +31,11 @@ public void Save(MarkdownWriter writer)
 public void Save(Stream stream, MarkdownFormat format = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| stream | |
-| format | |
+#### stream
+
+#### format
 
 ## Save\(String, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_"></a>
 
@@ -46,12 +43,11 @@ public void Save(Stream stream, MarkdownFormat format = null)
 public void Save(string fileName, MarkdownFormat format = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| fileName | |
-| format | |
+#### fileName
+
+#### format
 
 ## Save\(TextWriter, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_"></a>
 
@@ -59,10 +55,9 @@ public void Save(string fileName, MarkdownFormat format = null)
 public void Save(TextWriter writer, MarkdownFormat format = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| writer | |
-| format | |
+#### writer
+
+#### format
 

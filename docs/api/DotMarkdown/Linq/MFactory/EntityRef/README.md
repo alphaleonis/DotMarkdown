@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,13 +19,11 @@
 public static MEntityRef EntityRef(MEntityRef other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
 
@@ -35,13 +33,11 @@ DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
 public static MEntityRef EntityRef(string name)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| name | |
+#### name
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
 

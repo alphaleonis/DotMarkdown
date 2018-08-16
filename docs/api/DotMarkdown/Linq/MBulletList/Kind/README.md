@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletList](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

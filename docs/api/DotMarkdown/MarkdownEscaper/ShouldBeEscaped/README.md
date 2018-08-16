@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownEscaper](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownEscaper](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,7 @@ public static bool ShouldBeEscaped(char value)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 
 ### Returns
 

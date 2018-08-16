@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockQuote](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockQuote](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MBlockQuote()
 public MBlockQuote(MBlockQuote other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MBlockQuote\(Object\)<a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MBlockQuote(MBlockQuote other)
 public MBlockQuote(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MBlockQuote\(Object\[\]\)<a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MBlockQuote(object content)
 public MBlockQuote(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

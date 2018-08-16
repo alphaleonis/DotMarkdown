@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MRaw](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MRaw](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MRaw(MRaw other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MRaw\(String\)<a name="DotMarkdown_Linq_MRaw__ctor_System_String_"></a>
 
@@ -31,9 +29,7 @@ public MRaw(MRaw other)
 public MRaw(string value)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
+#### value
 

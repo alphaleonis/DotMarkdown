@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@
 public static MOrderedList OrderedList()
 ```
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 
@@ -31,13 +31,11 @@ DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 public static MOrderedList OrderedList(MOrderedList other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 
@@ -47,13 +45,11 @@ DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 public static MOrderedList OrderedList(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 
@@ -63,13 +59,11 @@ DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 public static MOrderedList OrderedList(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MElement](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MElement](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -10,7 +10,7 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [ToString()](#DotMarkdown_Linq_MElement_ToString) |  \(Overrides [Object.ToString](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring)\) |
+| [ToString()](#DotMarkdown_Linq_MElement_ToString) | |
 | [ToString(MarkdownFormat)](#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_) | |
 | [ToString(MarkdownWriterSettings)](#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_) | |
 
@@ -20,7 +20,7 @@
 public override string ToString()
 ```
 
-#### Returns
+### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
@@ -30,13 +30,11 @@ System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 public string ToString(MarkdownFormat format)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| format | |
+#### format
 
-#### Returns
+### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
@@ -46,13 +44,11 @@ System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 public string ToString(MarkdownWriterSettings settings)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| settings | |
+#### settings
 
-#### Returns
+### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletItem](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletItem](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MBulletItem()
 public MBulletItem(MBulletItem other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MBulletItem\(Object\)<a name="DotMarkdown_Linq_MBulletItem__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MBulletItem(MBulletItem other)
 public MBulletItem(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MBulletItem\(Object\[\]\)<a name="DotMarkdown_Linq_MBulletItem__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MBulletItem(object content)
 public MBulletItem(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

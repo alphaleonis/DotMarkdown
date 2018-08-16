@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,10 +12,9 @@ public static bool operator ==(in HorizontalRuleFormat format1, in HorizontalRul
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| format1 | |
-| format2 | |
+#### format1
+
+#### format2
 
 ### Returns
 

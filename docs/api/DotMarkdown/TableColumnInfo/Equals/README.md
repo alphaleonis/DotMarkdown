@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -10,8 +10,8 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [Equals(Object)](#DotMarkdown_TableColumnInfo_Equals_System_Object_) |  \(Overrides [ValueType.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype.equals)\) |
-| [Equals(TableColumnInfo)](#DotMarkdown_TableColumnInfo_Equals_DotMarkdown_TableColumnInfo_) |  \(Implements [IEquatable\<TableColumnInfo>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)\) |
+| [Equals(Object)](#DotMarkdown_TableColumnInfo_Equals_System_Object_) | |
+| [Equals(TableColumnInfo)](#DotMarkdown_TableColumnInfo_Equals_DotMarkdown_TableColumnInfo_) | |
 
 ## Equals\(Object\)<a name="DotMarkdown_TableColumnInfo_Equals_System_Object_"></a>
 
@@ -19,13 +19,11 @@
 public override bool Equals(object obj)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | |
+#### obj
 
-#### Returns
+### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
@@ -35,16 +33,14 @@ System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 public bool Equals(TableColumnInfo other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-#### Implements
+### Implements
 
 * [IEquatable\<TableColumnInfo>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)

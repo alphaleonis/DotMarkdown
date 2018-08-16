@@ -45,9 +45,9 @@ public class MarkdownFormat : System.IEquatable<MarkdownFormat>
 
 | Method | Summary |
 | ------ | ------- |
-| [Equals(MarkdownFormat)](Equals/README.md#DotMarkdown_MarkdownFormat_Equals_DotMarkdown_MarkdownFormat_) |  \(Implements [IEquatable\<MarkdownFormat>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)\) |
-| [Equals(Object)](Equals/README.md#DotMarkdown_MarkdownFormat_Equals_System_Object_) |  \(Overrides [Object.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals)\) |
-| [GetHashCode()](GetHashCode/README.md) |  \(Overrides [Object.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode)\) |
+| [Equals(MarkdownFormat)](Equals/README.md#DotMarkdown_MarkdownFormat_Equals_DotMarkdown_MarkdownFormat_) | |
+| [Equals(Object)](Equals/README.md#DotMarkdown_MarkdownFormat_Equals_System_Object_) | |
+| [GetHashCode()](GetHashCode/README.md) | |
 | [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |

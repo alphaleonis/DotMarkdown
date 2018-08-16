@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,14 +19,13 @@
 public static MInline Join(object separator, IEnumerable<object> values)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| separator | |
-| values | |
+#### separator
 
-#### Returns
+#### values
+
+### Returns
 
 DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 
@@ -36,14 +35,13 @@ DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 public static MInline Join(object separator, params object[] values)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| separator | |
-| values | |
+#### separator
 
-#### Returns
+#### values
+
+### Returns
 
 DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 

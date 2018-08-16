@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -26,11 +26,9 @@ public void WriteHorizontalRule()
 public void WriteHorizontalRule(in HorizontalRuleFormat format)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| format | |
+#### format
 
 ## WriteHorizontalRule\(HorizontalRuleStyle, Int32, String\)<a name="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
@@ -38,11 +36,11 @@ public void WriteHorizontalRule(in HorizontalRuleFormat format)
 public abstract void WriteHorizontalRule(HorizontalRuleStyle style, int count = 3, string separator = " ")
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| style | |
-| count | |
-| separator | |
+#### style
+
+#### count
+
+#### separator
 

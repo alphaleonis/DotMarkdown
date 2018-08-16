@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MDocument](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MDocument](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MDocument()
 public MDocument(MDocument other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MDocument\(Object\)<a name="DotMarkdown_Linq_MDocument__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MDocument(MDocument other)
 public MDocument(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MDocument\(Object\[\]\)<a name="DotMarkdown_Linq_MDocument__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MDocument(object content)
 public MDocument(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

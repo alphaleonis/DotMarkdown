@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MItalic](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MItalic](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MItalic()
 public MItalic(MItalic other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MItalic\(Object\)<a name="DotMarkdown_Linq_MItalic__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MItalic(MItalic other)
 public MItalic(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MItalic\(Object\[\]\)<a name="DotMarkdown_Linq_MItalic__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MItalic(object content)
 public MItalic(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

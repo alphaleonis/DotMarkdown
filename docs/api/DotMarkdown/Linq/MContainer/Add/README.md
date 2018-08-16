@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public void Add(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## Add\(Object\[\]\)<a name="DotMarkdown_Linq_MContainer_Add_System_Object___"></a>
 
@@ -31,9 +29,7 @@ public void Add(object content)
 public void Add(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

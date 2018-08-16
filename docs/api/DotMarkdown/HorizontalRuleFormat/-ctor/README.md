@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public HorizontalRuleFormat(HorizontalRuleStyle style, int count, string separat
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| style | |
-| count | |
-| separator | |
+#### style
+
+#### count
+
+#### separator
 

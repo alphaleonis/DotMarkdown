@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[Emojis](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[Emojis](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

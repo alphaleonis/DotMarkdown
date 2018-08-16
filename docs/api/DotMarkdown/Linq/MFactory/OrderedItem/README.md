@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,13 +21,11 @@
 public static MOrderedItem OrderedItem(int number)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| number | |
+#### number
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
 
@@ -37,14 +35,13 @@ DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
 public static MOrderedItem OrderedItem(int number, object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| number | |
-| content | |
+#### number
 
-#### Returns
+#### content
+
+### Returns
 
 DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
 
@@ -54,14 +51,13 @@ DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
 public static MOrderedItem OrderedItem(int number, params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| number | |
-| content | |
+#### number
 
-#### Returns
+#### content
+
+### Returns
 
 DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
 
@@ -71,13 +67,11 @@ DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
 public static MOrderedItem OrderedItem(MOrderedItem other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
 

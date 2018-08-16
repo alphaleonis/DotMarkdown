@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public abstract void WriteStartTable(int columnCount)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| columnCount | |
+#### columnCount
 
 ## WriteStartTable\(IReadOnlyList\<TableColumnInfo>\)<a name="DotMarkdown_MarkdownWriter_WriteStartTable_System_Collections_Generic_IReadOnlyList_DotMarkdown_TableColumnInfo__"></a>
 
@@ -31,9 +29,7 @@ public abstract void WriteStartTable(int columnCount)
 public abstract void WriteStartTable(IReadOnlyList<TableColumnInfo> columns)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| columns | |
+#### columns
 

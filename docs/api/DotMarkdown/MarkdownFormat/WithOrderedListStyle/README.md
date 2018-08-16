@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,7 @@ public MarkdownFormat WithOrderedListStyle(OrderedListStyle orderedListStyle)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| orderedListStyle | |
+#### orderedListStyle
 
 ### Returns
 

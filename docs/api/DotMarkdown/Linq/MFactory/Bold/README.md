@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@
 public static MBold Bold()
 ```
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 
@@ -31,13 +31,11 @@ DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 public static MBold Bold(MBold other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 
@@ -47,13 +45,11 @@ DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 public static MBold Bold(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 
@@ -63,13 +59,11 @@ DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 public static MBold Bold(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 

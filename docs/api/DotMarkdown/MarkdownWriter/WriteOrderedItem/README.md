@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,8 +12,7 @@ public virtual void WriteOrderedItem(int number, string text)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| number | |
-| text | |
+#### number
+
+#### text
 

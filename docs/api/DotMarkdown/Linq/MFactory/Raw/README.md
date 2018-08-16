@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,13 +19,11 @@
 public static MRaw Raw(MRaw other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md)
 
@@ -35,13 +33,11 @@ DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md)
 public static MRaw Raw(string text)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| text | |
+#### text
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md)
 

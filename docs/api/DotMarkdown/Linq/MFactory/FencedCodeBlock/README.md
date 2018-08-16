@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,13 +19,11 @@
 public static MFencedCodeBlock FencedCodeBlock(MFencedCodeBlock other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md)
 
@@ -35,14 +33,13 @@ DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md)
 public static MFencedCodeBlock FencedCodeBlock(string value, string info = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
-| info | |
+#### value
 
-#### Returns
+#### info
+
+### Returns
 
 DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md)
 

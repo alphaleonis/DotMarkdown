@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,13 +21,11 @@
 public static MHeading Heading(int level)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| level | |
+#### level
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 
@@ -37,14 +35,13 @@ DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 public static MHeading Heading(int level, object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| level | |
-| content | |
+#### level
 
-#### Returns
+#### content
+
+### Returns
 
 DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 
@@ -54,14 +51,13 @@ DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 public static MHeading Heading(int level, params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| level | |
-| content | |
+#### level
 
-#### Returns
+#### content
+
+### Returns
 
 DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 
@@ -71,13 +67,11 @@ DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 public static MHeading Heading(MHeading other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 

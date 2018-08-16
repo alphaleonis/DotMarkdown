@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,7 +12,5 @@ public abstract void WriteAutolink(string url)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| url | |
+#### url
 

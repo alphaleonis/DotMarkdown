@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,17 +12,25 @@ public MarkdownFormat(EmphasisStyle boldStyle = Asterisk, EmphasisStyle italicSt
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| boldStyle | |
-| italicStyle | |
-| bulletListStyle | |
-| orderedListStyle | |
-| headingStyle | |
-| headingOptions | |
-| tableOptions | |
-| codeFenceStyle | |
-| codeBlockOptions | |
-| charEntityFormat | |
-| horizontalRuleFormat | |
+#### boldStyle
+
+#### italicStyle
+
+#### bulletListStyle
+
+#### orderedListStyle
+
+#### headingStyle
+
+#### headingOptions
+
+#### tableOptions
+
+#### codeFenceStyle
+
+#### codeBlockOptions
+
+#### charEntityFormat
+
+#### horizontalRuleFormat
 

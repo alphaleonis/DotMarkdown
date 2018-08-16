@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,8 +12,7 @@ public virtual void WriteTaskItem(string text, bool isCompleted = false)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| text | |
-| isCompleted | |
+#### text
+
+#### isCompleted
 

@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownEscaper](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownEscaper](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,10 +12,9 @@ public static string Escape(string value, Func<char, bool> shouldBeEscaped = nul
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| value | |
-| shouldBeEscaped | |
+#### value
+
+#### shouldBeEscaped
 
 ### Returns
 

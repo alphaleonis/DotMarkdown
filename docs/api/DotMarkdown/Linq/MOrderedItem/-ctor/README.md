@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MOrderedItem](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MOrderedItem](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,9 @@
 public MOrderedItem(int number)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| number | |
+#### number
 
 ## MOrderedItem\(Int32, Object\)<a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object_"></a>
 
@@ -33,12 +31,11 @@ public MOrderedItem(int number)
 public MOrderedItem(int number, object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| number | |
-| content | |
+#### number
+
+#### content
 
 ## MOrderedItem\(Int32, Object\[\]\)<a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object___"></a>
 
@@ -46,12 +43,11 @@ public MOrderedItem(int number, object content)
 public MOrderedItem(int number, params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| number | |
-| content | |
+#### number
+
+#### content
 
 ## MOrderedItem\(MOrderedItem\)<a name="DotMarkdown_Linq_MOrderedItem__ctor_DotMarkdown_Linq_MOrderedItem_"></a>
 
@@ -59,9 +55,7 @@ public MOrderedItem(int number, params object[] content)
 public MOrderedItem(MOrderedItem other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 

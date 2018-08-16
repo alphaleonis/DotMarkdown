@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MList](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ protected MList()
 protected MList(MList other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MList\(Object\)<a name="DotMarkdown_Linq_MList__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ protected MList(MList other)
 protected MList(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MList\(Object\[\]\)<a name="DotMarkdown_Linq_MList__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ protected MList(object content)
 protected MList(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

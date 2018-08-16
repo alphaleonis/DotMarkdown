@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MInline](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MInline](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MInline()
 public MInline(MContainer other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MInline\(Object\)<a name="DotMarkdown_Linq_MInline__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MInline(MContainer other)
 public MInline(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MInline\(Object\[\]\)<a name="DotMarkdown_Linq_MInline__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MInline(object content)
 public MInline(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

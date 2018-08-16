@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public TableColumnInfo(HorizontalAlignment alignment, int width, bool isWhiteSpa
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| alignment | |
-| width | |
-| isWhiteSpace | |
+#### alignment
+
+#### width
+
+#### isWhiteSpace
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MHorizontalRule](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MHorizontalRule](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -20,11 +20,9 @@
 public MHorizontalRule(in HorizontalRuleFormat format)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| format | |
+#### format
 
 ## MHorizontalRule\(HorizontalRuleStyle, Int32, String\)<a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
@@ -32,13 +30,13 @@ public MHorizontalRule(in HorizontalRuleFormat format)
 public MHorizontalRule(HorizontalRuleStyle style, int count, string separator)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| style | |
-| count | |
-| separator | |
+#### style
+
+#### count
+
+#### separator
 
 ## MHorizontalRule\(MHorizontalRule\)<a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_Linq_MHorizontalRule_"></a>
 
@@ -46,9 +44,7 @@ public MHorizontalRule(HorizontalRuleStyle style, int count, string separator)
 public MHorizontalRule(MHorizontalRule other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 

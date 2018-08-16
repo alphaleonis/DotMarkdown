@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,13 +19,11 @@
 public MarkdownFormat WithHeadingOptions(HeadingOptions headingOptions)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| headingOptions | |
+#### headingOptions
 
-#### Returns
+### Returns
 
 DotMarkdown\.[MarkdownFormat](../README.md)
 
@@ -35,13 +33,11 @@ DotMarkdown\.[MarkdownFormat](../README.md)
 public MarkdownFormat WithHeadingOptions(HeadingStyle headingStyle)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| headingStyle | |
+#### headingStyle
 
-#### Returns
+### Returns
 
 DotMarkdown\.[MarkdownFormat](../README.md)
 

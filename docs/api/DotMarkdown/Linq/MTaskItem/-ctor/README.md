@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MTaskItem](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MTaskItem](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,9 @@
 public MTaskItem(bool isCompleted)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| isCompleted | |
+#### isCompleted
 
 ## MTaskItem\(Boolean, Object\)<a name="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object_"></a>
 
@@ -33,12 +31,11 @@ public MTaskItem(bool isCompleted)
 public MTaskItem(bool isCompleted, object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| isCompleted | |
-| content | |
+#### isCompleted
+
+#### content
 
 ## MTaskItem\(Boolean, Object\[\]\)<a name="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object___"></a>
 
@@ -46,12 +43,11 @@ public MTaskItem(bool isCompleted, object content)
 public MTaskItem(bool isCompleted, params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| isCompleted | |
-| content | |
+#### isCompleted
+
+#### content
 
 ## MTaskItem\(MTaskItem\)<a name="DotMarkdown_Linq_MTaskItem__ctor_DotMarkdown_Linq_MTaskItem_"></a>
 
@@ -59,9 +55,7 @@ public MTaskItem(bool isCompleted, params object[] content)
 public MTaskItem(MTaskItem other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 

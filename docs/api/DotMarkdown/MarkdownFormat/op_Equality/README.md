@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,10 +12,9 @@ public static bool operator ==(MarkdownFormat format1, MarkdownFormat format2)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| format1 | |
-| format2 | |
+#### format1
+
+#### format2
 
 ### Returns
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MTable](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MTable](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MTable()
 public MTable(MContainer other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MTable\(Object\)<a name="DotMarkdown_Linq_MTable__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MTable(MContainer other)
 public MTable(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MTable\(Object\[\]\)<a name="DotMarkdown_Linq_MTable__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MTable(object content)
 public MTable(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

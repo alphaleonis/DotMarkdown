@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriterSettings](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,7 @@ public MarkdownWriterSettings WithCloseOutput(bool closeOutput)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| closeOutput | |
+#### closeOutput
 
 ### Returns
 

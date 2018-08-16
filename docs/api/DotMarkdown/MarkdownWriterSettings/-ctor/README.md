@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriterSettings](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,10 +12,11 @@ public MarkdownWriterSettings(MarkdownFormat format = null, string newLineChars 
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| format | |
-| newLineChars | |
-| newLineHandling | |
-| closeOutput | |
+#### format
+
+#### newLineChars
+
+#### newLineHandling
+
+#### closeOutput
 

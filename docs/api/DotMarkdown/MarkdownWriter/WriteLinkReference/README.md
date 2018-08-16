@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,8 +12,7 @@ public abstract void WriteLinkReference(string text, string label = null)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| text | |
-| label | |
+#### text
+
+#### label
 

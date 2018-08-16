@@ -26,7 +26,7 @@ public class MCharEntity : MElement
 | Property | Summary |
 | -------- | ------- |
 | [Document](../MObject/Document/README.md) |  \(Inherited from [MObject](../MObject/README.md)\) |
-| [Kind](Kind/README.md) |  \(Overrides [MObject.Kind](../MObject/Kind/README.md)\) |
+| [Kind](Kind/README.md) | |
 | [NextElement](../MElement/NextElement/README.md) |  \(Inherited from [MElement](../MElement/README.md)\) |
 | [Parent](../MObject/Parent/README.md) |  \(Inherited from [MObject](../MObject/README.md)\) |
 | [PreviousElement](../MElement/PreviousElement/README.md) |  \(Inherited from [MElement](../MElement/README.md)\) |
@@ -51,5 +51,5 @@ public class MCharEntity : MElement
 | [ToString()](../MElement/ToString/README.md#DotMarkdown_Linq_MElement_ToString) |  \(Inherited from [MElement](../MElement/README.md)\) |
 | [ToString(MarkdownFormat)](../MElement/ToString/README.md#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_) |  \(Inherited from [MElement](../MElement/README.md)\) |
 | [ToString(MarkdownWriterSettings)](../MElement/ToString/README.md#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_) |  \(Inherited from [MElement](../MElement/README.md)\) |
-| [WriteTo(MarkdownWriter)](WriteTo/README.md) |  \(Overrides [MElement.WriteTo](../MElement/WriteTo/README.md)\) |
+| [WriteTo(MarkdownWriter)](WriteTo/README.md) | |
 

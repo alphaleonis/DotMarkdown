@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,7 @@ public TableColumnInfo WithWidth(int width)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| width | |
+#### width
 
 ### Returns
 

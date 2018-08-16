@@ -1,6 +1,6 @@
 # HeadingOptions Enum
 
-[Home](../../README.md)
+[Home](../../README.md) &#x2022; [Fields](#fields)
 
 **Namespace**: [DotMarkdown](../README.md)
 

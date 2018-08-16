@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@
 public static MInline Inline()
 ```
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 
@@ -31,13 +31,11 @@ DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 public static MInline Inline(MInline other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 
@@ -47,13 +45,11 @@ DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 public static MInline Inline(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 
@@ -63,13 +59,11 @@ DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 public static MInline Inline(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
-#### Returns
+### Returns
 
 DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -22,15 +22,15 @@
 public static MarkdownWriter Create(Stream stream, Encoding encoding, MarkdownWriterSettings settings = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| stream | |
-| encoding | |
-| settings | |
+#### stream
 
-#### Returns
+#### encoding
+
+#### settings
+
+### Returns
 
 DotMarkdown\.[MarkdownWriter](../README.md)
 
@@ -40,14 +40,13 @@ DotMarkdown\.[MarkdownWriter](../README.md)
 public static MarkdownWriter Create(Stream stream, MarkdownWriterSettings settings = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| stream | |
-| settings | |
+#### stream
 
-#### Returns
+#### settings
+
+### Returns
 
 DotMarkdown\.[MarkdownWriter](../README.md)
 
@@ -57,15 +56,15 @@ DotMarkdown\.[MarkdownWriter](../README.md)
 public static MarkdownWriter Create(StringBuilder output, IFormatProvider formatProvider, MarkdownWriterSettings settings = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| output | |
-| formatProvider | |
-| settings | |
+#### output
 
-#### Returns
+#### formatProvider
+
+#### settings
+
+### Returns
 
 DotMarkdown\.[MarkdownWriter](../README.md)
 
@@ -75,14 +74,13 @@ DotMarkdown\.[MarkdownWriter](../README.md)
 public static MarkdownWriter Create(StringBuilder output, MarkdownWriterSettings settings = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| output | |
-| settings | |
+#### output
 
-#### Returns
+#### settings
+
+### Returns
 
 DotMarkdown\.[MarkdownWriter](../README.md)
 
@@ -92,14 +90,13 @@ DotMarkdown\.[MarkdownWriter](../README.md)
 public static MarkdownWriter Create(TextWriter output, MarkdownWriterSettings settings = null)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| output | |
-| settings | |
+#### output
 
-#### Returns
+#### settings
+
+### Returns
 
 DotMarkdown\.[MarkdownWriter](../README.md)
 

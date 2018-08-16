@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MTaskList](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MTaskList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ public MTaskList()
 public MTaskList(MTaskList other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MTaskList\(Object\)<a name="DotMarkdown_Linq_MTaskList__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ public MTaskList(MTaskList other)
 public MTaskList(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MTaskList\(Object\[\]\)<a name="DotMarkdown_Linq_MTaskList__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ public MTaskList(object content)
 public MTaskList(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 

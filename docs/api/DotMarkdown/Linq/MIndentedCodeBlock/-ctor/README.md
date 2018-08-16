@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MIndentedCodeBlock](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MIndentedCodeBlock](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -19,11 +19,9 @@
 public MIndentedCodeBlock(MIndentedCodeBlock other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MIndentedCodeBlock\(String\)<a name="DotMarkdown_Linq_MIndentedCodeBlock__ctor_System_String_"></a>
 
@@ -31,9 +29,7 @@ public MIndentedCodeBlock(MIndentedCodeBlock other)
 public MIndentedCodeBlock(string text)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| text | |
+#### text
 

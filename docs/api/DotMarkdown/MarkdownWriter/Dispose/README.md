@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -10,7 +10,7 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [Dispose()](#DotMarkdown_MarkdownWriter_Dispose) |  \(Implements [IDisposable.Dispose](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)\) |
+| [Dispose()](#DotMarkdown_MarkdownWriter_Dispose) | |
 | [Dispose(Boolean)](#DotMarkdown_MarkdownWriter_Dispose_System_Boolean_) | |
 
 ## Dispose\(\)<a name="DotMarkdown_MarkdownWriter_Dispose"></a>
@@ -19,7 +19,7 @@
 public void Dispose()
 ```
 
-#### Implements
+### Implements
 
 * [IDisposable.Dispose](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)
 
@@ -29,9 +29,7 @@ public void Dispose()
 protected virtual void Dispose(bool disposing)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| disposing | |
+#### disposing
 

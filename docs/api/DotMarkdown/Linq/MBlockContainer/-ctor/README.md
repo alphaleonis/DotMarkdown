@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockContainer](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockContainer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,11 +27,9 @@ protected MBlockContainer()
 protected MBlockContainer(MBlockContainer other)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| other | |
+#### other
 
 ## MBlockContainer\(Object\)<a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object_"></a>
 
@@ -39,11 +37,9 @@ protected MBlockContainer(MBlockContainer other)
 protected MBlockContainer(object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
 ## MBlockContainer\(Object\[\]\)<a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object___"></a>
 
@@ -51,9 +47,7 @@ protected MBlockContainer(object content)
 protected MBlockContainer(params object[] content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| content | |
+#### content
 
