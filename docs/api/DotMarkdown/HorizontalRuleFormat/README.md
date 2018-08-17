@@ -38,9 +38,9 @@ public readonly struct HorizontalRuleFormat : System.IEquatable<HorizontalRuleFo
 
 | Method | Summary |
 | ------ | ------- |
-| [Equals(HorizontalRuleFormat)](Equals/README.md#DotMarkdown_HorizontalRuleFormat_Equals_DotMarkdown_HorizontalRuleFormat_) | |
-| [Equals(Object)](Equals/README.md#DotMarkdown_HorizontalRuleFormat_Equals_System_Object_) | |
-| [GetHashCode()](GetHashCode/README.md) | |
+| [Equals(HorizontalRuleFormat)](Equals/README.md#DotMarkdown_HorizontalRuleFormat_Equals_DotMarkdown_HorizontalRuleFormat_) |  \(Implements [IEquatable\<HorizontalRuleFormat>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)\) |
+| [Equals(Object)](Equals/README.md#DotMarkdown_HorizontalRuleFormat_Equals_System_Object_) |  \(Overrides [ValueType.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype.equals)\) |
+| [GetHashCode()](GetHashCode/README.md) |  \(Overrides [ValueType.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype.gethashcode)\) |
 | [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype.tostring) |  \(Inherited from [ValueType](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype)\) |

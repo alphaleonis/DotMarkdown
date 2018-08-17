@@ -10,7 +10,7 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [ToString()](#DotMarkdown_Linq_MElement_ToString) | |
+| [ToString()](#DotMarkdown_Linq_MElement_ToString) |  \(Overrides [Object.ToString](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring)\) |
 | [ToString(MarkdownFormat)](#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_) | |
 | [ToString(MarkdownWriterSettings)](#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_) | |
 

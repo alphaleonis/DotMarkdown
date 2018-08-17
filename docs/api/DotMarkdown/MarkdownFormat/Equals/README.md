@@ -10,8 +10,8 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [Equals(MarkdownFormat)](#DotMarkdown_MarkdownFormat_Equals_DotMarkdown_MarkdownFormat_) | |
-| [Equals(Object)](#DotMarkdown_MarkdownFormat_Equals_System_Object_) | |
+| [Equals(MarkdownFormat)](#DotMarkdown_MarkdownFormat_Equals_DotMarkdown_MarkdownFormat_) |  \(Implements [IEquatable\<MarkdownFormat>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)\) |
+| [Equals(Object)](#DotMarkdown_MarkdownFormat_Equals_System_Object_) |  \(Overrides [Object.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals)\) |
 
 ## Equals\(MarkdownFormat\)<a name="DotMarkdown_MarkdownFormat_Equals_DotMarkdown_MarkdownFormat_"></a>
 

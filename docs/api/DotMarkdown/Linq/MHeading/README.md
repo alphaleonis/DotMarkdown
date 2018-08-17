@@ -30,7 +30,7 @@ public class MHeading : MContainer
 | [Document](../MObject/Document/README.md) |  \(Inherited from [MObject](../MObject/README.md)\) |
 | [FirstElement](../MContainer/FirstElement/README.md) |  \(Inherited from [MContainer](../MContainer/README.md)\) |
 | [IsEmpty](../MContainer/IsEmpty/README.md) |  \(Inherited from [MContainer](../MContainer/README.md)\) |
-| [Kind](Kind/README.md) | |
+| [Kind](Kind/README.md) |  \(Overrides [MObject.Kind](../MObject/Kind/README.md)\) |
 | [LastElement](../MContainer/LastElement/README.md) |  \(Inherited from [MContainer](../MContainer/README.md)\) |
 | [Level](Level/README.md) | |
 | [NextElement](../MElement/NextElement/README.md) |  \(Inherited from [MElement](../MElement/README.md)\) |
@@ -63,5 +63,5 @@ public class MHeading : MContainer
 | [ToString()](../MElement/ToString/README.md#DotMarkdown_Linq_MElement_ToString) |  \(Inherited from [MElement](../MElement/README.md)\) |
 | [ToString(MarkdownFormat)](../MElement/ToString/README.md#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_) |  \(Inherited from [MElement](../MElement/README.md)\) |
 | [ToString(MarkdownWriterSettings)](../MElement/ToString/README.md#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_) |  \(Inherited from [MElement](../MElement/README.md)\) |
-| [WriteTo(MarkdownWriter)](WriteTo/README.md) | |
+| [WriteTo(MarkdownWriter)](WriteTo/README.md) |  \(Overrides [MElement.WriteTo](../MElement/WriteTo/README.md)\) |
 

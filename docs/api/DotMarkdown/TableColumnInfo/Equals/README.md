@@ -10,8 +10,8 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [Equals(Object)](#DotMarkdown_TableColumnInfo_Equals_System_Object_) | |
-| [Equals(TableColumnInfo)](#DotMarkdown_TableColumnInfo_Equals_DotMarkdown_TableColumnInfo_) | |
+| [Equals(Object)](#DotMarkdown_TableColumnInfo_Equals_System_Object_) |  \(Overrides [ValueType.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype.equals)\) |
+| [Equals(TableColumnInfo)](#DotMarkdown_TableColumnInfo_Equals_DotMarkdown_TableColumnInfo_) |  \(Implements [IEquatable\<TableColumnInfo>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)\) |
 
 ## Equals\(Object\)<a name="DotMarkdown_TableColumnInfo_Equals_System_Object_"></a>
 

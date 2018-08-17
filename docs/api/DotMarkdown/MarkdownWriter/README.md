@@ -42,7 +42,7 @@ public abstract class MarkdownWriter : System.IDisposable
 | [Create(StringBuilder, IFormatProvider, MarkdownWriterSettings)](Create/README.md#DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_System_IFormatProvider_DotMarkdown_MarkdownWriterSettings_) | |
 | [Create(StringBuilder, MarkdownWriterSettings)](Create/README.md#DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_DotMarkdown_MarkdownWriterSettings_) | |
 | [Create(TextWriter, MarkdownWriterSettings)](Create/README.md#DotMarkdown_MarkdownWriter_Create_System_IO_TextWriter_DotMarkdown_MarkdownWriterSettings_) | |
-| [Dispose()](Dispose/README.md#DotMarkdown_MarkdownWriter_Dispose) | |
+| [Dispose()](Dispose/README.md#DotMarkdown_MarkdownWriter_Dispose) |  \(Implements [IDisposable.Dispose](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)\) |
 | [Dispose(Boolean)](Dispose/README.md#DotMarkdown_MarkdownWriter_Dispose_System_Boolean_) | |
 | [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [Flush()](Flush/README.md) | |
