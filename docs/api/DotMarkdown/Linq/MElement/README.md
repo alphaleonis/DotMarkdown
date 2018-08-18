@@ -28,7 +28,7 @@ public abstract class MElement : MObject
 * DotMarkdown\.Linq\.[MContainer](../MContainer/README.md#_top)
 * DotMarkdown\.Linq\.[MDocument](../MDocument/README.md#_top)
 * DotMarkdown\.Linq\.[MEntityRef](../MEntityRef/README.md#_top)
-* [...](#all-derived-types)
+* [...](#all-derived-types "See all derived types")
 
 ## Constructors
 

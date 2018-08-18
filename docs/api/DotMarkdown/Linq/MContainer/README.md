@@ -28,7 +28,7 @@ public abstract class MContainer : MElement
 * DotMarkdown\.Linq\.[MInline](../MInline/README.md#_top)
 * DotMarkdown\.Linq\.[MItalic](../MItalic/README.md#_top)
 * DotMarkdown\.Linq\.[MLink](../MLink/README.md#_top)
-* [...](#all-derived-types)
+* [...](#all-derived-types "See all derived types")
 
 ## Constructors
 
