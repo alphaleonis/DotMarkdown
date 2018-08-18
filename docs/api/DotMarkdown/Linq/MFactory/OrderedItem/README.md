@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.OrderedItem Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +17,7 @@
 | [OrderedItem(Int32, Object\[\])](#DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_System_Object___) | |
 | [OrderedItem(MOrderedItem)](#DotMarkdown_Linq_MFactory_OrderedItem_DotMarkdown_Linq_MOrderedItem_) | |
 
-## OrderedItem\(Int32\)<a name="DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_"></a>
+## OrderedItem\(Int32\) <a name="DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_"></a>
 
 ```csharp
 public static MOrderedItem OrderedItem(int number)
@@ -27,9 +29,9 @@ public static MOrderedItem OrderedItem(int number)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
+DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md#_top)
 
-## OrderedItem\(Int32, Object\)<a name="DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_System_Object_"></a>
+## OrderedItem\(Int32, Object\) <a name="DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_System_Object_"></a>
 
 ```csharp
 public static MOrderedItem OrderedItem(int number, object content)
@@ -43,9 +45,9 @@ public static MOrderedItem OrderedItem(int number, object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
+DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md#_top)
 
-## OrderedItem\(Int32, Object\[\]\)<a name="DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_System_Object___"></a>
+## OrderedItem\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_System_Object___"></a>
 
 ```csharp
 public static MOrderedItem OrderedItem(int number, params object[] content)
@@ -59,9 +61,9 @@ public static MOrderedItem OrderedItem(int number, params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
+DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md#_top)
 
-## OrderedItem\(MOrderedItem\)<a name="DotMarkdown_Linq_MFactory_OrderedItem_DotMarkdown_Linq_MOrderedItem_"></a>
+## OrderedItem\(MOrderedItem\) <a name="DotMarkdown_Linq_MFactory_OrderedItem_DotMarkdown_Linq_MOrderedItem_"></a>
 
 ```csharp
 public static MOrderedItem OrderedItem(MOrderedItem other)
@@ -73,5 +75,5 @@ public static MOrderedItem OrderedItem(MOrderedItem other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md)
+DotMarkdown\.Linq\.[MOrderedItem](../../MOrderedItem/README.md#_top)
 

@@ -1,8 +1,8 @@
 # MBlockContainer Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockContainer](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MBlockContainer](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,13 +15,13 @@
 | [MBlockContainer(Object)](#DotMarkdown_Linq_MBlockContainer__ctor_System_Object_) | |
 | [MBlockContainer(Object\[\])](#DotMarkdown_Linq_MBlockContainer__ctor_System_Object___) | |
 
-## MBlockContainer\(\)<a name="DotMarkdown_Linq_MBlockContainer__ctor"></a>
+## MBlockContainer\(\) <a name="DotMarkdown_Linq_MBlockContainer__ctor"></a>
 
 ```csharp
 protected MBlockContainer()
 ```
 
-## MBlockContainer\(MBlockContainer\)<a name="DotMarkdown_Linq_MBlockContainer__ctor_DotMarkdown_Linq_MBlockContainer_"></a>
+## MBlockContainer\(MBlockContainer\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_DotMarkdown_Linq_MBlockContainer_"></a>
 
 ```csharp
 protected MBlockContainer(MBlockContainer other)
@@ -31,7 +31,7 @@ protected MBlockContainer(MBlockContainer other)
 
 #### other
 
-## MBlockContainer\(Object\)<a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object_"></a>
+## MBlockContainer\(Object\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object_"></a>
 
 ```csharp
 protected MBlockContainer(object content)
@@ -41,7 +41,7 @@ protected MBlockContainer(object content)
 
 #### content
 
-## MBlockContainer\(Object\[\]\)<a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object___"></a>
+## MBlockContainer\(Object\[\]\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object___"></a>
 
 ```csharp
 protected MBlockContainer(params object[] content)

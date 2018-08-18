@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.TableRow Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +17,7 @@
 | [TableRow(Object)](#DotMarkdown_Linq_MFactory_TableRow_System_Object_) | |
 | [TableRow(Object\[\])](#DotMarkdown_Linq_MFactory_TableRow_System_Object___) | |
 
-## TableRow\(\)<a name="DotMarkdown_Linq_MFactory_TableRow"></a>
+## TableRow\(\) <a name="DotMarkdown_Linq_MFactory_TableRow"></a>
 
 ```csharp
 public static MTableRow TableRow()
@@ -23,9 +25,9 @@ public static MTableRow TableRow()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md#_top)
 
-## TableRow\(MTableRow\)<a name="DotMarkdown_Linq_MFactory_TableRow_DotMarkdown_Linq_MTableRow_"></a>
+## TableRow\(MTableRow\) <a name="DotMarkdown_Linq_MFactory_TableRow_DotMarkdown_Linq_MTableRow_"></a>
 
 ```csharp
 public static MTableRow TableRow(MTableRow other)
@@ -37,9 +39,9 @@ public static MTableRow TableRow(MTableRow other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md#_top)
 
-## TableRow\(Object\)<a name="DotMarkdown_Linq_MFactory_TableRow_System_Object_"></a>
+## TableRow\(Object\) <a name="DotMarkdown_Linq_MFactory_TableRow_System_Object_"></a>
 
 ```csharp
 public static MTableRow TableRow(object content)
@@ -51,9 +53,9 @@ public static MTableRow TableRow(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md#_top)
 
-## TableRow\(Object\[\]\)<a name="DotMarkdown_Linq_MFactory_TableRow_System_Object___"></a>
+## TableRow\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TableRow_System_Object___"></a>
 
 ```csharp
 public static MTableRow TableRow(params object[] content)
@@ -65,5 +67,5 @@ public static MTableRow TableRow(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md#_top)
 

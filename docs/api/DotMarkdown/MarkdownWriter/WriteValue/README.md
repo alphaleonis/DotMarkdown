@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MarkdownWriter\.WriteValue Method
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[MarkdownWriter](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -17,7 +19,7 @@
 | [WriteValue(Int64)](#DotMarkdown_MarkdownWriter_WriteValue_System_Int64_) | |
 | [WriteValue(Single)](#DotMarkdown_MarkdownWriter_WriteValue_System_Single_) | |
 
-## WriteValue\(Boolean\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Boolean_"></a>
+## WriteValue\(Boolean\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Boolean_"></a>
 
 ```csharp
 public virtual void WriteValue(bool value)
@@ -27,7 +29,7 @@ public virtual void WriteValue(bool value)
 
 #### value
 
-## WriteValue\(Decimal\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Decimal_"></a>
+## WriteValue\(Decimal\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Decimal_"></a>
 
 ```csharp
 public virtual void WriteValue(decimal value)
@@ -37,7 +39,7 @@ public virtual void WriteValue(decimal value)
 
 #### value
 
-## WriteValue\(Double\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Double_"></a>
+## WriteValue\(Double\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Double_"></a>
 
 ```csharp
 public virtual void WriteValue(double value)
@@ -47,7 +49,7 @@ public virtual void WriteValue(double value)
 
 #### value
 
-## WriteValue\(Int32\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Int32_"></a>
+## WriteValue\(Int32\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Int32_"></a>
 
 ```csharp
 public virtual void WriteValue(int value)
@@ -57,7 +59,7 @@ public virtual void WriteValue(int value)
 
 #### value
 
-## WriteValue\(Int64\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Int64_"></a>
+## WriteValue\(Int64\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Int64_"></a>
 
 ```csharp
 public virtual void WriteValue(long value)
@@ -67,7 +69,7 @@ public virtual void WriteValue(long value)
 
 #### value
 
-## WriteValue\(Single\)<a name="DotMarkdown_MarkdownWriter_WriteValue_System_Single_"></a>
+## WriteValue\(Single\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Single_"></a>
 
 ```csharp
 public virtual void WriteValue(float value)

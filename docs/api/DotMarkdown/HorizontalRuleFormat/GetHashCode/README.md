@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # HorizontalRuleFormat\.GetHashCode\(\) Method
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[HorizontalRuleFormat](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

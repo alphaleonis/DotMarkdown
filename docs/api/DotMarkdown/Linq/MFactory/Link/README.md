@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.Link Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +15,7 @@
 | [Link(MLink)](#DotMarkdown_Linq_MFactory_Link_DotMarkdown_Linq_MLink_) | |
 | [Link(Object, String, String)](#DotMarkdown_Linq_MFactory_Link_System_Object_System_String_System_String_) | |
 
-## Link\(MLink\)<a name="DotMarkdown_Linq_MFactory_Link_DotMarkdown_Linq_MLink_"></a>
+## Link\(MLink\) <a name="DotMarkdown_Linq_MFactory_Link_DotMarkdown_Linq_MLink_"></a>
 
 ```csharp
 public static MLink Link(MLink other)
@@ -25,9 +27,9 @@ public static MLink Link(MLink other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MLink](../../MLink/README.md)
+DotMarkdown\.Linq\.[MLink](../../MLink/README.md#_top)
 
-## Link\(Object, String, String\)<a name="DotMarkdown_Linq_MFactory_Link_System_Object_System_String_System_String_"></a>
+## Link\(Object, String, String\) <a name="DotMarkdown_Linq_MFactory_Link_System_Object_System_String_System_String_"></a>
 
 ```csharp
 public static MLink Link(object content, string url, string title = null)
@@ -43,5 +45,5 @@ public static MLink Link(object content, string url, string title = null)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MLink](../../MLink/README.md)
+DotMarkdown\.Linq\.[MLink](../../MLink/README.md#_top)
 

@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.EntityRef Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +15,7 @@
 | [EntityRef(MEntityRef)](#DotMarkdown_Linq_MFactory_EntityRef_DotMarkdown_Linq_MEntityRef_) | |
 | [EntityRef(String)](#DotMarkdown_Linq_MFactory_EntityRef_System_String_) | |
 
-## EntityRef\(MEntityRef\)<a name="DotMarkdown_Linq_MFactory_EntityRef_DotMarkdown_Linq_MEntityRef_"></a>
+## EntityRef\(MEntityRef\) <a name="DotMarkdown_Linq_MFactory_EntityRef_DotMarkdown_Linq_MEntityRef_"></a>
 
 ```csharp
 public static MEntityRef EntityRef(MEntityRef other)
@@ -25,9 +27,9 @@ public static MEntityRef EntityRef(MEntityRef other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
+DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md#_top)
 
-## EntityRef\(String\)<a name="DotMarkdown_Linq_MFactory_EntityRef_System_String_"></a>
+## EntityRef\(String\) <a name="DotMarkdown_Linq_MFactory_EntityRef_System_String_"></a>
 
 ```csharp
 public static MEntityRef EntityRef(string name)
@@ -39,5 +41,5 @@ public static MEntityRef EntityRef(string name)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
+DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md#_top)
 

@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MElement Class
 
-[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [DotMarkdown.Linq](../README.md)
+**Namespace**: [DotMarkdown.Linq](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,50 +14,50 @@ public abstract class MElement : MObject
 
 ### Inheritance
 
-[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object) &#x2192; [MObject](../MObject/README.md) &#x2192; MElement
+[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object) &#x2192; [MObject](../MObject/README.md#_top) &#x2192; MElement
 
 ### Derived
 
-* DotMarkdown\.Linq\.[MAutolink](../MAutolink/README.md)
-* DotMarkdown\.Linq\.[MBlockContainer](../MBlockContainer/README.md)
-* DotMarkdown\.Linq\.[MBlockQuote](../MBlockQuote/README.md)
-* DotMarkdown\.Linq\.[MBold](../MBold/README.md)
-* DotMarkdown\.Linq\.[MBulletItem](../MBulletItem/README.md)
-* DotMarkdown\.Linq\.[MBulletList](../MBulletList/README.md)
-* DotMarkdown\.Linq\.[MComment](../MComment/README.md)
-* DotMarkdown\.Linq\.[MContainer](../MContainer/README.md)
-* DotMarkdown\.Linq\.[MDocument](../MDocument/README.md)
-* DotMarkdown\.Linq\.[MEntityRef](../MEntityRef/README.md)
+* DotMarkdown\.Linq\.[MAutolink](../MAutolink/README.md#_top)
+* DotMarkdown\.Linq\.[MBlockContainer](../MBlockContainer/README.md#_top)
+* DotMarkdown\.Linq\.[MBlockQuote](../MBlockQuote/README.md#_top)
+* DotMarkdown\.Linq\.[MBold](../MBold/README.md#_top)
+* DotMarkdown\.Linq\.[MBulletItem](../MBulletItem/README.md#_top)
+* DotMarkdown\.Linq\.[MBulletList](../MBulletList/README.md#_top)
+* DotMarkdown\.Linq\.[MComment](../MComment/README.md#_top)
+* DotMarkdown\.Linq\.[MContainer](../MContainer/README.md#_top)
+* DotMarkdown\.Linq\.[MDocument](../MDocument/README.md#_top)
+* DotMarkdown\.Linq\.[MEntityRef](../MEntityRef/README.md#_top)
 * [...](#all-derived-types)
 
 ## Constructors
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [MElement()](-ctor/README.md) | |
+| [MElement()](-ctor/README.md#_top) | |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [Document](../MObject/Document/README.md) |  \(Inherited from [MObject](../MObject/README.md)\) |
-| [Kind](../MObject/Kind/README.md) |  \(Inherited from [MObject](../MObject/README.md)\) |
-| [NextElement](NextElement/README.md) | |
-| [Parent](../MObject/Parent/README.md) |  \(Inherited from [MObject](../MObject/README.md)\) |
-| [PreviousElement](PreviousElement/README.md) | |
+| [Document](../MObject/Document/README.md#_top) |  \(Inherited from [MObject](../MObject/README.md#_top)\) |
+| [Kind](../MObject/Kind/README.md#_top) |  \(Inherited from [MObject](../MObject/README.md#_top)\) |
+| [NextElement](NextElement/README.md#_top) | |
+| [Parent](../MObject/Parent/README.md#_top) |  \(Inherited from [MObject](../MObject/README.md#_top)\) |
+| [PreviousElement](PreviousElement/README.md#_top) | |
 
 ## Methods
 
 | Method | Summary |
 | ------ | ------- |
-| [Ancestors()](Ancestors/README.md) | |
-| [ElementsAfterSelf()](ElementsAfterSelf/README.md) | |
-| [ElementsBeforeSelf()](ElementsBeforeSelf/README.md) | |
+| [Ancestors()](Ancestors/README.md#_top) | |
+| [ElementsAfterSelf()](ElementsAfterSelf/README.md#_top) | |
+| [ElementsBeforeSelf()](ElementsBeforeSelf/README.md#_top) | |
 | [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
-| [Remove()](Remove/README.md) | |
+| [Remove()](Remove/README.md#_top) | |
 | [Save(MarkdownWriter)](Save/README.md#DotMarkdown_Linq_MElement_Save_DotMarkdown_MarkdownWriter_) | |
 | [Save(Stream, MarkdownFormat)](Save/README.md#DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_) | |
 | [Save(String, MarkdownFormat)](Save/README.md#DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_) | |
@@ -63,39 +65,39 @@ public abstract class MElement : MObject
 | [ToString()](ToString/README.md#DotMarkdown_Linq_MElement_ToString) |  \(Overrides [Object.ToString](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring)\) |
 | [ToString(MarkdownFormat)](ToString/README.md#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_) | |
 | [ToString(MarkdownWriterSettings)](ToString/README.md#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_) | |
-| [WriteTo(MarkdownWriter)](WriteTo/README.md) | |
+| [WriteTo(MarkdownWriter)](WriteTo/README.md#_top) | |
 
 ## All Derived Types
 
-* DotMarkdown\.Linq\.[MAutolink](../MAutolink/README.md)
-* DotMarkdown\.Linq\.[MBlockContainer](../MBlockContainer/README.md)
-* DotMarkdown\.Linq\.[MBlockQuote](../MBlockQuote/README.md)
-* DotMarkdown\.Linq\.[MBold](../MBold/README.md)
-* DotMarkdown\.Linq\.[MBulletItem](../MBulletItem/README.md)
-* DotMarkdown\.Linq\.[MBulletList](../MBulletList/README.md)
-* DotMarkdown\.Linq\.[MComment](../MComment/README.md)
-* DotMarkdown\.Linq\.[MContainer](../MContainer/README.md)
-* DotMarkdown\.Linq\.[MDocument](../MDocument/README.md)
-* DotMarkdown\.Linq\.[MEntityRef](../MEntityRef/README.md)
-* DotMarkdown\.Linq\.[MFencedCodeBlock](../MFencedCodeBlock/README.md)
-* DotMarkdown\.Linq\.[MHeading](../MHeading/README.md)
-* DotMarkdown\.Linq\.[MHorizontalRule](../MHorizontalRule/README.md)
-* DotMarkdown\.Linq\.[MCharEntity](../MCharEntity/README.md)
-* DotMarkdown\.Linq\.[MImage](../MImage/README.md)
-* DotMarkdown\.Linq\.[MIndentedCodeBlock](../MIndentedCodeBlock/README.md)
-* DotMarkdown\.Linq\.[MInline](../MInline/README.md)
-* DotMarkdown\.Linq\.[MInlineCode](../MInlineCode/README.md)
-* DotMarkdown\.Linq\.[MItalic](../MItalic/README.md)
-* DotMarkdown\.Linq\.[MLabel](../MLabel/README.md)
-* DotMarkdown\.Linq\.[MLink](../MLink/README.md)
-* DotMarkdown\.Linq\.[MList](../MList/README.md)
-* DotMarkdown\.Linq\.[MOrderedItem](../MOrderedItem/README.md)
-* DotMarkdown\.Linq\.[MOrderedList](../MOrderedList/README.md)
-* DotMarkdown\.Linq\.[MRaw](../MRaw/README.md)
-* DotMarkdown\.Linq\.[MStrikethrough](../MStrikethrough/README.md)
-* DotMarkdown\.Linq\.[MTable](../MTable/README.md)
-* DotMarkdown\.Linq\.[MTableColumn](../MTableColumn/README.md)
-* DotMarkdown\.Linq\.[MTableRow](../MTableRow/README.md)
-* DotMarkdown\.Linq\.[MTaskItem](../MTaskItem/README.md)
-* DotMarkdown\.Linq\.[MTaskList](../MTaskList/README.md)
-* DotMarkdown\.Linq\.[MText](../MText/README.md)
+* DotMarkdown\.Linq\.[MAutolink](../MAutolink/README.md#_top)
+* DotMarkdown\.Linq\.[MBlockContainer](../MBlockContainer/README.md#_top)
+* DotMarkdown\.Linq\.[MBlockQuote](../MBlockQuote/README.md#_top)
+* DotMarkdown\.Linq\.[MBold](../MBold/README.md#_top)
+* DotMarkdown\.Linq\.[MBulletItem](../MBulletItem/README.md#_top)
+* DotMarkdown\.Linq\.[MBulletList](../MBulletList/README.md#_top)
+* DotMarkdown\.Linq\.[MComment](../MComment/README.md#_top)
+* DotMarkdown\.Linq\.[MContainer](../MContainer/README.md#_top)
+* DotMarkdown\.Linq\.[MDocument](../MDocument/README.md#_top)
+* DotMarkdown\.Linq\.[MEntityRef](../MEntityRef/README.md#_top)
+* DotMarkdown\.Linq\.[MFencedCodeBlock](../MFencedCodeBlock/README.md#_top)
+* DotMarkdown\.Linq\.[MHeading](../MHeading/README.md#_top)
+* DotMarkdown\.Linq\.[MHorizontalRule](../MHorizontalRule/README.md#_top)
+* DotMarkdown\.Linq\.[MCharEntity](../MCharEntity/README.md#_top)
+* DotMarkdown\.Linq\.[MImage](../MImage/README.md#_top)
+* DotMarkdown\.Linq\.[MIndentedCodeBlock](../MIndentedCodeBlock/README.md#_top)
+* DotMarkdown\.Linq\.[MInline](../MInline/README.md#_top)
+* DotMarkdown\.Linq\.[MInlineCode](../MInlineCode/README.md#_top)
+* DotMarkdown\.Linq\.[MItalic](../MItalic/README.md#_top)
+* DotMarkdown\.Linq\.[MLabel](../MLabel/README.md#_top)
+* DotMarkdown\.Linq\.[MLink](../MLink/README.md#_top)
+* DotMarkdown\.Linq\.[MList](../MList/README.md#_top)
+* DotMarkdown\.Linq\.[MOrderedItem](../MOrderedItem/README.md#_top)
+* DotMarkdown\.Linq\.[MOrderedList](../MOrderedList/README.md#_top)
+* DotMarkdown\.Linq\.[MRaw](../MRaw/README.md#_top)
+* DotMarkdown\.Linq\.[MStrikethrough](../MStrikethrough/README.md#_top)
+* DotMarkdown\.Linq\.[MTable](../MTable/README.md#_top)
+* DotMarkdown\.Linq\.[MTableColumn](../MTableColumn/README.md#_top)
+* DotMarkdown\.Linq\.[MTableRow](../MTableRow/README.md#_top)
+* DotMarkdown\.Linq\.[MTaskItem](../MTaskItem/README.md#_top)
+* DotMarkdown\.Linq\.[MTaskList](../MTaskList/README.md#_top)
+* DotMarkdown\.Linq\.[MText](../MText/README.md#_top)

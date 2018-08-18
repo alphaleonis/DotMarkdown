@@ -1,8 +1,8 @@
 # MBold Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBold](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MBold](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,13 +15,13 @@
 | [MBold(Object)](#DotMarkdown_Linq_MBold__ctor_System_Object_) | |
 | [MBold(Object\[\])](#DotMarkdown_Linq_MBold__ctor_System_Object___) | |
 
-## MBold\(\)<a name="DotMarkdown_Linq_MBold__ctor"></a>
+## MBold\(\) <a name="DotMarkdown_Linq_MBold__ctor"></a>
 
 ```csharp
 public MBold()
 ```
 
-## MBold\(MBold\)<a name="DotMarkdown_Linq_MBold__ctor_DotMarkdown_Linq_MBold_"></a>
+## MBold\(MBold\) <a name="DotMarkdown_Linq_MBold__ctor_DotMarkdown_Linq_MBold_"></a>
 
 ```csharp
 public MBold(MBold other)
@@ -31,7 +31,7 @@ public MBold(MBold other)
 
 #### other
 
-## MBold\(Object\)<a name="DotMarkdown_Linq_MBold__ctor_System_Object_"></a>
+## MBold\(Object\) <a name="DotMarkdown_Linq_MBold__ctor_System_Object_"></a>
 
 ```csharp
 public MBold(object content)
@@ -41,7 +41,7 @@ public MBold(object content)
 
 #### content
 
-## MBold\(Object\[\]\)<a name="DotMarkdown_Linq_MBold__ctor_System_Object___"></a>
+## MBold\(Object\[\]\) <a name="DotMarkdown_Linq_MBold__ctor_System_Object___"></a>
 
 ```csharp
 public MBold(params object[] content)

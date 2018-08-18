@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MarkdownWriter\.Dispose Method
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[MarkdownWriter](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +15,7 @@
 | [Dispose()](#DotMarkdown_MarkdownWriter_Dispose) |  \(Implements [IDisposable.Dispose](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)\) |
 | [Dispose(Boolean)](#DotMarkdown_MarkdownWriter_Dispose_System_Boolean_) | |
 
-## Dispose\(\)<a name="DotMarkdown_MarkdownWriter_Dispose"></a>
+## Dispose\(\) <a name="DotMarkdown_MarkdownWriter_Dispose"></a>
 
 ```csharp
 public void Dispose()
@@ -23,7 +25,7 @@ public void Dispose()
 
 * [IDisposable.Dispose](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)
 
-## Dispose\(Boolean\)<a name="DotMarkdown_MarkdownWriter_Dispose_System_Boolean_"></a>
+## Dispose\(Boolean\) <a name="DotMarkdown_MarkdownWriter_Dispose_System_Boolean_"></a>
 
 ```csharp
 protected virtual void Dispose(bool disposing)

@@ -1,8 +1,8 @@
 # MContainer Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MContainer](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,13 +15,13 @@
 | [MContainer(Object)](#DotMarkdown_Linq_MContainer__ctor_System_Object_) | |
 | [MContainer(Object\[\])](#DotMarkdown_Linq_MContainer__ctor_System_Object___) | |
 
-## MContainer\(\)<a name="DotMarkdown_Linq_MContainer__ctor"></a>
+## MContainer\(\) <a name="DotMarkdown_Linq_MContainer__ctor"></a>
 
 ```csharp
 protected MContainer()
 ```
 
-## MContainer\(MContainer\)<a name="DotMarkdown_Linq_MContainer__ctor_DotMarkdown_Linq_MContainer_"></a>
+## MContainer\(MContainer\) <a name="DotMarkdown_Linq_MContainer__ctor_DotMarkdown_Linq_MContainer_"></a>
 
 ```csharp
 protected MContainer(MContainer other)
@@ -31,7 +31,7 @@ protected MContainer(MContainer other)
 
 #### other
 
-## MContainer\(Object\)<a name="DotMarkdown_Linq_MContainer__ctor_System_Object_"></a>
+## MContainer\(Object\) <a name="DotMarkdown_Linq_MContainer__ctor_System_Object_"></a>
 
 ```csharp
 protected MContainer(object content)
@@ -41,7 +41,7 @@ protected MContainer(object content)
 
 #### content
 
-## MContainer\(Object\[\]\)<a name="DotMarkdown_Linq_MContainer__ctor_System_Object___"></a>
+## MContainer\(Object\[\]\) <a name="DotMarkdown_Linq_MContainer__ctor_System_Object___"></a>
 
 ```csharp
 protected MContainer(params object[] content)

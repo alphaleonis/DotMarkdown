@@ -1,8 +1,8 @@
 # MRaw Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MRaw](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MRaw](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +13,7 @@
 | [MRaw(MRaw)](#DotMarkdown_Linq_MRaw__ctor_DotMarkdown_Linq_MRaw_) | |
 | [MRaw(String)](#DotMarkdown_Linq_MRaw__ctor_System_String_) | |
 
-## MRaw\(MRaw\)<a name="DotMarkdown_Linq_MRaw__ctor_DotMarkdown_Linq_MRaw_"></a>
+## MRaw\(MRaw\) <a name="DotMarkdown_Linq_MRaw__ctor_DotMarkdown_Linq_MRaw_"></a>
 
 ```csharp
 public MRaw(MRaw other)
@@ -23,7 +23,7 @@ public MRaw(MRaw other)
 
 #### other
 
-## MRaw\(String\)<a name="DotMarkdown_Linq_MRaw__ctor_System_String_"></a>
+## MRaw\(String\) <a name="DotMarkdown_Linq_MRaw__ctor_System_String_"></a>
 
 ```csharp
 public MRaw(string value)

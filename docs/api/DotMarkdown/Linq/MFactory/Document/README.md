@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.Document Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +17,7 @@
 | [Document(Object)](#DotMarkdown_Linq_MFactory_Document_System_Object_) | |
 | [Document(Object\[\])](#DotMarkdown_Linq_MFactory_Document_System_Object___) | |
 
-## Document\(\)<a name="DotMarkdown_Linq_MFactory_Document"></a>
+## Document\(\) <a name="DotMarkdown_Linq_MFactory_Document"></a>
 
 ```csharp
 public static MDocument Document()
@@ -23,9 +25,9 @@ public static MDocument Document()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md)
+DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md#_top)
 
-## Document\(MDocument\)<a name="DotMarkdown_Linq_MFactory_Document_DotMarkdown_Linq_MDocument_"></a>
+## Document\(MDocument\) <a name="DotMarkdown_Linq_MFactory_Document_DotMarkdown_Linq_MDocument_"></a>
 
 ```csharp
 public static MDocument Document(MDocument other)
@@ -37,9 +39,9 @@ public static MDocument Document(MDocument other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md)
+DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md#_top)
 
-## Document\(Object\)<a name="DotMarkdown_Linq_MFactory_Document_System_Object_"></a>
+## Document\(Object\) <a name="DotMarkdown_Linq_MFactory_Document_System_Object_"></a>
 
 ```csharp
 public static MDocument Document(object content)
@@ -51,9 +53,9 @@ public static MDocument Document(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md)
+DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md#_top)
 
-## Document\(Object\[\]\)<a name="DotMarkdown_Linq_MFactory_Document_System_Object___"></a>
+## Document\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Document_System_Object___"></a>
 
 ```csharp
 public static MDocument Document(params object[] content)
@@ -65,5 +67,5 @@ public static MDocument Document(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md)
+DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md#_top)
 

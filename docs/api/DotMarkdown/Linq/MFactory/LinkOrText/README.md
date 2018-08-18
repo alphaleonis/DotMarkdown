@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.LinkOrText\(String, String, String\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -20,5 +22,5 @@ public static MElement LinkOrText(string text, string url, string title = null)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MElement](../../MElement/README.md)
+DotMarkdown\.Linq\.[MElement](../../MElement/README.md#_top)
 

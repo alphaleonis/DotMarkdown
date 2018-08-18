@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.Join Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +15,7 @@
 | [Join(Object, IEnumerable\<Object>)](#DotMarkdown_Linq_MFactory_Join_System_Object_System_Collections_Generic_IEnumerable_System_Object__) | |
 | [Join(Object, Object\[\])](#DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___) | |
 
-## Join\(Object, IEnumerable\<Object>\)<a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Collections_Generic_IEnumerable_System_Object__"></a>
+## Join\(Object, IEnumerable\<Object>\) <a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Collections_Generic_IEnumerable_System_Object__"></a>
 
 ```csharp
 public static MInline Join(object separator, IEnumerable<object> values)
@@ -27,9 +29,9 @@ public static MInline Join(object separator, IEnumerable<object> values)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
+DotMarkdown\.Linq\.[MInline](../../MInline/README.md#_top)
 
-## Join\(Object, Object\[\]\)<a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___"></a>
+## Join\(Object, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___"></a>
 
 ```csharp
 public static MInline Join(object separator, params object[] values)
@@ -43,5 +45,5 @@ public static MInline Join(object separator, params object[] values)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
+DotMarkdown\.Linq\.[MInline](../../MInline/README.md#_top)
 

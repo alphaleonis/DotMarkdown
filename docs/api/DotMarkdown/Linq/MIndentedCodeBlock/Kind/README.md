@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MIndentedCodeBlock\.Kind Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MIndentedCodeBlock](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MIndentedCodeBlock](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +14,5 @@ public override MarkdownKind Kind { get; }
 
 ### Property Value
 
-DotMarkdown\.[MarkdownKind](../../../MarkdownKind/README.md)
+DotMarkdown\.[MarkdownKind](../../../MarkdownKind/README.md#_top)
 

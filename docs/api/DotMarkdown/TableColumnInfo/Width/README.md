@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # TableColumnInfo\.Width Property
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[TableColumnInfo](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

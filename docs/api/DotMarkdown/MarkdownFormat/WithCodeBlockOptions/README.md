@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MarkdownFormat\.WithCodeBlockOptions\(CodeBlockOptions\) Method
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[MarkdownFormat](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -16,5 +18,5 @@ public MarkdownFormat WithCodeBlockOptions(CodeBlockOptions codeBlockOptions)
 
 ### Returns
 
-DotMarkdown\.[MarkdownFormat](../README.md)
+DotMarkdown\.[MarkdownFormat](../README.md#_top)
 

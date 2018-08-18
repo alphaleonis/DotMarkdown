@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MElement\.Save Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MElement](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MElement](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +17,7 @@
 | [Save(String, MarkdownFormat)](#DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_) | |
 | [Save(TextWriter, MarkdownFormat)](#DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_) | |
 
-## Save\(MarkdownWriter\)<a name="DotMarkdown_Linq_MElement_Save_DotMarkdown_MarkdownWriter_"></a>
+## Save\(MarkdownWriter\) <a name="DotMarkdown_Linq_MElement_Save_DotMarkdown_MarkdownWriter_"></a>
 
 ```csharp
 public void Save(MarkdownWriter writer)
@@ -25,7 +27,7 @@ public void Save(MarkdownWriter writer)
 
 #### writer
 
-## Save\(Stream, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_"></a>
+## Save\(Stream, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
 public void Save(Stream stream, MarkdownFormat format = null)
@@ -37,7 +39,7 @@ public void Save(Stream stream, MarkdownFormat format = null)
 
 #### format
 
-## Save\(String, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_"></a>
+## Save\(String, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
 public void Save(string fileName, MarkdownFormat format = null)
@@ -49,7 +51,7 @@ public void Save(string fileName, MarkdownFormat format = null)
 
 #### format
 
-## Save\(TextWriter, MarkdownFormat\)<a name="DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_"></a>
+## Save\(TextWriter, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
 public void Save(TextWriter writer, MarkdownFormat format = null)

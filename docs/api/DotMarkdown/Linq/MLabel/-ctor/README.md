@@ -1,8 +1,8 @@
 # MLabel Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MLabel](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MLabel](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +13,7 @@
 | [MLabel(MLabel)](#DotMarkdown_Linq_MLabel__ctor_DotMarkdown_Linq_MLabel_) | |
 | [MLabel(String, String, String)](#DotMarkdown_Linq_MLabel__ctor_System_String_System_String_System_String_) | |
 
-## MLabel\(MLabel\)<a name="DotMarkdown_Linq_MLabel__ctor_DotMarkdown_Linq_MLabel_"></a>
+## MLabel\(MLabel\) <a name="DotMarkdown_Linq_MLabel__ctor_DotMarkdown_Linq_MLabel_"></a>
 
 ```csharp
 public MLabel(MLabel other)
@@ -23,7 +23,7 @@ public MLabel(MLabel other)
 
 #### other
 
-## MLabel\(String, String, String\)<a name="DotMarkdown_Linq_MLabel__ctor_System_String_System_String_System_String_"></a>
+## MLabel\(String, String, String\) <a name="DotMarkdown_Linq_MLabel__ctor_System_String_System_String_System_String_"></a>
 
 ```csharp
 public MLabel(string text, string url, string title = null)

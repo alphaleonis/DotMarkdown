@@ -1,8 +1,8 @@
 # MBulletItem Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBulletItem](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MBulletItem](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,13 +15,13 @@
 | [MBulletItem(Object)](#DotMarkdown_Linq_MBulletItem__ctor_System_Object_) | |
 | [MBulletItem(Object\[\])](#DotMarkdown_Linq_MBulletItem__ctor_System_Object___) | |
 
-## MBulletItem\(\)<a name="DotMarkdown_Linq_MBulletItem__ctor"></a>
+## MBulletItem\(\) <a name="DotMarkdown_Linq_MBulletItem__ctor"></a>
 
 ```csharp
 public MBulletItem()
 ```
 
-## MBulletItem\(MBulletItem\)<a name="DotMarkdown_Linq_MBulletItem__ctor_DotMarkdown_Linq_MBulletItem_"></a>
+## MBulletItem\(MBulletItem\) <a name="DotMarkdown_Linq_MBulletItem__ctor_DotMarkdown_Linq_MBulletItem_"></a>
 
 ```csharp
 public MBulletItem(MBulletItem other)
@@ -31,7 +31,7 @@ public MBulletItem(MBulletItem other)
 
 #### other
 
-## MBulletItem\(Object\)<a name="DotMarkdown_Linq_MBulletItem__ctor_System_Object_"></a>
+## MBulletItem\(Object\) <a name="DotMarkdown_Linq_MBulletItem__ctor_System_Object_"></a>
 
 ```csharp
 public MBulletItem(object content)
@@ -41,7 +41,7 @@ public MBulletItem(object content)
 
 #### content
 
-## MBulletItem\(Object\[\]\)<a name="DotMarkdown_Linq_MBulletItem__ctor_System_Object___"></a>
+## MBulletItem\(Object\[\]\) <a name="DotMarkdown_Linq_MBulletItem__ctor_System_Object___"></a>
 
 ```csharp
 public MBulletItem(params object[] content)

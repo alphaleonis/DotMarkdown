@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MarkdownWriterSettings\.WithNewLineChars\(String\) Method
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriterSettings](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[MarkdownWriterSettings](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -16,5 +18,5 @@ public MarkdownWriterSettings WithNewLineChars(string newLineChars)
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriterSettings](../README.md)
+DotMarkdown\.[MarkdownWriterSettings](../README.md#_top)
 

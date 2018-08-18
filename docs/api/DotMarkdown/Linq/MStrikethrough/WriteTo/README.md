@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MStrikethrough\.WriteTo\(MarkdownWriter\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MStrikethrough](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MStrikethrough](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

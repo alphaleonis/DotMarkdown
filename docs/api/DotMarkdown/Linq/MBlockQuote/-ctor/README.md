@@ -1,8 +1,8 @@
 # MBlockQuote Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MBlockQuote](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MBlockQuote](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,13 +15,13 @@
 | [MBlockQuote(Object)](#DotMarkdown_Linq_MBlockQuote__ctor_System_Object_) | |
 | [MBlockQuote(Object\[\])](#DotMarkdown_Linq_MBlockQuote__ctor_System_Object___) | |
 
-## MBlockQuote\(\)<a name="DotMarkdown_Linq_MBlockQuote__ctor"></a>
+## MBlockQuote\(\) <a name="DotMarkdown_Linq_MBlockQuote__ctor"></a>
 
 ```csharp
 public MBlockQuote()
 ```
 
-## MBlockQuote\(MBlockQuote\)<a name="DotMarkdown_Linq_MBlockQuote__ctor_DotMarkdown_Linq_MBlockQuote_"></a>
+## MBlockQuote\(MBlockQuote\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_DotMarkdown_Linq_MBlockQuote_"></a>
 
 ```csharp
 public MBlockQuote(MBlockQuote other)
@@ -31,7 +31,7 @@ public MBlockQuote(MBlockQuote other)
 
 #### other
 
-## MBlockQuote\(Object\)<a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object_"></a>
+## MBlockQuote\(Object\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object_"></a>
 
 ```csharp
 public MBlockQuote(object content)
@@ -41,7 +41,7 @@ public MBlockQuote(object content)
 
 #### content
 
-## MBlockQuote\(Object\[\]\)<a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object___"></a>
+## MBlockQuote\(Object\[\]\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object___"></a>
 
 ```csharp
 public MBlockQuote(params object[] content)

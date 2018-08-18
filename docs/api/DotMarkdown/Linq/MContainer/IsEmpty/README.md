@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MContainer\.IsEmpty Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MContainer](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

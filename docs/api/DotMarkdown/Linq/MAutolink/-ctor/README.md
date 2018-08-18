@@ -1,8 +1,8 @@
 # MAutolink Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MAutolink](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MAutolink](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +13,7 @@
 | [MAutolink(MAutolink)](#DotMarkdown_Linq_MAutolink__ctor_DotMarkdown_Linq_MAutolink_) | |
 | [MAutolink(String)](#DotMarkdown_Linq_MAutolink__ctor_System_String_) | |
 
-## MAutolink\(MAutolink\)<a name="DotMarkdown_Linq_MAutolink__ctor_DotMarkdown_Linq_MAutolink_"></a>
+## MAutolink\(MAutolink\) <a name="DotMarkdown_Linq_MAutolink__ctor_DotMarkdown_Linq_MAutolink_"></a>
 
 ```csharp
 public MAutolink(MAutolink other)
@@ -23,7 +23,7 @@ public MAutolink(MAutolink other)
 
 #### other
 
-## MAutolink\(String\)<a name="DotMarkdown_Linq_MAutolink__ctor_System_String_"></a>
+## MAutolink\(String\) <a name="DotMarkdown_Linq_MAutolink__ctor_System_String_"></a>
 
 ```csharp
 public MAutolink(string url)

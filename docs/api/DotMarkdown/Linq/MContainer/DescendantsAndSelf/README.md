@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MContainer\.DescendantsAndSelf\(\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MContainer](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MContainer](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +14,5 @@ public IEnumerable<MElement> DescendantsAndSelf()
 
 ### Returns
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<DotMarkdown\.Linq\.[MElement](../../MElement/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<DotMarkdown\.Linq\.[MElement](../../MElement/README.md#_top)>
 

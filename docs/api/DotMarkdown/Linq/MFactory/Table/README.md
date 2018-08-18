@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.Table Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +17,7 @@
 | [Table(Object)](#DotMarkdown_Linq_MFactory_Table_System_Object_) | |
 | [Table(Object\[\])](#DotMarkdown_Linq_MFactory_Table_System_Object___) | |
 
-## Table\(\)<a name="DotMarkdown_Linq_MFactory_Table"></a>
+## Table\(\) <a name="DotMarkdown_Linq_MFactory_Table"></a>
 
 ```csharp
 public static MTable Table()
@@ -23,9 +25,9 @@ public static MTable Table()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+DotMarkdown\.Linq\.[MTable](../../MTable/README.md#_top)
 
-## Table\(MTable\)<a name="DotMarkdown_Linq_MFactory_Table_DotMarkdown_Linq_MTable_"></a>
+## Table\(MTable\) <a name="DotMarkdown_Linq_MFactory_Table_DotMarkdown_Linq_MTable_"></a>
 
 ```csharp
 public static MTable Table(MTable other)
@@ -37,9 +39,9 @@ public static MTable Table(MTable other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+DotMarkdown\.Linq\.[MTable](../../MTable/README.md#_top)
 
-## Table\(Object\)<a name="DotMarkdown_Linq_MFactory_Table_System_Object_"></a>
+## Table\(Object\) <a name="DotMarkdown_Linq_MFactory_Table_System_Object_"></a>
 
 ```csharp
 public static MTable Table(object content)
@@ -51,9 +53,9 @@ public static MTable Table(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+DotMarkdown\.Linq\.[MTable](../../MTable/README.md#_top)
 
-## Table\(Object\[\]\)<a name="DotMarkdown_Linq_MFactory_Table_System_Object___"></a>
+## Table\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Table_System_Object___"></a>
 
 ```csharp
 public static MTable Table(params object[] content)
@@ -65,5 +67,5 @@ public static MTable Table(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+DotMarkdown\.Linq\.[MTable](../../MTable/README.md#_top)
 

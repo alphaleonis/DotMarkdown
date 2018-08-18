@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.Inline Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +17,7 @@
 | [Inline(Object)](#DotMarkdown_Linq_MFactory_Inline_System_Object_) | |
 | [Inline(Object\[\])](#DotMarkdown_Linq_MFactory_Inline_System_Object___) | |
 
-## Inline\(\)<a name="DotMarkdown_Linq_MFactory_Inline"></a>
+## Inline\(\) <a name="DotMarkdown_Linq_MFactory_Inline"></a>
 
 ```csharp
 public static MInline Inline()
@@ -23,9 +25,9 @@ public static MInline Inline()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
+DotMarkdown\.Linq\.[MInline](../../MInline/README.md#_top)
 
-## Inline\(MInline\)<a name="DotMarkdown_Linq_MFactory_Inline_DotMarkdown_Linq_MInline_"></a>
+## Inline\(MInline\) <a name="DotMarkdown_Linq_MFactory_Inline_DotMarkdown_Linq_MInline_"></a>
 
 ```csharp
 public static MInline Inline(MInline other)
@@ -37,9 +39,9 @@ public static MInline Inline(MInline other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
+DotMarkdown\.Linq\.[MInline](../../MInline/README.md#_top)
 
-## Inline\(Object\)<a name="DotMarkdown_Linq_MFactory_Inline_System_Object_"></a>
+## Inline\(Object\) <a name="DotMarkdown_Linq_MFactory_Inline_System_Object_"></a>
 
 ```csharp
 public static MInline Inline(object content)
@@ -51,9 +53,9 @@ public static MInline Inline(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
+DotMarkdown\.Linq\.[MInline](../../MInline/README.md#_top)
 
-## Inline\(Object\[\]\)<a name="DotMarkdown_Linq_MFactory_Inline_System_Object___"></a>
+## Inline\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Inline_System_Object___"></a>
 
 ```csharp
 public static MInline Inline(params object[] content)
@@ -65,5 +67,5 @@ public static MInline Inline(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
+DotMarkdown\.Linq\.[MInline](../../MInline/README.md#_top)
 

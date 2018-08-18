@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MItalic\.WriteTo\(MarkdownWriter\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MItalic](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MItalic](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

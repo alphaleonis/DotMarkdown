@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MInline\.WriteTo\(MarkdownWriter\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MInline](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MInline](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory Class
 
-[Home](../../../README.md) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Methods](#methods)
 
-**Namespace**: [DotMarkdown.Linq](../README.md)
+**Namespace**: [DotMarkdown.Linq](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,7 +16,7 @@ public static class MFactory
 
 | Method | Summary |
 | ------ | ------- |
-| [Ampersand()](Ampersand/README.md) | |
+| [Ampersand()](Ampersand/README.md#_top) | |
 | [Autolink(MAutolink)](Autolink/README.md#DotMarkdown_Linq_MFactory_Autolink_DotMarkdown_Linq_MAutolink_) | |
 | [Autolink(String)](Autolink/README.md#DotMarkdown_Linq_MFactory_Autolink_System_String_) | |
 | [BlockQuote()](BlockQuote/README.md#DotMarkdown_Linq_MFactory_BlockQuote) | |
@@ -40,12 +42,12 @@ public static class MFactory
 | [Document(MDocument)](Document/README.md#DotMarkdown_Linq_MFactory_Document_DotMarkdown_Linq_MDocument_) | |
 | [Document(Object)](Document/README.md#DotMarkdown_Linq_MFactory_Document_System_Object_) | |
 | [Document(Object\[\])](Document/README.md#DotMarkdown_Linq_MFactory_Document_System_Object___) | |
-| [DoubleQuote()](DoubleQuote/README.md) | |
+| [DoubleQuote()](DoubleQuote/README.md#_top) | |
 | [EntityRef(MEntityRef)](EntityRef/README.md#DotMarkdown_Linq_MFactory_EntityRef_DotMarkdown_Linq_MEntityRef_) | |
 | [EntityRef(String)](EntityRef/README.md#DotMarkdown_Linq_MFactory_EntityRef_System_String_) | |
 | [FencedCodeBlock(MFencedCodeBlock)](FencedCodeBlock/README.md#DotMarkdown_Linq_MFactory_FencedCodeBlock_DotMarkdown_Linq_MFencedCodeBlock_) | |
 | [FencedCodeBlock(String, String)](FencedCodeBlock/README.md#DotMarkdown_Linq_MFactory_FencedCodeBlock_System_String_System_String_) | |
-| [GreaterThan()](GreaterThan/README.md) | |
+| [GreaterThan()](GreaterThan/README.md#_top) | |
 | [Heading(Int32)](Heading/README.md#DotMarkdown_Linq_MFactory_Heading_System_Int32_) | |
 | [Heading(Int32, Object)](Heading/README.md#DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object_) | |
 | [Heading(Int32, Object\[\])](Heading/README.md#DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object___) | |
@@ -89,12 +91,12 @@ public static class MFactory
 | [Italic(Object\[\])](Italic/README.md#DotMarkdown_Linq_MFactory_Italic_System_Object___) | |
 | [Join(Object, IEnumerable\<Object>)](Join/README.md#DotMarkdown_Linq_MFactory_Join_System_Object_System_Collections_Generic_IEnumerable_System_Object__) | |
 | [Join(Object, Object\[\])](Join/README.md#DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___) | |
-| [LessThan()](LessThan/README.md) | |
+| [LessThan()](LessThan/README.md#_top) | |
 | [Link(MLink)](Link/README.md#DotMarkdown_Linq_MFactory_Link_DotMarkdown_Linq_MLink_) | |
 | [Link(Object, String, String)](Link/README.md#DotMarkdown_Linq_MFactory_Link_System_Object_System_String_System_String_) | |
-| [LinkOrAutolink(String, String, String)](LinkOrAutolink/README.md) | |
-| [LinkOrText(String, String, String)](LinkOrText/README.md) | |
-| [NonBreakingSpace()](NonBreakingSpace/README.md) | |
+| [LinkOrAutolink(String, String, String)](LinkOrAutolink/README.md#_top) | |
+| [LinkOrText(String, String, String)](LinkOrText/README.md#_top) | |
+| [NonBreakingSpace()](NonBreakingSpace/README.md#_top) | |
 | [OrderedItem(Int32)](OrderedItem/README.md#DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_) | |
 | [OrderedItem(Int32, Object)](OrderedItem/README.md#DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_System_Object_) | |
 | [OrderedItem(Int32, Object\[\])](OrderedItem/README.md#DotMarkdown_Linq_MFactory_OrderedItem_System_Int32_System_Object___) | |
@@ -105,7 +107,7 @@ public static class MFactory
 | [OrderedList(Object\[\])](OrderedList/README.md#DotMarkdown_Linq_MFactory_OrderedList_System_Object___) | |
 | [Raw(MRaw)](Raw/README.md#DotMarkdown_Linq_MFactory_Raw_DotMarkdown_Linq_MRaw_) | |
 | [Raw(String)](Raw/README.md#DotMarkdown_Linq_MFactory_Raw_System_String_) | |
-| [SingleQuote()](SingleQuote/README.md) | |
+| [SingleQuote()](SingleQuote/README.md#_top) | |
 | [Strikethrough()](Strikethrough/README.md#DotMarkdown_Linq_MFactory_Strikethrough) | |
 | [Strikethrough(MStrikethrough)](Strikethrough/README.md#DotMarkdown_Linq_MFactory_Strikethrough_DotMarkdown_Linq_MStrikethrough_) | |
 | [Strikethrough(Object)](Strikethrough/README.md#DotMarkdown_Linq_MFactory_Strikethrough_System_Object_) | |

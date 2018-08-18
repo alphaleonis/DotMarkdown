@@ -12,7 +12,7 @@
 
 ## Documentation
 
-* [DotMarkdown API Reference](docs/api/README.md)
+* [DotMarkdown API Reference](docs/api/README.md#_top)
 
 ## Usage 
 

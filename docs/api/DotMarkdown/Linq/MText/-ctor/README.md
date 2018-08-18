@@ -1,8 +1,8 @@
 # MText Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MText](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MText](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +13,7 @@
 | [MText(MText)](#DotMarkdown_Linq_MText__ctor_DotMarkdown_Linq_MText_) | |
 | [MText(String)](#DotMarkdown_Linq_MText__ctor_System_String_) | |
 
-## MText\(MText\)<a name="DotMarkdown_Linq_MText__ctor_DotMarkdown_Linq_MText_"></a>
+## MText\(MText\) <a name="DotMarkdown_Linq_MText__ctor_DotMarkdown_Linq_MText_"></a>
 
 ```csharp
 public MText(MText other)
@@ -23,7 +23,7 @@ public MText(MText other)
 
 #### other
 
-## MText\(String\)<a name="DotMarkdown_Linq_MText__ctor_System_String_"></a>
+## MText\(String\) <a name="DotMarkdown_Linq_MText__ctor_System_String_"></a>
 
 ```csharp
 public MText(string value)

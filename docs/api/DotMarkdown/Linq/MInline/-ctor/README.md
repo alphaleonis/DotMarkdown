@@ -1,8 +1,8 @@
 # MInline Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MInline](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MInline](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,13 +15,13 @@
 | [MInline(Object)](#DotMarkdown_Linq_MInline__ctor_System_Object_) | |
 | [MInline(Object\[\])](#DotMarkdown_Linq_MInline__ctor_System_Object___) | |
 
-## MInline\(\)<a name="DotMarkdown_Linq_MInline__ctor"></a>
+## MInline\(\) <a name="DotMarkdown_Linq_MInline__ctor"></a>
 
 ```csharp
 public MInline()
 ```
 
-## MInline\(MContainer\)<a name="DotMarkdown_Linq_MInline__ctor_DotMarkdown_Linq_MContainer_"></a>
+## MInline\(MContainer\) <a name="DotMarkdown_Linq_MInline__ctor_DotMarkdown_Linq_MContainer_"></a>
 
 ```csharp
 public MInline(MContainer other)
@@ -31,7 +31,7 @@ public MInline(MContainer other)
 
 #### other
 
-## MInline\(Object\)<a name="DotMarkdown_Linq_MInline__ctor_System_Object_"></a>
+## MInline\(Object\) <a name="DotMarkdown_Linq_MInline__ctor_System_Object_"></a>
 
 ```csharp
 public MInline(object content)
@@ -41,7 +41,7 @@ public MInline(object content)
 
 #### content
 
-## MInline\(Object\[\]\)<a name="DotMarkdown_Linq_MInline__ctor_System_Object___"></a>
+## MInline\(Object\[\]\) <a name="DotMarkdown_Linq_MInline__ctor_System_Object___"></a>
 
 ```csharp
 public MInline(params object[] content)

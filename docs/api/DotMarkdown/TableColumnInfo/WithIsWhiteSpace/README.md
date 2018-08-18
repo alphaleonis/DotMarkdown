@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # TableColumnInfo\.WithIsWhiteSpace\(Boolean\) Method
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[TableColumnInfo](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[TableColumnInfo](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -16,5 +18,5 @@ public TableColumnInfo WithIsWhiteSpace(bool isWhiteSpace)
 
 ### Returns
 
-DotMarkdown\.[TableColumnInfo](../README.md)
+DotMarkdown\.[TableColumnInfo](../README.md#_top)
 

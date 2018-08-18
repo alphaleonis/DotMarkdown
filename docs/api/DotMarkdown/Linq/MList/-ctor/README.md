@@ -1,8 +1,8 @@
 # MList Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MList](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MList](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,13 +15,13 @@
 | [MList(Object)](#DotMarkdown_Linq_MList__ctor_System_Object_) | |
 | [MList(Object\[\])](#DotMarkdown_Linq_MList__ctor_System_Object___) | |
 
-## MList\(\)<a name="DotMarkdown_Linq_MList__ctor"></a>
+## MList\(\) <a name="DotMarkdown_Linq_MList__ctor"></a>
 
 ```csharp
 protected MList()
 ```
 
-## MList\(MList\)<a name="DotMarkdown_Linq_MList__ctor_DotMarkdown_Linq_MList_"></a>
+## MList\(MList\) <a name="DotMarkdown_Linq_MList__ctor_DotMarkdown_Linq_MList_"></a>
 
 ```csharp
 protected MList(MList other)
@@ -31,7 +31,7 @@ protected MList(MList other)
 
 #### other
 
-## MList\(Object\)<a name="DotMarkdown_Linq_MList__ctor_System_Object_"></a>
+## MList\(Object\) <a name="DotMarkdown_Linq_MList__ctor_System_Object_"></a>
 
 ```csharp
 protected MList(object content)
@@ -41,7 +41,7 @@ protected MList(object content)
 
 #### content
 
-## MList\(Object\[\]\)<a name="DotMarkdown_Linq_MList__ctor_System_Object___"></a>
+## MList\(Object\[\]\) <a name="DotMarkdown_Linq_MList__ctor_System_Object___"></a>
 
 ```csharp
 protected MList(params object[] content)

@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.Bold Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +17,7 @@
 | [Bold(Object)](#DotMarkdown_Linq_MFactory_Bold_System_Object_) | |
 | [Bold(Object\[\])](#DotMarkdown_Linq_MFactory_Bold_System_Object___) | |
 
-## Bold\(\)<a name="DotMarkdown_Linq_MFactory_Bold"></a>
+## Bold\(\) <a name="DotMarkdown_Linq_MFactory_Bold"></a>
 
 ```csharp
 public static MBold Bold()
@@ -23,9 +25,9 @@ public static MBold Bold()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+DotMarkdown\.Linq\.[MBold](../../MBold/README.md#_top)
 
-## Bold\(MBold\)<a name="DotMarkdown_Linq_MFactory_Bold_DotMarkdown_Linq_MBold_"></a>
+## Bold\(MBold\) <a name="DotMarkdown_Linq_MFactory_Bold_DotMarkdown_Linq_MBold_"></a>
 
 ```csharp
 public static MBold Bold(MBold other)
@@ -37,9 +39,9 @@ public static MBold Bold(MBold other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+DotMarkdown\.Linq\.[MBold](../../MBold/README.md#_top)
 
-## Bold\(Object\)<a name="DotMarkdown_Linq_MFactory_Bold_System_Object_"></a>
+## Bold\(Object\) <a name="DotMarkdown_Linq_MFactory_Bold_System_Object_"></a>
 
 ```csharp
 public static MBold Bold(object content)
@@ -51,9 +53,9 @@ public static MBold Bold(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+DotMarkdown\.Linq\.[MBold](../../MBold/README.md#_top)
 
-## Bold\(Object\[\]\)<a name="DotMarkdown_Linq_MFactory_Bold_System_Object___"></a>
+## Bold\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Bold_System_Object___"></a>
 
 ```csharp
 public static MBold Bold(params object[] content)
@@ -65,5 +67,5 @@ public static MBold Bold(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+DotMarkdown\.Linq\.[MBold](../../MBold/README.md#_top)
 

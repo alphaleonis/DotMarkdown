@@ -1,8 +1,8 @@
 # MOrderedItem Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MOrderedItem](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MOrderedItem](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +15,7 @@
 | [MOrderedItem(Int32, Object\[\])](#DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object___) | |
 | [MOrderedItem(MOrderedItem)](#DotMarkdown_Linq_MOrderedItem__ctor_DotMarkdown_Linq_MOrderedItem_) | |
 
-## MOrderedItem\(Int32\)<a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_"></a>
+## MOrderedItem\(Int32\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_"></a>
 
 ```csharp
 public MOrderedItem(int number)
@@ -25,7 +25,7 @@ public MOrderedItem(int number)
 
 #### number
 
-## MOrderedItem\(Int32, Object\)<a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object_"></a>
+## MOrderedItem\(Int32, Object\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object_"></a>
 
 ```csharp
 public MOrderedItem(int number, object content)
@@ -37,7 +37,7 @@ public MOrderedItem(int number, object content)
 
 #### content
 
-## MOrderedItem\(Int32, Object\[\]\)<a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object___"></a>
+## MOrderedItem\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object___"></a>
 
 ```csharp
 public MOrderedItem(int number, params object[] content)
@@ -49,7 +49,7 @@ public MOrderedItem(int number, params object[] content)
 
 #### content
 
-## MOrderedItem\(MOrderedItem\)<a name="DotMarkdown_Linq_MOrderedItem__ctor_DotMarkdown_Linq_MOrderedItem_"></a>
+## MOrderedItem\(MOrderedItem\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_DotMarkdown_Linq_MOrderedItem_"></a>
 
 ```csharp
 public MOrderedItem(MOrderedItem other)

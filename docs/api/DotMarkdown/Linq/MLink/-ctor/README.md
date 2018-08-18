@@ -1,8 +1,8 @@
 # MLink Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MLink](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MLink](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +13,7 @@
 | [MLink(MLink)](#DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_) | |
 | [MLink(Object, String, String)](#DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_) | |
 
-## MLink\(MLink\)<a name="DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_"></a>
+## MLink\(MLink\) <a name="DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_"></a>
 
 ```csharp
 public MLink(MLink other)
@@ -23,7 +23,7 @@ public MLink(MLink other)
 
 #### other
 
-## MLink\(Object, String, String\)<a name="DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_"></a>
+## MLink\(Object, String, String\) <a name="DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_"></a>
 
 ```csharp
 public MLink(object content, string url, string title = null)

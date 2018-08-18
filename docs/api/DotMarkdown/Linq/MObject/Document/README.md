@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MObject\.Document Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MObject](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MObject](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +14,5 @@ public MDocument Document { get; }
 
 ### Property Value
 
-DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md)
+DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md#_top)
 

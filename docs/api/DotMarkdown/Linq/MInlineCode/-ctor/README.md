@@ -1,8 +1,8 @@
 # MInlineCode Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MInlineCode](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MInlineCode](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +13,7 @@
 | [MInlineCode(MInlineCode)](#DotMarkdown_Linq_MInlineCode__ctor_DotMarkdown_Linq_MInlineCode_) | |
 | [MInlineCode(String)](#DotMarkdown_Linq_MInlineCode__ctor_System_String_) | |
 
-## MInlineCode\(MInlineCode\)<a name="DotMarkdown_Linq_MInlineCode__ctor_DotMarkdown_Linq_MInlineCode_"></a>
+## MInlineCode\(MInlineCode\) <a name="DotMarkdown_Linq_MInlineCode__ctor_DotMarkdown_Linq_MInlineCode_"></a>
 
 ```csharp
 public MInlineCode(MInlineCode other)
@@ -23,7 +23,7 @@ public MInlineCode(MInlineCode other)
 
 #### other
 
-## MInlineCode\(String\)<a name="DotMarkdown_Linq_MInlineCode__ctor_System_String_"></a>
+## MInlineCode\(String\) <a name="DotMarkdown_Linq_MInlineCode__ctor_System_String_"></a>
 
 ```csharp
 public MInlineCode(string text)

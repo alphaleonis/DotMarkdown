@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # HorizontalRuleFormat\.Style Property
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[HorizontalRuleFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[HorizontalRuleFormat](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +14,5 @@ public HorizontalRuleStyle Style { get; }
 
 ### Property Value
 
-DotMarkdown\.[HorizontalRuleStyle](../../HorizontalRuleStyle/README.md)
+DotMarkdown\.[HorizontalRuleStyle](../../HorizontalRuleStyle/README.md#_top)
 

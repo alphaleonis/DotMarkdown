@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.Autolink Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -13,7 +15,7 @@
 | [Autolink(MAutolink)](#DotMarkdown_Linq_MFactory_Autolink_DotMarkdown_Linq_MAutolink_) | |
 | [Autolink(String)](#DotMarkdown_Linq_MFactory_Autolink_System_String_) | |
 
-## Autolink\(MAutolink\)<a name="DotMarkdown_Linq_MFactory_Autolink_DotMarkdown_Linq_MAutolink_"></a>
+## Autolink\(MAutolink\) <a name="DotMarkdown_Linq_MFactory_Autolink_DotMarkdown_Linq_MAutolink_"></a>
 
 ```csharp
 public static MAutolink Autolink(MAutolink other)
@@ -25,9 +27,9 @@ public static MAutolink Autolink(MAutolink other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md)
+DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md#_top)
 
-## Autolink\(String\)<a name="DotMarkdown_Linq_MFactory_Autolink_System_String_"></a>
+## Autolink\(String\) <a name="DotMarkdown_Linq_MFactory_Autolink_System_String_"></a>
 
 ```csharp
 public static MAutolink Autolink(string url)
@@ -39,5 +41,5 @@ public static MAutolink Autolink(string url)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md)
+DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md#_top)
 

@@ -1,8 +1,8 @@
 # MItalic Constructors
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MItalic](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MItalic](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,13 +15,13 @@
 | [MItalic(Object)](#DotMarkdown_Linq_MItalic__ctor_System_Object_) | |
 | [MItalic(Object\[\])](#DotMarkdown_Linq_MItalic__ctor_System_Object___) | |
 
-## MItalic\(\)<a name="DotMarkdown_Linq_MItalic__ctor"></a>
+## MItalic\(\) <a name="DotMarkdown_Linq_MItalic__ctor"></a>
 
 ```csharp
 public MItalic()
 ```
 
-## MItalic\(MItalic\)<a name="DotMarkdown_Linq_MItalic__ctor_DotMarkdown_Linq_MItalic_"></a>
+## MItalic\(MItalic\) <a name="DotMarkdown_Linq_MItalic__ctor_DotMarkdown_Linq_MItalic_"></a>
 
 ```csharp
 public MItalic(MItalic other)
@@ -31,7 +31,7 @@ public MItalic(MItalic other)
 
 #### other
 
-## MItalic\(Object\)<a name="DotMarkdown_Linq_MItalic__ctor_System_Object_"></a>
+## MItalic\(Object\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object_"></a>
 
 ```csharp
 public MItalic(object content)
@@ -41,7 +41,7 @@ public MItalic(object content)
 
 #### content
 
-## MItalic\(Object\[\]\)<a name="DotMarkdown_Linq_MItalic__ctor_System_Object___"></a>
+## MItalic\(Object\[\]\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object___"></a>
 
 ```csharp
 public MItalic(params object[] content)

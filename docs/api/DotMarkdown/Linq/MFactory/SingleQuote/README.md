@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.SingleQuote\(\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +14,5 @@ public static MEntityRef SingleQuote()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
+DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md#_top)
 

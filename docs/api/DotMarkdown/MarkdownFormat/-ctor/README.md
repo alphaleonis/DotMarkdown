@@ -1,8 +1,8 @@
 # MarkdownFormat\(EmphasisStyle, EmphasisStyle, BulletListStyle, OrderedListStyle, HeadingStyle, HeadingOptions, TableOptions, CodeFenceStyle, CodeBlockOptions, CharEntityFormat, HorizontalRuleFormat?\) Constructor
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownFormat](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[MarkdownFormat](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

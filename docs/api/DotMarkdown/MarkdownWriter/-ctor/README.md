@@ -1,8 +1,8 @@
 # MarkdownWriter\(MarkdownWriterSettings\) Constructor
 
-[Home](../../../README.md)
+[Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md)\.[MarkdownWriter](../README.md)
+**Containing Type**: [DotMarkdown](../../README.md#_top)\.[MarkdownWriter](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

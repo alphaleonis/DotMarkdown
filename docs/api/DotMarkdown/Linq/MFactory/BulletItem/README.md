@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # MFactory\.BulletItem Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md)\.[MFactory](../README.md)
+**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MFactory](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -15,7 +17,7 @@
 | [BulletItem(Object)](#DotMarkdown_Linq_MFactory_BulletItem_System_Object_) | |
 | [BulletItem(Object\[\])](#DotMarkdown_Linq_MFactory_BulletItem_System_Object___) | |
 
-## BulletItem\(\)<a name="DotMarkdown_Linq_MFactory_BulletItem"></a>
+## BulletItem\(\) <a name="DotMarkdown_Linq_MFactory_BulletItem"></a>
 
 ```csharp
 public static MBulletItem BulletItem()
@@ -23,9 +25,9 @@ public static MBulletItem BulletItem()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBulletItem](../../MBulletItem/README.md)
+DotMarkdown\.Linq\.[MBulletItem](../../MBulletItem/README.md#_top)
 
-## BulletItem\(MBulletItem\)<a name="DotMarkdown_Linq_MFactory_BulletItem_DotMarkdown_Linq_MBulletItem_"></a>
+## BulletItem\(MBulletItem\) <a name="DotMarkdown_Linq_MFactory_BulletItem_DotMarkdown_Linq_MBulletItem_"></a>
 
 ```csharp
 public static MBulletItem BulletItem(MBulletItem other)
@@ -37,9 +39,9 @@ public static MBulletItem BulletItem(MBulletItem other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBulletItem](../../MBulletItem/README.md)
+DotMarkdown\.Linq\.[MBulletItem](../../MBulletItem/README.md#_top)
 
-## BulletItem\(Object\)<a name="DotMarkdown_Linq_MFactory_BulletItem_System_Object_"></a>
+## BulletItem\(Object\) <a name="DotMarkdown_Linq_MFactory_BulletItem_System_Object_"></a>
 
 ```csharp
 public static MBulletItem BulletItem(object content)
@@ -51,9 +53,9 @@ public static MBulletItem BulletItem(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBulletItem](../../MBulletItem/README.md)
+DotMarkdown\.Linq\.[MBulletItem](../../MBulletItem/README.md#_top)
 
-## BulletItem\(Object\[\]\)<a name="DotMarkdown_Linq_MFactory_BulletItem_System_Object___"></a>
+## BulletItem\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_BulletItem_System_Object___"></a>
 
 ```csharp
 public static MBulletItem BulletItem(params object[] content)
@@ -65,5 +67,5 @@ public static MBulletItem BulletItem(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBulletItem](../../MBulletItem/README.md)
+DotMarkdown\.Linq\.[MBulletItem](../../MBulletItem/README.md#_top)
 
