@@ -66,7 +66,7 @@ public abstract class MObject
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MDocument](../MDocument/README.md#_top)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MOrderedItem](../MOrderedItem/README.md#_top)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MTaskItem](../MTaskItem/README.md#_top)
-* \- \- \-
+* &mdash;&mdash;&mdash;&mdash;&mdash;
 * &emsp; \| &emsp; DotMarkdown\.Linq\.[MHeading](../MHeading/README.md#_top)
 * &emsp; \| &emsp; DotMarkdown\.Linq\.[MInline](../MInline/README.md#_top)
 * &emsp; \| &emsp; \| &emsp; DotMarkdown\.Linq\.[MBold](../MBold/README.md#_top)

@@ -92,7 +92,7 @@ public abstract class MContainer : MElement
 * DotMarkdown\.Linq\.[MInline](../MInline/README.md#_top)
 * &emsp; DotMarkdown\.Linq\.[MBold](../MBold/README.md#_top)
 * &emsp; DotMarkdown\.Linq\.[MItalic](../MItalic/README.md#_top)
-* \- \- \-
+* &mdash;&mdash;&mdash;&mdash;&mdash;
 * &emsp; DotMarkdown\.Linq\.[MStrikethrough](../MStrikethrough/README.md#_top)
 * DotMarkdown\.Linq\.[MLink](../MLink/README.md#_top)
 * DotMarkdown\.Linq\.[MList](../MList/README.md#_top)
