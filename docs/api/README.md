@@ -11,7 +11,7 @@
 
 ## Classes
 
-*  System\.Object
+* System\.Object
 * &emsp; DotMarkdown\.[MarkdownFormat](DotMarkdown/MarkdownFormat/README.md#_top)
 * &emsp; DotMarkdown\.[MarkdownWriter](DotMarkdown/MarkdownWriter/README.md#_top)
 * &emsp; DotMarkdown\.[MarkdownWriterSettings](DotMarkdown/MarkdownWriterSettings/README.md#_top)
