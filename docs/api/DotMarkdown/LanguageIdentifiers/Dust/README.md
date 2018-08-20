@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Dust\.
+
 ```csharp
 public const string Dust = "dust"
 ```

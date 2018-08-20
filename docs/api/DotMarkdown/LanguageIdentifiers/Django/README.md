@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Django\.
+
 ```csharp
 public const string Django = "django"
 ```

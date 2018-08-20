@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Vim Script\.
+
 ```csharp
 public const string VimScript = "vim"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Rust\.
+
 ```csharp
 public const string Rust = "rust"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Stylus\.
+
 ```csharp
 public const string Stylus = "stylus"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for AppleScript\.
+
 ```csharp
 public const string AppleScript = "applescript"
 ```

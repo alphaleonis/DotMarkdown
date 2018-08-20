@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for HTML\.
+
 ```csharp
 public const string HTML = "html"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Mathematica\.
+
 ```csharp
 public const string Mathematica = "mathematica"
 ```

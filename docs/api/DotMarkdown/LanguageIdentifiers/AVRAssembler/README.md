@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for AVR assembler\.
+
 ```csharp
 public const string AVRAssembler = "avrasm"
 ```

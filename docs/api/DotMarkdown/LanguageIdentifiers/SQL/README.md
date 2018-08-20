@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for SQL\.
+
 ```csharp
 public const string SQL = "sql"
 ```

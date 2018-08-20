@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Prolog\.
+
 ```csharp
 public const string Prolog = "prolog"
 ```

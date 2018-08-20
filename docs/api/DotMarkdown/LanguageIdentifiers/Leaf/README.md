@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Leaf\.
+
 ```csharp
 public const string Leaf = "leaf"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Cache Object Script\.
+
 ```csharp
 public const string CacheObjectScript = "cos"
 ```

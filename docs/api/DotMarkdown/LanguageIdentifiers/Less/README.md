@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Less\.
+
 ```csharp
 public const string Less = "less"
 ```

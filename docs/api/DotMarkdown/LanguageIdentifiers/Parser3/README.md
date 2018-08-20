@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Parser3\.
+
 ```csharp
 public const string Parser3 = "parser3"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Clojure\.
+
 ```csharp
 public const string Clojure = "clojure"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for VBScript\.
+
 ```csharp
 public const string VBScript = "vbscript"
 ```

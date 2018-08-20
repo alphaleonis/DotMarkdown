@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for CSP\.
+
 ```csharp
 public const string CSP = "csp"
 ```

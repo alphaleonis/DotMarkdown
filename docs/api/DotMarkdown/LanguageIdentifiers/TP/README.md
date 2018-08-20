@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for TP\.
+
 ```csharp
 public const string TP = "tp"
 ```

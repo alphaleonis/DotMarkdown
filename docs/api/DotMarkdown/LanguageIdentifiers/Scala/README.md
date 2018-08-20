@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Scala\.
+
 ```csharp
 public const string Scala = "scala"
 ```

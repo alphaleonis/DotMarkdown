@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for LDIF\.
+
 ```csharp
 public const string LDIF = "ldif"
 ```

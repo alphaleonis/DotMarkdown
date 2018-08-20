@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Test Anything Protocol\.
+
 ```csharp
 public const string TestAnythingProtocol = "tap"
 ```

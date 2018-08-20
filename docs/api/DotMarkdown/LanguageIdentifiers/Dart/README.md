@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Dart\.
+
 ```csharp
 public const string Dart = "dart"
 ```

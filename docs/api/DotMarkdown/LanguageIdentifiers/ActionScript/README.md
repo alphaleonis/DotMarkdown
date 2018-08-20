@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for ActionScript\.
+
 ```csharp
 public const string ActionScript = "actionscript"
 ```

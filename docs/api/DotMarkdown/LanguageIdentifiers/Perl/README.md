@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Perl\.
+
 ```csharp
 public const string Perl = "perl"
 ```

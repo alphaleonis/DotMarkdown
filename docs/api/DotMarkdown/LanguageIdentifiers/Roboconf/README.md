@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Roboconf\.
+
 ```csharp
 public const string Roboconf = "graph"
 ```

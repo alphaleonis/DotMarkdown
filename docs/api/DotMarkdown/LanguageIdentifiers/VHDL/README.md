@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for VHDL\.
+
 ```csharp
 public const string VHDL = "vhdl"
 ```

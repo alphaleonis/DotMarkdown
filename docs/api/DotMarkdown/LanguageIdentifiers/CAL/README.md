@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for C/AL\.
+
 ```csharp
 public const string CAL = "cal"
 ```

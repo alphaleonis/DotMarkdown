@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Groovy\.
+
 ```csharp
 public const string Groovy = "groovy"
 ```

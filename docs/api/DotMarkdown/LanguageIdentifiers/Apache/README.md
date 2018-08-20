@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Apache\.
+
 ```csharp
 public const string Apache = "apache"
 ```

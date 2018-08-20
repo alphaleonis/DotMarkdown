@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Smali\.
+
 ```csharp
 public const string Smali = "smali"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for N1QL\.
+
 ```csharp
 public const string N1QL = "n1ql"
 ```

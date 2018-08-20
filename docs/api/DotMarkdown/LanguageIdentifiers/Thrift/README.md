@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Thrift\.
+
 ```csharp
 public const string Thrift = "thrift"
 ```

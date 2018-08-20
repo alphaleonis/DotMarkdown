@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for AutoHotkey\.
+
 ```csharp
 public const string AutoHotkey = "autohotkey"
 ```

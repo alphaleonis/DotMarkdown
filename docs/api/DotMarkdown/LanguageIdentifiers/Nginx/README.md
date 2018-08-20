@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Nginx\.
+
 ```csharp
 public const string Nginx = "nginx"
 ```

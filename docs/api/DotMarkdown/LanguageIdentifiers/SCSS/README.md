@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for SCSS\.
+
 ```csharp
 public const string SCSS = "scss"
 ```

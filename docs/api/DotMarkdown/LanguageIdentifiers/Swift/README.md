@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Swift\.
+
 ```csharp
 public const string Swift = "swift"
 ```

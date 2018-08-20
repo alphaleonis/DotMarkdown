@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Python profiler results\.
+
 ```csharp
 public const string PythonProfilerResults = "profile"
 ```

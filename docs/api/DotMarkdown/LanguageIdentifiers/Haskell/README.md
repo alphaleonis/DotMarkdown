@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Haskell\.
+
 ```csharp
 public const string Haskell = "haskell"
 ```

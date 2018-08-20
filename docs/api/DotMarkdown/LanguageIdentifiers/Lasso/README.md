@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Lasso\.
+
 ```csharp
 public const string Lasso = "lasso"
 ```

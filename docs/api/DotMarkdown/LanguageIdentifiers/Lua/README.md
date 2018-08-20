@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Lua\.
+
 ```csharp
 public const string Lua = "lua"
 ```

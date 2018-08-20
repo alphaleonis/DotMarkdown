@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Moonscript\.
+
 ```csharp
 public const string Moonscript = "moonscript"
 ```

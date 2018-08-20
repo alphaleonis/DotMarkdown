@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for SubUnit\.
+
 ```csharp
 public const string SubUnit = "subunit"
 ```

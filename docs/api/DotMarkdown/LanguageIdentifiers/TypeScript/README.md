@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for TypeScript\.
+
 ```csharp
 public const string TypeScript = "typescript"
 ```

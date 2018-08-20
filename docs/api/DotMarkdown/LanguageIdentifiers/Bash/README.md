@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Bash\.
+
 ```csharp
 public const string Bash = "bash"
 ```

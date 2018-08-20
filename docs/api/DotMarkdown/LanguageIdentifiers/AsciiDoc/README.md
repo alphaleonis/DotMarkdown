@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for AsciiDoc\.
+
 ```csharp
 public const string AsciiDoc = "asciidoc"
 ```

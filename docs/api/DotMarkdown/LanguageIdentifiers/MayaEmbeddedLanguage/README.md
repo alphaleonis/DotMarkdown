@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Maya Embedded Language\.
+
 ```csharp
 public const string MayaEmbeddedLanguage = "mel"
 ```

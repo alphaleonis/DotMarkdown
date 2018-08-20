@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Mizar\.
+
 ```csharp
 public const string Mizar = "mizar"
 ```

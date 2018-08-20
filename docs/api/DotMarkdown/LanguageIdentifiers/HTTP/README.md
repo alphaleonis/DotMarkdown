@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for HTTP\.
+
 ```csharp
 public const string HTTP = "http"
 ```

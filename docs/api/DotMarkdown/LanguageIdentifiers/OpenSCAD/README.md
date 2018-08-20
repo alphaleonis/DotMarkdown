@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for OpenSCAD\.
+
 ```csharp
 public const string OpenSCAD = "openscad"
 ```

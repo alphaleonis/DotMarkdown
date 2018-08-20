@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for FIX\.
+
 ```csharp
 public const string FIX = "fix"
 ```

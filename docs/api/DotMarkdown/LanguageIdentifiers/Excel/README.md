@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Excel\.
+
 ```csharp
 public const string Excel = "excel"
 ```

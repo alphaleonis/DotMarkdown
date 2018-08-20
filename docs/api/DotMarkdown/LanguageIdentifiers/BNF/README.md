@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for BNF\.
+
 ```csharp
 public const string BNF = "bnf"
 ```

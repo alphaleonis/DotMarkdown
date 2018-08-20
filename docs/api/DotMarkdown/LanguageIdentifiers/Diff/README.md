@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Diff\.
+
 ```csharp
 public const string Diff = "diff"
 ```

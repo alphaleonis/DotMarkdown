@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Nix\.
+
 ```csharp
 public const string Nix = "nix"
 ```

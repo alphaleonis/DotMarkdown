@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Axapta\.
+
 ```csharp
 public const string Axapta = "axapta"
 ```

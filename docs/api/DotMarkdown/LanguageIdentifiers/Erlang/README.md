@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Erlang\.
+
 ```csharp
 public const string Erlang = "erlang"
 ```

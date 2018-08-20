@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Shell\.
+
 ```csharp
 public const string Shell = "shell"
 ```

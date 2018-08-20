@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for RenderMan RIB\.
+
 ```csharp
 public const string RenderManRIB = "rib"
 ```

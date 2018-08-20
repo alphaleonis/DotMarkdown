@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Basic\.
+
 ```csharp
 public const string Basic = "basic"
 ```

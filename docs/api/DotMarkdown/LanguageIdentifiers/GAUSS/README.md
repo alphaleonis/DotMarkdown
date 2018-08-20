@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for GAUSS\.
+
 ```csharp
 public const string GAUSS = "gauss"
 ```

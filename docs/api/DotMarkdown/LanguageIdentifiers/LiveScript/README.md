@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for LiveScript\.
+
 ```csharp
 public const string LiveScript = "livescript"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for CMake\.
+
 ```csharp
 public const string CMake = "cmake"
 ```

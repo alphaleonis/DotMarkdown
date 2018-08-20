@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for CSS\.
+
 ```csharp
 public const string CSS = "css"
 ```

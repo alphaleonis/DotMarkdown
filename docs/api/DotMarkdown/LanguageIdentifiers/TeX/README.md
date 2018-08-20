@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for TeX\.
+
 ```csharp
 public const string TeX = "tex"
 ```

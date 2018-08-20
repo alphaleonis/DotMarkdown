@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for QML\.
+
 ```csharp
 public const string QML = "qml"
 ```

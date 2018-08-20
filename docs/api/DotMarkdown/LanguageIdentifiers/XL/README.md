@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for XL\.
+
 ```csharp
 public const string XL = "xl"
 ```

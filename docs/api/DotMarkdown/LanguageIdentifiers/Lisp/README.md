@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Lisp\.
+
 ```csharp
 public const string Lisp = "lisp"
 ```

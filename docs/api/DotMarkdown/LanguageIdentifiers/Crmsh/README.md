@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Crmsh\.
+
 ```csharp
 public const string Crmsh = "crmsh"
 ```

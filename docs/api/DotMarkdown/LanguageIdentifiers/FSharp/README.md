@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for F\#\.
+
 ```csharp
 public const string FSharp = "fsharp"
 ```

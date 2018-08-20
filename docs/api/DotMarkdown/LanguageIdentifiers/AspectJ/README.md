@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for AspectJ\.
+
 ```csharp
 public const string AspectJ = "aspectj"
 ```

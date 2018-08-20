@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for VB\.NET\.
+
 ```csharp
 public const string VisualBasic = "vb"
 ```

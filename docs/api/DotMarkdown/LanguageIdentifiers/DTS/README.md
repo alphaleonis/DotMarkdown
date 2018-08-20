@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for DTS \(Device Tree\)\.
+
 ```csharp
 public const string DTS = "dts"
 ```

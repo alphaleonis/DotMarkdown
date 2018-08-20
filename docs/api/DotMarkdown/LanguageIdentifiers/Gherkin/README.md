@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Gherkin\.
+
 ```csharp
 public const string Gherkin = "gherkin"
 ```

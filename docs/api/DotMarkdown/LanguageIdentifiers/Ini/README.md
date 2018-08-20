@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Ini\.
+
 ```csharp
 public const string Ini = "ini"
 ```

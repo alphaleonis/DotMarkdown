@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for DNS Zone file\.
+
 ```csharp
 public const string DNSZoneFile = "dns"
 ```

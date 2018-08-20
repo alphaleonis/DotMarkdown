@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for PowerShell\.
+
 ```csharp
 public const string PowerShell = "powershell"
 ```

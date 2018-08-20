@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Twig\.
+
 ```csharp
 public const string Twig = "twig"
 ```

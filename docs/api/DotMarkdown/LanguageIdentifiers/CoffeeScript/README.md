@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for CoffeeScript\.
+
 ```csharp
 public const string CoffeeScript = "coffeescript"
 ```

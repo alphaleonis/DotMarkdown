@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for DOS\.
+
 ```csharp
 public const string DOS = "dos"
 ```

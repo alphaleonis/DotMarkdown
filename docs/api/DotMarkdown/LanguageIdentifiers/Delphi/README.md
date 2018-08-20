@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Delphi\.
+
 ```csharp
 public const string Delphi = "delphi"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for ARM assembler\.
+
 ```csharp
 public const string ARMAssembler = "armasm"
 ```

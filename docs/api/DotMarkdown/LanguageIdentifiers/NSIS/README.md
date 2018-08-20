@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for NSIS\.
+
 ```csharp
 public const string NSIS = "nsis"
 ```

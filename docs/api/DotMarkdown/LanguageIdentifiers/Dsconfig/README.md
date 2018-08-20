@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for dsconfig\.
+
 ```csharp
 public const string Dsconfig = "dsconfig"
 ```

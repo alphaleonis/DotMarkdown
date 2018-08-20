@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for RenderMan RSL\.
+
 ```csharp
 public const string RenderManRSL = "rsl"
 ```

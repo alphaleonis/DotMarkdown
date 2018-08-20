@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Cap’n Proto\.
+
 ```csharp
 public const string CapnProto = "capnp"
 ```

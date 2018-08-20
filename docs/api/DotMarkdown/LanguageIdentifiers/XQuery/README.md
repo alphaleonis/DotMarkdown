@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for XQuery\.
+
 ```csharp
 public const string XQuery = "xpath"
 ```

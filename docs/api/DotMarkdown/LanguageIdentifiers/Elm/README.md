@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Elm\.
+
 ```csharp
 public const string Elm = "elm"
 ```

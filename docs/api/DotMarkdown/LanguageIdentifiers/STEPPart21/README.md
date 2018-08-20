@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for STEP Part 21\.
+
 ```csharp
 public const string STEPPart21 = "step"
 ```

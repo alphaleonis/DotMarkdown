@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Awk\.
+
 ```csharp
 public const string Awk = "awk"
 ```

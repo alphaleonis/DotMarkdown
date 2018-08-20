@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for XML\.
+
 ```csharp
 public const string XML = "xml"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for LiveCode Server\.
+
 ```csharp
 public const string LiveCodeServer = "livecodeserver"
 ```

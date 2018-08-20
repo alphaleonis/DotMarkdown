@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Ada\.
+
 ```csharp
 public const string Ada = "ada"
 ```

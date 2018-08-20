@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Verilog\.
+
 ```csharp
 public const string Verilog = "verilog"
 ```

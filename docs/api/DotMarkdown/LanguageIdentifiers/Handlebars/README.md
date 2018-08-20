@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Handlebars\.
+
 ```csharp
 public const string Handlebars = "handlebars"
 ```

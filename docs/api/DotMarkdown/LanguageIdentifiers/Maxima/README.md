@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Maxima\.
+
 ```csharp
 public const string Maxima = "maxima"
 ```

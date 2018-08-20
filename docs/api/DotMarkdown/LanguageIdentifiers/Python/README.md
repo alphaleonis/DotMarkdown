@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Python\.
+
 ```csharp
 public const string Python = "python"
 ```

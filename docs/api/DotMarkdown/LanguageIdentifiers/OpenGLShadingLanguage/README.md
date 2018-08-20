@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for OpenGL Shading Language\.
+
 ```csharp
 public const string OpenGLShadingLanguage = "glsl"
 ```

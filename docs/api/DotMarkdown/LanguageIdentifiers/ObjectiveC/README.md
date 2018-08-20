@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Objective C\.
+
 ```csharp
 public const string ObjectiveC = "objectivec"
 ```

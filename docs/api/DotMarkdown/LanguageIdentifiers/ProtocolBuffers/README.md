@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Protocol Buffers\.
+
 ```csharp
 public const string ProtocolBuffers = "protobuf"
 ```

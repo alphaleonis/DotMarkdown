@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for EBNF\.
+
 ```csharp
 public const string EBNF = "ebnf"
 ```

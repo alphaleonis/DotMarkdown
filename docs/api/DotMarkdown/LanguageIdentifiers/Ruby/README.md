@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Ruby\.
+
 ```csharp
 public const string Ruby = "ruby"
 ```

@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for Processing\.
+
 ```csharp
 public const string Processing = "processing"
 ```

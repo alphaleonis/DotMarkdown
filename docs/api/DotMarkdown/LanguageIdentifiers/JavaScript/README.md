@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for JavaScript\.
+
 ```csharp
 public const string JavaScript = "javascript"
 ```

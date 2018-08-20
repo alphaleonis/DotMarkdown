@@ -8,6 +8,10 @@
 
 **Assembly**: DotMarkdown\.dll
 
+## Summary
+
+Identifier for JSON\.
+
 ```csharp
 public const string JSON = "json"
 ```
