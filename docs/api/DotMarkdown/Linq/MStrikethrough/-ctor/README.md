@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MStrikethrough](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MStrikethrough](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

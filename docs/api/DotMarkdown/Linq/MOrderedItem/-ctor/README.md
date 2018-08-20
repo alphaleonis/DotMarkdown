@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MOrderedItem](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MOrderedItem](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

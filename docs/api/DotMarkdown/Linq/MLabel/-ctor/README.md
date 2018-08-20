@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MLabel](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MLabel](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

@@ -4,7 +4,7 @@
 
 [Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md#_top)\.[MarkdownWriterSettings](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

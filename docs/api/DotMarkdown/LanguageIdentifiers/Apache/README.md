@@ -4,7 +4,7 @@
 
 [Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md#_top)\.[LanguageIdentifiers](../README.md#_top)
+**Containing Type**: DotMarkdown\.[LanguageIdentifiers](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

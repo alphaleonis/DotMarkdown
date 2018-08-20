@@ -4,7 +4,7 @@
 
 [Home](../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown](../../README.md#_top)\.[MarkdownEscaper](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownEscaper](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 

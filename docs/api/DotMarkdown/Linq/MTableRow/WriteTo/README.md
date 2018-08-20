@@ -4,7 +4,7 @@
 
 [Home](../../../../README.md#_top)
 
-**Containing Type**: [DotMarkdown.Linq](../../README.md#_top)\.[MTableRow](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MTableRow](../README.md#_top)
 
 **Assembly**: DotMarkdown\.dll
 
