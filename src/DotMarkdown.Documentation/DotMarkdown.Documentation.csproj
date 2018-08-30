@@ -21,8 +21,7 @@
       -a $(RoslynatorDocumentationAssemblies) ^
       -r &quot;$(RoslynatorDocumentationAssemblyReferencesPath)&quot; ^
       -o &quot;$(SolutionDir)docs\api&quot; ^
-      -h &quot;DotMarkdown API Reference&quot; ^
-      --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;"
+      -h &quot;DotMarkdown API Reference&quot;"
           LogStandardErrorAsError="true"
           ConsoleToMSBuild="true">
       <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
@@ -30,8 +29,7 @@
     <Exec Command="$(RoslynatorDocumentationExe) declarations ^
       -a $(RoslynatorDocumentationAssemblies) ^
       -r &quot;$(RoslynatorDocumentationAssemblyReferencesPath)&quot; ^
-      -o &quot;$(SolutionDir)docs\api.cs&quot; ^
-      --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;"
+      -o &quot;$(SolutionDir)docs\api.cs&quot;"
           LogStandardErrorAsError="true"
           ConsoleToMSBuild="true">
       <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
