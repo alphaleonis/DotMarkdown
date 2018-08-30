@@ -14,7 +14,7 @@ public MarkdownFormat WithCodeFenceStyle(CodeFenceStyle codeFenceStyle)
 
 ### Parameters
 
-#### codeFenceStyle
+**codeFenceStyle**
 
 ### Returns
 

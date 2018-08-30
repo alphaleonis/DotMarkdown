@@ -23,7 +23,7 @@ public static MAutolink Autolink(MAutolink other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -37,7 +37,7 @@ public static MAutolink Autolink(string url)
 
 ### Parameters
 
-#### url
+**url**
 
 ### Returns
 

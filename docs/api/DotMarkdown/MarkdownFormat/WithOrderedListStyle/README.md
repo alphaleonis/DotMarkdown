@@ -14,7 +14,7 @@ public MarkdownFormat WithOrderedListStyle(OrderedListStyle orderedListStyle)
 
 ### Parameters
 
-#### orderedListStyle
+**orderedListStyle**
 
 ### Returns
 

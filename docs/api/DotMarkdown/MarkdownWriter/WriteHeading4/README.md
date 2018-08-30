@@ -14,5 +14,4 @@ public void WriteHeading4(string text)
 
 ### Parameters
 
-#### text
-
+**text**

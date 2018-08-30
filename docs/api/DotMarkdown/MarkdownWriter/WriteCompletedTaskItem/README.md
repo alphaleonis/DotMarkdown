@@ -14,5 +14,4 @@ public void WriteCompletedTaskItem(string text)
 
 ### Parameters
 
-#### text
-
+**text**

@@ -29,7 +29,7 @@ public MItalic(MItalic other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MItalic\(Object\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MItalic(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MItalic\(Object\[\]\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MItalic(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

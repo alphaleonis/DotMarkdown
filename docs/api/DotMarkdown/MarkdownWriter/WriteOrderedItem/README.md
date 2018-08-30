@@ -14,7 +14,6 @@ public virtual void WriteOrderedItem(int number, string text)
 
 ### Parameters
 
-#### number
+**number**
 
-#### text
-
+**text**

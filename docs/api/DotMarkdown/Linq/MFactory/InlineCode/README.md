@@ -23,7 +23,7 @@ public static MInlineCode InlineCode(MInlineCode other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -37,7 +37,7 @@ public static MInlineCode InlineCode(string text)
 
 ### Parameters
 
-#### text
+**text**
 
 ### Returns
 

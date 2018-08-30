@@ -21,7 +21,7 @@ public MIndentedCodeBlock(MIndentedCodeBlock other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MIndentedCodeBlock\(String\) <a name="DotMarkdown_Linq_MIndentedCodeBlock__ctor_System_String_"></a>
 
@@ -31,5 +31,4 @@ public MIndentedCodeBlock(string text)
 
 ### Parameters
 
-#### text
-
+**text**

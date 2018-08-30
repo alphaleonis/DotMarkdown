@@ -14,5 +14,4 @@ public abstract void WriteTo(MarkdownWriter writer)
 
 ### Parameters
 
-#### writer
-
+**writer**

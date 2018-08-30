@@ -14,9 +14,9 @@ public static bool operator ==(in TableColumnInfo info1, in TableColumnInfo info
 
 ### Parameters
 
-#### info1
+**info1**
 
-#### info2
+**info2**
 
 ### Returns
 

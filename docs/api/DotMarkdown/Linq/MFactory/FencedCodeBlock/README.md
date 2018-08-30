@@ -23,7 +23,7 @@ public static MFencedCodeBlock FencedCodeBlock(MFencedCodeBlock other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -37,9 +37,9 @@ public static MFencedCodeBlock FencedCodeBlock(string value, string info = null)
 
 ### Parameters
 
-#### value
+**value**
 
-#### info
+**info**
 
 ### Returns
 

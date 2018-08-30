@@ -14,5 +14,4 @@ public abstract void WriteStartOrderedItem(int number)
 
 ### Parameters
 
-#### number
-
+**number**

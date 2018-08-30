@@ -34,7 +34,7 @@ public static MHorizontalRule HorizontalRule(in HorizontalRuleFormat format)
 
 ### Parameters
 
-#### format
+**format**
 
 ### Returns
 
@@ -48,11 +48,11 @@ public static MHorizontalRule HorizontalRule(HorizontalRuleStyle style, int coun
 
 ### Parameters
 
-#### style
+**style**
 
-#### count
+**count**
 
-#### separator
+**separator**
 
 ### Returns
 

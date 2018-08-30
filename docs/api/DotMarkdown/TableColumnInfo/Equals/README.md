@@ -23,7 +23,7 @@ public override bool Equals(object obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 ### Returns
 
@@ -37,7 +37,7 @@ public bool Equals(TableColumnInfo other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 

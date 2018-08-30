@@ -21,7 +21,7 @@ public MAutolink(MAutolink other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MAutolink\(String\) <a name="DotMarkdown_Linq_MAutolink__ctor_System_String_"></a>
 
@@ -31,5 +31,4 @@ public MAutolink(string url)
 
 ### Parameters
 
-#### url
-
+**url**

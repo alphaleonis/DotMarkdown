@@ -23,7 +23,7 @@ public bool Equals(MarkdownFormat other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -41,7 +41,7 @@ public override bool Equals(object obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 ### Returns
 

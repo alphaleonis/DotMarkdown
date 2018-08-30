@@ -23,7 +23,7 @@ public static MEntityRef EntityRef(MEntityRef other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -37,7 +37,7 @@ public static MEntityRef EntityRef(string name)
 
 ### Parameters
 
-#### name
+**name**
 
 ### Returns
 

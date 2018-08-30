@@ -23,7 +23,7 @@ public MTaskItem(bool isCompleted)
 
 ### Parameters
 
-#### isCompleted
+**isCompleted**
 
 ## MTaskItem\(Boolean, Object\) <a name="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object_"></a>
 
@@ -33,9 +33,9 @@ public MTaskItem(bool isCompleted, object content)
 
 ### Parameters
 
-#### isCompleted
+**isCompleted**
 
-#### content
+**content**
 
 ## MTaskItem\(Boolean, Object\[\]\) <a name="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object___"></a>
 
@@ -45,9 +45,9 @@ public MTaskItem(bool isCompleted, params object[] content)
 
 ### Parameters
 
-#### isCompleted
+**isCompleted**
 
-#### content
+**content**
 
 ## MTaskItem\(MTaskItem\) <a name="DotMarkdown_Linq_MTaskItem__ctor_DotMarkdown_Linq_MTaskItem_"></a>
 
@@ -57,5 +57,4 @@ public MTaskItem(MTaskItem other)
 
 ### Parameters
 
-#### other
-
+**other**

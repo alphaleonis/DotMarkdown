@@ -14,7 +14,7 @@ public MarkdownWriterSettings WithNewLineHandling(NewLineHandling newLineHandlin
 
 ### Parameters
 
-#### newLineHandling
+**newLineHandling**
 
 ### Returns
 

@@ -35,7 +35,7 @@ public static MTableRow TableRow(MTableRow other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MTableRow TableRow(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MTableRow TableRow(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

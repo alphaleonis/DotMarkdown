@@ -10,16 +10,32 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Roslynator.Documentation.CommandLine" Version="1.0.0-test" />
+    <PackageReference Include="Roslynator.Documentation.Build" Version="0.1.0-beta" />
   </ItemGroup>
 
-  <Target Name="PreRoslynatorDocumention" BeforeTargets="RoslynatorDocumentation" Condition="'$(Configuration)' == 'Release'">
-    <RemoveDir Directories="$(SolutionDir)docs\api" />
+  <Target Name="RoslynatorDocumentation" AfterTargets="RoslynatorDocumentationInitialize" Condition=" '$(Configuration)' == 'Release'">
     <PropertyGroup>
-      <RoslynatorDocumentationAssemblies>$(TargetDir)DotMarkdown.dll</RoslynatorDocumentationAssemblies>
-      <RoslynatorDocumentationParameters> -a &quot;$(RoslynatorDocumentationAssemblies)&quot; -o &quot;$(SolutionDir)docs\api&quot; -h &quot;DotMarkdown API Reference&quot; -m github</RoslynatorDocumentationParameters>
-      <RoslynatorDocumentationDefinitionListParameters> -a &quot;$(RoslynatorDocumentationAssemblies)&quot; -o &quot;$(SolutionDir)docs\api.cs&quot;</RoslynatorDocumentationDefinitionListParameters>
+      <RoslynatorDocumentationAssemblies>&quot;$(TargetDir)DotMarkdown.dll&quot;</RoslynatorDocumentationAssemblies>
     </PropertyGroup>
+    <Exec Command="$(RoslynatorDocumentationExe) doc ^
+      -a $(RoslynatorDocumentationAssemblies) ^
+      -r &quot;$(RoslynatorDocumentationAssemblyReferencesPath)&quot; ^
+      -o &quot;$(SolutionDir)docs\api&quot; ^
+      -h &quot;DotMarkdown API Reference&quot; ^
+      --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;"
+          LogStandardErrorAsError="true"
+          ConsoleToMSBuild="true">
+      <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
+    </Exec>
+    <Exec Command="$(RoslynatorDocumentationExe) declarations ^
+      -a $(RoslynatorDocumentationAssemblies) ^
+      -r &quot;$(RoslynatorDocumentationAssemblyReferencesPath)&quot; ^
+      -o &quot;$(SolutionDir)docs\api.cs&quot; ^
+      --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;"
+          LogStandardErrorAsError="true"
+          ConsoleToMSBuild="true">
+      <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
+    </Exec>
   </Target>
 
 </Project>

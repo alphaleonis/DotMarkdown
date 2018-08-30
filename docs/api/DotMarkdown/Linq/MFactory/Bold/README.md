@@ -35,7 +35,7 @@ public static MBold Bold(MBold other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MBold Bold(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MBold Bold(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

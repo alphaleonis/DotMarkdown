@@ -25,7 +25,7 @@ public void Save(MarkdownWriter writer)
 
 ### Parameters
 
-#### writer
+**writer**
 
 ## Save\(Stream, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_"></a>
 
@@ -35,9 +35,9 @@ public void Save(Stream stream, MarkdownFormat format = null)
 
 ### Parameters
 
-#### stream
+**stream**
 
-#### format
+**format**
 
 ## Save\(String, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_"></a>
 
@@ -47,9 +47,9 @@ public void Save(string fileName, MarkdownFormat format = null)
 
 ### Parameters
 
-#### fileName
+**fileName**
 
-#### format
+**format**
 
 ## Save\(TextWriter, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_"></a>
 
@@ -59,7 +59,6 @@ public void Save(TextWriter writer, MarkdownFormat format = null)
 
 ### Parameters
 
-#### writer
+**writer**
 
-#### format
-
+**format**

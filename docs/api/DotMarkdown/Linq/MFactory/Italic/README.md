@@ -35,7 +35,7 @@ public static MItalic Italic(MItalic other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MItalic Italic(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MItalic Italic(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

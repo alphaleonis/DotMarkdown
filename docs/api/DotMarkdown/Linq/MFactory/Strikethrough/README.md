@@ -35,7 +35,7 @@ public static MStrikethrough Strikethrough(MStrikethrough other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MStrikethrough Strikethrough(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MStrikethrough Strikethrough(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

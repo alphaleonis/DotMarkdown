@@ -14,7 +14,7 @@ public MarkdownFormat WithBulletListStyle(BulletListStyle bulletListStyle)
 
 ### Parameters
 
-#### bulletListStyle
+**bulletListStyle**
 
 ### Returns
 

@@ -14,5 +14,4 @@ public abstract void WriteEntityRef(string name)
 
 ### Parameters
 
-#### name
-
+**name**

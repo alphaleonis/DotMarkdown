@@ -14,7 +14,7 @@ public MarkdownFormat WithHorizontalRuleFormat(in HorizontalRuleFormat horizonta
 
 ### Parameters
 
-#### horizontalRuleFormat
+**horizontalRuleFormat**
 
 ### Returns
 

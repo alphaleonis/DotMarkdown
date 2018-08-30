@@ -12,9 +12,8 @@ public HorizontalRuleFormat(HorizontalRuleStyle style, int count, string separat
 
 ### Parameters
 
-#### style
+**style**
 
-#### count
+**count**
 
-#### separator
-
+**separator**

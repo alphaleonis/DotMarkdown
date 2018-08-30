@@ -14,9 +14,8 @@ public abstract void WriteImage(string text, string url, string title = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### url
+**url**
 
-#### title
-
+**title**

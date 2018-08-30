@@ -34,7 +34,7 @@ public static MTaskItem CompletedTaskItem(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -48,7 +48,7 @@ public static MTaskItem CompletedTaskItem(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

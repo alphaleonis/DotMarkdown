@@ -14,9 +14,9 @@ public static string Escape(string value, Func<char, bool> shouldBeEscaped = nul
 
 ### Parameters
 
-#### value
+**value**
 
-#### shouldBeEscaped
+**shouldBeEscaped**
 
 ### Returns
 

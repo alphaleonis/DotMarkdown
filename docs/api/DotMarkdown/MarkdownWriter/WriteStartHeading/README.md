@@ -14,5 +14,4 @@ public abstract void WriteStartHeading(int level)
 
 ### Parameters
 
-#### level
-
+**level**

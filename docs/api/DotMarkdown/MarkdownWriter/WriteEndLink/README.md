@@ -14,7 +14,6 @@ public abstract void WriteEndLink(string url, string title = null)
 
 ### Parameters
 
-#### url
+**url**
 
-#### title
-
+**title**

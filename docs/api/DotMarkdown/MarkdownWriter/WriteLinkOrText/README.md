@@ -14,9 +14,8 @@ public void WriteLinkOrText(string text, string url = null, string title = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### url
+**url**
 
-#### title
-
+**title**

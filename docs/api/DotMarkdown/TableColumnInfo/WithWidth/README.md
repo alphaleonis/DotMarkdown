@@ -14,7 +14,7 @@ public TableColumnInfo WithWidth(int width)
 
 ### Parameters
 
-#### width
+**width**
 
 ### Returns
 

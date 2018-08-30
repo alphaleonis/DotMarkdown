@@ -14,5 +14,4 @@ public override void WriteTo(MarkdownWriter writer)
 
 ### Parameters
 
-#### writer
-
+**writer**

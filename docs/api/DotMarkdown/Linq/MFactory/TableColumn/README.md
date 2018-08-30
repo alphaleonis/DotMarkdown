@@ -25,7 +25,7 @@ public static MTableColumn TableColumn(HorizontalAlignment alignment)
 
 ### Parameters
 
-#### alignment
+**alignment**
 
 ### Returns
 
@@ -39,9 +39,9 @@ public static MTableColumn TableColumn(HorizontalAlignment alignment, object con
 
 ### Parameters
 
-#### alignment
+**alignment**
 
-#### content
+**content**
 
 ### Returns
 
@@ -55,9 +55,9 @@ public static MTableColumn TableColumn(HorizontalAlignment alignment, params obj
 
 ### Parameters
 
-#### alignment
+**alignment**
 
-#### content
+**content**
 
 ### Returns
 
@@ -71,7 +71,7 @@ public static MTableColumn TableColumn(MTableColumn other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 

@@ -14,7 +14,7 @@ public MarkdownWriterSettings WithNewLineChars(string newLineChars)
 
 ### Parameters
 
-#### newLineChars
+**newLineChars**
 
 ### Returns
 

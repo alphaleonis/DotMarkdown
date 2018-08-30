@@ -14,7 +14,7 @@ public MarkdownFormat WithBoldStyle(EmphasisStyle boldStyle)
 
 ### Parameters
 
-#### boldStyle
+**boldStyle**
 
 ### Returns
 

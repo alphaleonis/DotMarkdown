@@ -34,7 +34,7 @@ public static MHeading Heading4(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -48,7 +48,7 @@ public static MHeading Heading4(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

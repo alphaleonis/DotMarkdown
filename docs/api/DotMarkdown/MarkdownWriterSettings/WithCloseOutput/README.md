@@ -14,7 +14,7 @@ public MarkdownWriterSettings WithCloseOutput(bool closeOutput)
 
 ### Parameters
 
-#### closeOutput
+**closeOutput**
 
 ### Returns
 

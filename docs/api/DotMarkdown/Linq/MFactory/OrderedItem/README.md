@@ -25,7 +25,7 @@ public static MOrderedItem OrderedItem(int number)
 
 ### Parameters
 
-#### number
+**number**
 
 ### Returns
 
@@ -39,9 +39,9 @@ public static MOrderedItem OrderedItem(int number, object content)
 
 ### Parameters
 
-#### number
+**number**
 
-#### content
+**content**
 
 ### Returns
 
@@ -55,9 +55,9 @@ public static MOrderedItem OrderedItem(int number, params object[] content)
 
 ### Parameters
 
-#### number
+**number**
 
-#### content
+**content**
 
 ### Returns
 
@@ -71,7 +71,7 @@ public static MOrderedItem OrderedItem(MOrderedItem other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 

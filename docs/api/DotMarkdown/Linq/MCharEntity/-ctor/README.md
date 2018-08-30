@@ -21,7 +21,7 @@ public MCharEntity(char value)
 
 ### Parameters
 
-#### value
+**value**
 
 ## MCharEntity\(MCharEntity\) <a name="DotMarkdown_Linq_MCharEntity__ctor_DotMarkdown_Linq_MCharEntity_"></a>
 
@@ -31,5 +31,4 @@ public MCharEntity(MCharEntity other)
 
 ### Parameters
 
-#### other
-
+**other**

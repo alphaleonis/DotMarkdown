@@ -29,7 +29,7 @@ public MBlockQuote(MBlockQuote other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MBlockQuote\(Object\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MBlockQuote(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MBlockQuote\(Object\[\]\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MBlockQuote(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

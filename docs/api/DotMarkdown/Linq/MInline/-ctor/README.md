@@ -29,7 +29,7 @@ public MInline(MContainer other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MInline\(Object\) <a name="DotMarkdown_Linq_MInline__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MInline(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MInline\(Object\[\]\) <a name="DotMarkdown_Linq_MInline__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MInline(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

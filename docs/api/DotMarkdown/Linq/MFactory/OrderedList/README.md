@@ -35,7 +35,7 @@ public static MOrderedList OrderedList(MOrderedList other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MOrderedList OrderedList(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MOrderedList OrderedList(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

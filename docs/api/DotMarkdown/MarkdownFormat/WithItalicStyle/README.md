@@ -14,7 +14,7 @@ public MarkdownFormat WithItalicStyle(EmphasisStyle italicStyle)
 
 ### Parameters
 
-#### italicStyle
+**italicStyle**
 
 ### Returns
 

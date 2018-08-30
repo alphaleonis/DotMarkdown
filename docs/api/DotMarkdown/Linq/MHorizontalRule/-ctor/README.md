@@ -22,7 +22,7 @@ public MHorizontalRule(in HorizontalRuleFormat format)
 
 ### Parameters
 
-#### format
+**format**
 
 ## MHorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
@@ -32,11 +32,11 @@ public MHorizontalRule(HorizontalRuleStyle style, int count, string separator)
 
 ### Parameters
 
-#### style
+**style**
 
-#### count
+**count**
 
-#### separator
+**separator**
 
 ## MHorizontalRule\(MHorizontalRule\) <a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_Linq_MHorizontalRule_"></a>
 
@@ -46,5 +46,4 @@ public MHorizontalRule(MHorizontalRule other)
 
 ### Parameters
 
-#### other
-
+**other**

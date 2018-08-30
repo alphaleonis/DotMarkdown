@@ -29,7 +29,7 @@ public MOrderedList(MOrderedList other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MOrderedList\(Object\) <a name="DotMarkdown_Linq_MOrderedList__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MOrderedList(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MOrderedList\(Object\[\]\) <a name="DotMarkdown_Linq_MOrderedList__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MOrderedList(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

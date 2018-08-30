@@ -35,7 +35,7 @@ public static MBlockQuote BlockQuote(MBlockQuote other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MBlockQuote BlockQuote(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MBlockQuote BlockQuote(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

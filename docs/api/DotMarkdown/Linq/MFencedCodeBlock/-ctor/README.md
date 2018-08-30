@@ -21,7 +21,7 @@ public MFencedCodeBlock(MFencedCodeBlock other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MFencedCodeBlock\(String, String\) <a name="DotMarkdown_Linq_MFencedCodeBlock__ctor_System_String_System_String_"></a>
 
@@ -31,7 +31,6 @@ public MFencedCodeBlock(string text, string info = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### info
-
+**info**

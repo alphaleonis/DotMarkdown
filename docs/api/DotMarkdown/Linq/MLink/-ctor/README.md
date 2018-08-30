@@ -21,7 +21,7 @@ public MLink(MLink other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MLink\(Object, String, String\) <a name="DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_"></a>
 
@@ -31,9 +31,8 @@ public MLink(object content, string url, string title = null)
 
 ### Parameters
 
-#### content
+**content**
 
-#### url
+**url**
 
-#### title
-
+**title**

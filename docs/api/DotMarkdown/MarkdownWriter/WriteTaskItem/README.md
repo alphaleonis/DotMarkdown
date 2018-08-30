@@ -14,7 +14,6 @@ public virtual void WriteTaskItem(string text, bool isCompleted = false)
 
 ### Parameters
 
-#### text
+**text**
 
-#### isCompleted
-
+**isCompleted**

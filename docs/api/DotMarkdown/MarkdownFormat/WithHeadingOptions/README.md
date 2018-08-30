@@ -23,7 +23,7 @@ public MarkdownFormat WithHeadingOptions(HeadingOptions headingOptions)
 
 ### Parameters
 
-#### headingOptions
+**headingOptions**
 
 ### Returns
 
@@ -37,7 +37,7 @@ public MarkdownFormat WithHeadingOptions(HeadingStyle headingStyle)
 
 ### Parameters
 
-#### headingStyle
+**headingStyle**
 
 ### Returns
 

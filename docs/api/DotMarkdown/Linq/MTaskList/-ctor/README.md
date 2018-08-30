@@ -29,7 +29,7 @@ public MTaskList(MTaskList other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MTaskList\(Object\) <a name="DotMarkdown_Linq_MTaskList__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MTaskList(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MTaskList\(Object\[\]\) <a name="DotMarkdown_Linq_MTaskList__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MTaskList(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

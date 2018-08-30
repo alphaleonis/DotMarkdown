@@ -21,7 +21,7 @@ public MComment(MComment other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MComment\(String\) <a name="DotMarkdown_Linq_MComment__ctor_System_String_"></a>
 
@@ -31,5 +31,4 @@ public MComment(string value)
 
 ### Parameters
 
-#### value
-
+**value**

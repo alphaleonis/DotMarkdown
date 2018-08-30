@@ -35,7 +35,7 @@ public static MDocument Document(MDocument other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MDocument Document(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MDocument Document(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

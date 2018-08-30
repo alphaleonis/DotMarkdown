@@ -21,7 +21,7 @@ public MText(MText other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MText\(String\) <a name="DotMarkdown_Linq_MText__ctor_System_String_"></a>
 
@@ -31,5 +31,4 @@ public MText(string value)
 
 ### Parameters
 
-#### value
-
+**value**

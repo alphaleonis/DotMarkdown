@@ -23,7 +23,7 @@ public static MCharEntity CharEntity(char value)
 
 ### Parameters
 
-#### value
+**value**
 
 ### Returns
 
@@ -37,7 +37,7 @@ public static MCharEntity CharEntity(MCharEntity other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 

@@ -25,7 +25,7 @@ public static MTaskItem TaskItem(bool isCompleted)
 
 ### Parameters
 
-#### isCompleted
+**isCompleted**
 
 ### Returns
 
@@ -39,9 +39,9 @@ public static MTaskItem TaskItem(bool isCompleted, object content)
 
 ### Parameters
 
-#### isCompleted
+**isCompleted**
 
-#### content
+**content**
 
 ### Returns
 
@@ -55,9 +55,9 @@ public static MTaskItem TaskItem(bool isCompleted, params object[] content)
 
 ### Parameters
 
-#### isCompleted
+**isCompleted**
 
-#### content
+**content**
 
 ### Returns
 
@@ -71,7 +71,7 @@ public static MTaskItem TaskItem(MTaskItem other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 

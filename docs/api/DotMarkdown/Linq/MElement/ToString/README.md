@@ -34,7 +34,7 @@ public string ToString(MarkdownFormat format)
 
 ### Parameters
 
-#### format
+**format**
 
 ### Returns
 
@@ -48,7 +48,7 @@ public string ToString(MarkdownWriterSettings settings)
 
 ### Parameters
 
-#### settings
+**settings**
 
 ### Returns
 

@@ -14,5 +14,4 @@ public abstract void WriteAutolink(string url)
 
 ### Parameters
 
-#### url
-
+**url**

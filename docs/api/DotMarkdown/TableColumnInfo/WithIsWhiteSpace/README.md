@@ -14,7 +14,7 @@ public TableColumnInfo WithIsWhiteSpace(bool isWhiteSpace)
 
 ### Parameters
 
-#### isWhiteSpace
+**isWhiteSpace**
 
 ### Returns
 

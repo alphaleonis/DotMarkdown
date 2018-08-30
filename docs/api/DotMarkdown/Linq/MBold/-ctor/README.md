@@ -29,7 +29,7 @@ public MBold(MBold other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MBold\(Object\) <a name="DotMarkdown_Linq_MBold__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MBold(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MBold\(Object\[\]\) <a name="DotMarkdown_Linq_MBold__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MBold(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

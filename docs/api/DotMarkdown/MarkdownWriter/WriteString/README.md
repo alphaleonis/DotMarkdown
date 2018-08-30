@@ -14,5 +14,4 @@ public abstract void WriteString(string text)
 
 ### Parameters
 
-#### text
-
+**text**

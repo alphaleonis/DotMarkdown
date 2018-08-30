@@ -14,5 +14,4 @@ public abstract void WriteStartTaskItem(bool isCompleted = false)
 
 ### Parameters
 
-#### isCompleted
-
+**isCompleted**

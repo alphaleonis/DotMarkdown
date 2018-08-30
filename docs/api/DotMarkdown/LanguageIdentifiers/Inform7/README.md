@@ -19,3 +19,4 @@ public const string Inform7 = "inform7"
 ### Field Value
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+

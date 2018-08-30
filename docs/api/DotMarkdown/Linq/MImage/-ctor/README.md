@@ -21,7 +21,7 @@ public MImage(MImage other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MImage\(String, String, String\) <a name="DotMarkdown_Linq_MImage__ctor_System_String_System_String_System_String_"></a>
 
@@ -31,9 +31,8 @@ public MImage(string text, string url, string title = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### url
+**url**
 
-#### title
-
+**title**

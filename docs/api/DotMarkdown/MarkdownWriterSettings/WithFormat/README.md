@@ -14,7 +14,7 @@ public MarkdownWriterSettings WithFormat(MarkdownFormat format)
 
 ### Parameters
 
-#### format
+**format**
 
 ### Returns
 

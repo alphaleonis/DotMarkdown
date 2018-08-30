@@ -35,7 +35,7 @@ public static MBulletList BulletList(MBulletList other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MBulletList BulletList(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MBulletList BulletList(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

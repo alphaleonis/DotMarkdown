@@ -14,7 +14,6 @@ public abstract void WriteImageReference(string text, string label)
 
 ### Parameters
 
-#### text
+**text**
 
-#### label
-
+**label**

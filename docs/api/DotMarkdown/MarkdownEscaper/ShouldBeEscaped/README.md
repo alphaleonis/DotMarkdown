@@ -14,7 +14,7 @@ public static bool ShouldBeEscaped(char value)
 
 ### Parameters
 
-#### value
+**value**
 
 ### Returns
 

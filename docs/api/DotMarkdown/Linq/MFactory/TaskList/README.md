@@ -35,7 +35,7 @@ public static MTaskList TaskList(MTaskList other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MTaskList TaskList(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MTaskList TaskList(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

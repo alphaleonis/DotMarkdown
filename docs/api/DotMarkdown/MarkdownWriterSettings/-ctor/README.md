@@ -12,11 +12,10 @@ public MarkdownWriterSettings(MarkdownFormat format = null, string newLineChars 
 
 ### Parameters
 
-#### format
+**format**
 
-#### newLineChars
+**newLineChars**
 
-#### newLineHandling
+**newLineHandling**
 
-#### closeOutput
-
+**closeOutput**

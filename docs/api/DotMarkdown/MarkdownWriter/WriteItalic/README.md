@@ -14,5 +14,4 @@ public virtual void WriteItalic(string text)
 
 ### Parameters
 
-#### text
-
+**text**

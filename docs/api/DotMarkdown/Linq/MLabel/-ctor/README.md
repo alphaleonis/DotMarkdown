@@ -21,7 +21,7 @@ public MLabel(MLabel other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MLabel\(String, String, String\) <a name="DotMarkdown_Linq_MLabel__ctor_System_String_System_String_System_String_"></a>
 
@@ -31,9 +31,8 @@ public MLabel(string text, string url, string title = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### url
+**url**
 
-#### title
-
+**title**

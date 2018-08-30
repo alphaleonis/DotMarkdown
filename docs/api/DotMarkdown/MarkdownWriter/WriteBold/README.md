@@ -14,5 +14,4 @@ public virtual void WriteBold(string text)
 
 ### Parameters
 
-#### text
-
+**text**

@@ -35,7 +35,7 @@ public static MTable Table(MTable other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MTable Table(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MTable Table(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

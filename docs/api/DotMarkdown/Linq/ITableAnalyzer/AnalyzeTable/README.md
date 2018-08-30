@@ -14,7 +14,7 @@ IReadOnlyList<TableColumnInfo> AnalyzeTable(IEnumerable<MElement> rows)
 
 ### Parameters
 
-#### rows
+**rows**
 
 ### Returns
 

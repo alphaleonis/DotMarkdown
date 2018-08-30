@@ -26,11 +26,11 @@ public static MarkdownWriter Create(Stream stream, Encoding encoding, MarkdownWr
 
 ### Parameters
 
-#### stream
+**stream**
 
-#### encoding
+**encoding**
 
-#### settings
+**settings**
 
 ### Returns
 
@@ -44,9 +44,9 @@ public static MarkdownWriter Create(Stream stream, MarkdownWriterSettings settin
 
 ### Parameters
 
-#### stream
+**stream**
 
-#### settings
+**settings**
 
 ### Returns
 
@@ -60,11 +60,11 @@ public static MarkdownWriter Create(StringBuilder output, IFormatProvider format
 
 ### Parameters
 
-#### output
+**output**
 
-#### formatProvider
+**formatProvider**
 
-#### settings
+**settings**
 
 ### Returns
 
@@ -78,9 +78,9 @@ public static MarkdownWriter Create(StringBuilder output, MarkdownWriterSettings
 
 ### Parameters
 
-#### output
+**output**
 
-#### settings
+**settings**
 
 ### Returns
 
@@ -94,9 +94,9 @@ public static MarkdownWriter Create(TextWriter output, MarkdownWriterSettings se
 
 ### Parameters
 
-#### output
+**output**
 
-#### settings
+**settings**
 
 ### Returns
 

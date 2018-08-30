@@ -12,5 +12,4 @@ protected MarkdownWriter(MarkdownWriterSettings settings = null)
 
 ### Parameters
 
-#### settings
-
+**settings**

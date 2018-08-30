@@ -21,7 +21,7 @@ public MRaw(MRaw other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MRaw\(String\) <a name="DotMarkdown_Linq_MRaw__ctor_System_String_"></a>
 
@@ -31,5 +31,4 @@ public MRaw(string value)
 
 ### Parameters
 
-#### value
-
+**value**

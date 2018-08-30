@@ -29,7 +29,7 @@ protected MContainer(MContainer other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MContainer\(Object\) <a name="DotMarkdown_Linq_MContainer__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ protected MContainer(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MContainer\(Object\[\]\) <a name="DotMarkdown_Linq_MContainer__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ protected MContainer(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

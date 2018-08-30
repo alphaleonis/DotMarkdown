@@ -23,7 +23,7 @@ public abstract void WriteStartTable(int columnCount)
 
 ### Parameters
 
-#### columnCount
+**columnCount**
 
 ## WriteStartTable\(IReadOnlyList\<TableColumnInfo>\) <a name="DotMarkdown_MarkdownWriter_WriteStartTable_System_Collections_Generic_IReadOnlyList_DotMarkdown_TableColumnInfo__"></a>
 
@@ -33,5 +33,4 @@ public abstract void WriteStartTable(IReadOnlyList<TableColumnInfo> columns)
 
 ### Parameters
 
-#### columns
-
+**columns**

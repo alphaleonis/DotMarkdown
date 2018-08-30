@@ -33,5 +33,4 @@ protected virtual void Dispose(bool disposing)
 
 ### Parameters
 
-#### disposing
-
+**disposing**

@@ -23,7 +23,7 @@ public static MIndentedCodeBlock IndentedCodeBlock(MIndentedCodeBlock other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -37,7 +37,7 @@ public static MIndentedCodeBlock IndentedCodeBlock(string value)
 
 ### Parameters
 
-#### value
+**value**
 
 ### Returns
 

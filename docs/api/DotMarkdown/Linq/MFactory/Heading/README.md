@@ -25,7 +25,7 @@ public static MHeading Heading(int level)
 
 ### Parameters
 
-#### level
+**level**
 
 ### Returns
 
@@ -39,9 +39,9 @@ public static MHeading Heading(int level, object content)
 
 ### Parameters
 
-#### level
+**level**
 
-#### content
+**content**
 
 ### Returns
 
@@ -55,9 +55,9 @@ public static MHeading Heading(int level, params object[] content)
 
 ### Parameters
 
-#### level
+**level**
 
-#### content
+**content**
 
 ### Returns
 
@@ -71,7 +71,7 @@ public static MHeading Heading(MHeading other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 

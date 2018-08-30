@@ -29,7 +29,7 @@ public MTable(MContainer other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MTable\(Object\) <a name="DotMarkdown_Linq_MTable__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MTable(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MTable\(Object\[\]\) <a name="DotMarkdown_Linq_MTable__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MTable(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

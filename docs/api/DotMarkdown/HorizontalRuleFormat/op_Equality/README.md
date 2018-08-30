@@ -14,9 +14,9 @@ public static bool operator ==(in HorizontalRuleFormat format1, in HorizontalRul
 
 ### Parameters
 
-#### format1
+**format1**
 
-#### format2
+**format2**
 
 ### Returns
 

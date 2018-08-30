@@ -29,7 +29,7 @@ protected MList(MList other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MList\(Object\) <a name="DotMarkdown_Linq_MList__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ protected MList(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MList\(Object\[\]\) <a name="DotMarkdown_Linq_MList__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ protected MList(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

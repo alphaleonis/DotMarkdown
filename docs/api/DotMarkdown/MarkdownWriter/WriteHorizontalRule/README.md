@@ -30,7 +30,7 @@ public void WriteHorizontalRule(in HorizontalRuleFormat format)
 
 ### Parameters
 
-#### format
+**format**
 
 ## WriteHorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
@@ -40,9 +40,8 @@ public abstract void WriteHorizontalRule(HorizontalRuleStyle style, int count = 
 
 ### Parameters
 
-#### style
+**style**
 
-#### count
+**count**
 
-#### separator
-
+**separator**

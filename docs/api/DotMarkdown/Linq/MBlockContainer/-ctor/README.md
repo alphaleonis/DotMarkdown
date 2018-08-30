@@ -29,7 +29,7 @@ protected MBlockContainer(MBlockContainer other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MBlockContainer\(Object\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ protected MBlockContainer(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MBlockContainer\(Object\[\]\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ protected MBlockContainer(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

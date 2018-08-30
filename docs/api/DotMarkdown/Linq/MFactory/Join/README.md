@@ -23,9 +23,9 @@ public static MInline Join(object separator, IEnumerable<object> values)
 
 ### Parameters
 
-#### separator
+**separator**
 
-#### values
+**values**
 
 ### Returns
 
@@ -39,9 +39,9 @@ public static MInline Join(object separator, params object[] values)
 
 ### Parameters
 
-#### separator
+**separator**
 
-#### values
+**values**
 
 ### Returns
 

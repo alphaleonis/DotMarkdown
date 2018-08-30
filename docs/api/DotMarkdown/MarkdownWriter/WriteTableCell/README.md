@@ -14,5 +14,4 @@ public virtual void WriteTableCell(string text)
 
 ### Parameters
 
-#### text
-
+**text**

@@ -14,5 +14,4 @@ public virtual void WriteBulletItem(string text)
 
 ### Parameters
 
-#### text
-
+**text**

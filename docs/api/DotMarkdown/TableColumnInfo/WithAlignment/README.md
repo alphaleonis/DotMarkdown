@@ -14,7 +14,7 @@ public TableColumnInfo WithAlignment(HorizontalAlignment alignment)
 
 ### Parameters
 
-#### alignment
+**alignment**
 
 ### Returns
 

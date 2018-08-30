@@ -14,5 +14,4 @@ public abstract void WriteInlineCode(string text)
 
 ### Parameters
 
-#### text
-
+**text**

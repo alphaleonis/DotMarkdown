@@ -23,7 +23,7 @@ public MTableColumn(HorizontalAlignment alignment)
 
 ### Parameters
 
-#### alignment
+**alignment**
 
 ## MTableColumn\(HorizontalAlignment, Object\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object_"></a>
 
@@ -33,9 +33,9 @@ public MTableColumn(HorizontalAlignment alignment, object content)
 
 ### Parameters
 
-#### alignment
+**alignment**
 
-#### content
+**content**
 
 ## MTableColumn\(HorizontalAlignment, Object\[\]\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object___"></a>
 
@@ -45,9 +45,9 @@ public MTableColumn(HorizontalAlignment alignment, params object[] content)
 
 ### Parameters
 
-#### alignment
+**alignment**
 
-#### content
+**content**
 
 ## MTableColumn\(MTableColumn\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_Linq_MTableColumn_"></a>
 
@@ -57,5 +57,4 @@ public MTableColumn(MTableColumn other)
 
 ### Parameters
 
-#### other
-
+**other**

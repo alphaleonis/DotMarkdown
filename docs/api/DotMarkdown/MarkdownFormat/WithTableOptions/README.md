@@ -14,7 +14,7 @@ public MarkdownFormat WithTableOptions(TableOptions tableOptions)
 
 ### Parameters
 
-#### tableOptions
+**tableOptions**
 
 ### Returns
 

@@ -14,5 +14,4 @@ public virtual void WriteBlockQuote(string text)
 
 ### Parameters
 
-#### text
-
+**text**

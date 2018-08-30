@@ -12,25 +12,24 @@ public MarkdownFormat(EmphasisStyle boldStyle = Asterisk, EmphasisStyle italicSt
 
 ### Parameters
 
-#### boldStyle
+**boldStyle**
 
-#### italicStyle
+**italicStyle**
 
-#### bulletListStyle
+**bulletListStyle**
 
-#### orderedListStyle
+**orderedListStyle**
 
-#### headingStyle
+**headingStyle**
 
-#### headingOptions
+**headingOptions**
 
-#### tableOptions
+**tableOptions**
 
-#### codeFenceStyle
+**codeFenceStyle**
 
-#### codeBlockOptions
+**codeBlockOptions**
 
-#### charEntityFormat
+**charEntityFormat**
 
-#### horizontalRuleFormat
-
+**horizontalRuleFormat**

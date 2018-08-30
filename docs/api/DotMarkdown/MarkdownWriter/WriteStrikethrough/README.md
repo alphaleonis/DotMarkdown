@@ -14,5 +14,4 @@ public virtual void WriteStrikethrough(string text)
 
 ### Parameters
 
-#### text
-
+**text**

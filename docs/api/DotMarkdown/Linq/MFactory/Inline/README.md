@@ -35,7 +35,7 @@ public static MInline Inline(MInline other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MInline Inline(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MInline Inline(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

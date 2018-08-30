@@ -14,5 +14,4 @@ public abstract void WriteComment(string text)
 
 ### Parameters
 
-#### text
-
+**text**

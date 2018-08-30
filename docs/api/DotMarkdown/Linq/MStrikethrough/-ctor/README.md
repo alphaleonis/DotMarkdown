@@ -29,7 +29,7 @@ public MStrikethrough(MStrikethrough other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MStrikethrough\(Object\) <a name="DotMarkdown_Linq_MStrikethrough__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MStrikethrough(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MStrikethrough\(Object\[\]\) <a name="DotMarkdown_Linq_MStrikethrough__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MStrikethrough(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

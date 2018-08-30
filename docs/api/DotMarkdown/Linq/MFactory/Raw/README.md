@@ -23,7 +23,7 @@ public static MRaw Raw(MRaw other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -37,7 +37,7 @@ public static MRaw Raw(string text)
 
 ### Parameters
 
-#### text
+**text**
 
 ### Returns
 

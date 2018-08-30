@@ -14,7 +14,6 @@ public virtual void WriteHeading(int level, string text)
 
 ### Parameters
 
-#### level
+**level**
 
-#### text
-
+**text**

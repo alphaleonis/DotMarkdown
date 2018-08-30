@@ -21,7 +21,7 @@ public MEntityRef(MEntityRef other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MEntityRef\(String\) <a name="DotMarkdown_Linq_MEntityRef__ctor_System_String_"></a>
 
@@ -31,5 +31,4 @@ public MEntityRef(string name)
 
 ### Parameters
 
-#### name
-
+**name**

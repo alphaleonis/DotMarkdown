@@ -14,7 +14,6 @@ public abstract void WriteLinkReference(string text, string label = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### label
-
+**label**

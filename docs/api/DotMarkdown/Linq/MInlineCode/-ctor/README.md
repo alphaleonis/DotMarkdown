@@ -21,7 +21,7 @@ public MInlineCode(MInlineCode other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MInlineCode\(String\) <a name="DotMarkdown_Linq_MInlineCode__ctor_System_String_"></a>
 
@@ -31,5 +31,4 @@ public MInlineCode(string text)
 
 ### Parameters
 
-#### text
-
+**text**

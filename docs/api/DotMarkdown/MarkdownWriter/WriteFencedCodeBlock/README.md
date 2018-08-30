@@ -14,7 +14,6 @@ public abstract void WriteFencedCodeBlock(string text, string info = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### info
-
+**info**

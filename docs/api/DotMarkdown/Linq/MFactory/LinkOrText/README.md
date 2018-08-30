@@ -14,11 +14,11 @@ public static MElement LinkOrText(string text, string url, string title = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### url
+**url**
 
-#### title
+**title**
 
 ### Returns
 

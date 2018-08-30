@@ -29,7 +29,7 @@ public MTableRow(MTableRow other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MTableRow\(Object\) <a name="DotMarkdown_Linq_MTableRow__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MTableRow(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MTableRow\(Object\[\]\) <a name="DotMarkdown_Linq_MTableRow__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MTableRow(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

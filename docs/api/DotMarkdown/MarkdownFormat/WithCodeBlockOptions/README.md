@@ -14,7 +14,7 @@ public MarkdownFormat WithCodeBlockOptions(CodeBlockOptions codeBlockOptions)
 
 ### Parameters
 
-#### codeBlockOptions
+**codeBlockOptions**
 
 ### Returns
 

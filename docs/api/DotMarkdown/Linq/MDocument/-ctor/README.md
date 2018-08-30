@@ -29,7 +29,7 @@ public MDocument(MDocument other)
 
 ### Parameters
 
-#### other
+**other**
 
 ## MDocument\(Object\) <a name="DotMarkdown_Linq_MDocument__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MDocument(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ## MDocument\(Object\[\]\) <a name="DotMarkdown_Linq_MDocument__ctor_System_Object___"></a>
 
@@ -49,5 +49,4 @@ public MDocument(params object[] content)
 
 ### Parameters
 
-#### content
-
+**content**

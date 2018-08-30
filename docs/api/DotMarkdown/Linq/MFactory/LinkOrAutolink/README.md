@@ -14,11 +14,11 @@ public static MElement LinkOrAutolink(string text, string url, string title = nu
 
 ### Parameters
 
-#### text
+**text**
 
-#### url
+**url**
 
-#### title
+**title**
 
 ### Returns
 

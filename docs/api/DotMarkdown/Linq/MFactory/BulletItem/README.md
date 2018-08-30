@@ -35,7 +35,7 @@ public static MBulletItem BulletItem(MBulletItem other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -49,7 +49,7 @@ public static MBulletItem BulletItem(object content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 
@@ -63,7 +63,7 @@ public static MBulletItem BulletItem(params object[] content)
 
 ### Parameters
 
-#### content
+**content**
 
 ### Returns
 

@@ -23,7 +23,7 @@ public MOrderedItem(int number)
 
 ### Parameters
 
-#### number
+**number**
 
 ## MOrderedItem\(Int32, Object\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object_"></a>
 
@@ -33,9 +33,9 @@ public MOrderedItem(int number, object content)
 
 ### Parameters
 
-#### number
+**number**
 
-#### content
+**content**
 
 ## MOrderedItem\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object___"></a>
 
@@ -45,9 +45,9 @@ public MOrderedItem(int number, params object[] content)
 
 ### Parameters
 
-#### number
+**number**
 
-#### content
+**content**
 
 ## MOrderedItem\(MOrderedItem\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_DotMarkdown_Linq_MOrderedItem_"></a>
 
@@ -57,5 +57,4 @@ public MOrderedItem(MOrderedItem other)
 
 ### Parameters
 
-#### other
-
+**other**

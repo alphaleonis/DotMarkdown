@@ -23,7 +23,7 @@ public static MImage Image(MImage other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -37,11 +37,11 @@ public static MImage Image(string text, string url, string title = null)
 
 ### Parameters
 
-#### text
+**text**
 
-#### url
+**url**
 
-#### title
+**title**
 
 ### Returns
 

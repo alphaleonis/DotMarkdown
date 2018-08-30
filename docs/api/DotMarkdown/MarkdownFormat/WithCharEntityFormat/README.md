@@ -14,7 +14,7 @@ public MarkdownFormat WithCharEntityFormat(CharEntityFormat charEntityFormat)
 
 ### Parameters
 
-#### charEntityFormat
+**charEntityFormat**
 
 ### Returns
 

@@ -14,5 +14,4 @@ public abstract void WriteCharEntity(char value)
 
 ### Parameters
 
-#### value
-
+**value**

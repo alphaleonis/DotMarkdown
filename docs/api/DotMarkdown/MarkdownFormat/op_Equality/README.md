@@ -14,9 +14,9 @@ public static bool operator ==(MarkdownFormat format1, MarkdownFormat format2)
 
 ### Parameters
 
-#### format1
+**format1**
 
-#### format2
+**format2**
 
 ### Returns
 

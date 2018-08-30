@@ -12,9 +12,8 @@ public TableColumnInfo(HorizontalAlignment alignment, int width, bool isWhiteSpa
 
 ### Parameters
 
-#### alignment
+**alignment**
 
-#### width
+**width**
 
-#### isWhiteSpace
-
+**isWhiteSpace**

@@ -23,7 +23,7 @@ public static MLink Link(MLink other)
 
 ### Parameters
 
-#### other
+**other**
 
 ### Returns
 
@@ -37,11 +37,11 @@ public static MLink Link(object content, string url, string title = null)
 
 ### Parameters
 
-#### content
+**content**
 
-#### url
+**url**
 
-#### title
+**title**
 
 ### Returns
 

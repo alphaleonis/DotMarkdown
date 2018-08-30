@@ -23,7 +23,7 @@ public MHeading(int level)
 
 ### Parameters
 
-#### level
+**level**
 
 ## MHeading\(Int32, Object\) <a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object_"></a>
 
@@ -33,9 +33,9 @@ public MHeading(int level, object content)
 
 ### Parameters
 
-#### level
+**level**
 
-#### content
+**content**
 
 ## MHeading\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object___"></a>
 
@@ -45,9 +45,9 @@ public MHeading(int level, params object[] content)
 
 ### Parameters
 
-#### level
+**level**
 
-#### content
+**content**
 
 ## MHeading\(MHeading\) <a name="DotMarkdown_Linq_MHeading__ctor_DotMarkdown_Linq_MHeading_"></a>
 
@@ -57,5 +57,4 @@ public MHeading(MHeading other)
 
 ### Parameters
 
-#### other
-
+**other**
