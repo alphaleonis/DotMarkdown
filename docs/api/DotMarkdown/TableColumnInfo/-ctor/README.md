@@ -1,3 +1,5 @@
+<a name="_top"></a>
+
 # TableColumnInfo\(HorizontalAlignment, Int32, Boolean\) Constructor
 
 [Home](../../../README.md#_top)

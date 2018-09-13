@@ -1,3 +1,5 @@
+<a name="_top"></a>
+
 # MarkdownWriterSettings\(MarkdownFormat, String, NewLineHandling, Boolean\) Constructor
 
 [Home](../../../README.md#_top)

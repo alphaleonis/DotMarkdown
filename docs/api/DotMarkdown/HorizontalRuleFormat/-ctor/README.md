@@ -1,3 +1,5 @@
+<a name="_top"></a>
+
 # HorizontalRuleFormat\(HorizontalRuleStyle, Int32, String\) Constructor
 
 [Home](../../../README.md#_top)

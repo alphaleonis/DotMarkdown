@@ -1,3 +1,5 @@
+<a name="_top"></a>
+
 # MarkdownFormat\(EmphasisStyle, EmphasisStyle, BulletListStyle, OrderedListStyle, HeadingStyle, HeadingOptions, TableOptions, CodeFenceStyle, CodeBlockOptions, CharEntityFormat, HorizontalRuleFormat?\) Constructor
 
 [Home](../../../README.md#_top)
