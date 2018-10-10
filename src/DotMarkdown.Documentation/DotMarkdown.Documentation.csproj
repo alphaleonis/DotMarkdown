@@ -10,9 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Roslynator.Documentation.CommandLine" Version="0.1.0-beta" />
+    <PackageReference Include="Roslynator.CommandLine" Version="0.1.0-beta" />
   </ItemGroup>
 
-  <Import Project="DotDoc.targets" />
+  <Import Project="GenerateDocumentation.targets" />
 
 </Project>
