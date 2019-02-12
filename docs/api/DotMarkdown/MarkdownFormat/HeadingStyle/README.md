@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownFormat\.HeadingStyle Property
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,5 +12,5 @@ public HeadingStyle HeadingStyle { get; }
 
 ### Property Value
 
-DotMarkdown\.[HeadingStyle](../../HeadingStyle/README.md#_top)
+DotMarkdown\.[HeadingStyle](../../HeadingStyle/README.md)
 

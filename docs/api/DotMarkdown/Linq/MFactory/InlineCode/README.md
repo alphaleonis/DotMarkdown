@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.InlineCode Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,7 +25,7 @@ public static MInlineCode InlineCode(MInlineCode other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md#_top)
+DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md)
 
 ## InlineCode\(String\) <a name="DotMarkdown_Linq_MFactory_InlineCode_System_String_"></a>
 
@@ -41,5 +39,5 @@ public static MInlineCode InlineCode(string text)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md#_top)
+DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md)
 

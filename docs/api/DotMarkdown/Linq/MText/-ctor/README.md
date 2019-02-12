@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MText Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MText](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MText](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.Heading4 Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -24,7 +22,7 @@ public static MHeading Heading4()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md#_top)
+DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 
 ## Heading4\(Object\) <a name="DotMarkdown_Linq_MFactory_Heading4_System_Object_"></a>
 
@@ -38,7 +36,7 @@ public static MHeading Heading4(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md#_top)
+DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 
 ## Heading4\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Heading4_System_Object___"></a>
 
@@ -52,5 +50,5 @@ public static MHeading Heading4(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md#_top)
+DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 

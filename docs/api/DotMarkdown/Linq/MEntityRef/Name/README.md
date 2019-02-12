@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MEntityRef\.Name Property
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MEntityRef](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MEntityRef](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

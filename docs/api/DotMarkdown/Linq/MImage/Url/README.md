@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MImage\.Url Property
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MImage](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MImage](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

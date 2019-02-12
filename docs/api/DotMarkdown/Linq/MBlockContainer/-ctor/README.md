@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MBlockContainer Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBlockContainer](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MBlockContainer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

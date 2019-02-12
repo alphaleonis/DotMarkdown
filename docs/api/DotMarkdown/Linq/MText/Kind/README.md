@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MText\.Kind Property
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MText](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MText](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,5 +12,5 @@ public override MarkdownKind Kind { get; }
 
 ### Property Value
 
-DotMarkdown\.[MarkdownKind](../../../MarkdownKind/README.md#_top)
+DotMarkdown\.[MarkdownKind](../../../MarkdownKind/README.md)
 

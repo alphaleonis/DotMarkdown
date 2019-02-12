@@ -1,15 +1,13 @@
-<a name="_top"></a>
-
 # TableOptions Enum
 
-[Home](../../README.md#_top) &#x2022; [Fields](#fields)
+[Home](../../README.md) &#x2022; [Fields](#fields)
 
-**Namespace**: [DotMarkdown](../README.md#_top)
+**Namespace**: [DotMarkdown](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-[System.FlagsAttribute]
+[System.Flags]
 public enum TableOptions
 ```
 

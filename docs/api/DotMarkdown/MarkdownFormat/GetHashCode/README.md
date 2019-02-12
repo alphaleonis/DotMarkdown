@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownFormat\.GetHashCode\(\) Method
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

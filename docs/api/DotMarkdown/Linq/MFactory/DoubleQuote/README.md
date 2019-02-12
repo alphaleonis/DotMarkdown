@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.DoubleQuote\(\) Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,5 +12,5 @@ public static MEntityRef DoubleQuote()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md#_top)
+DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
 

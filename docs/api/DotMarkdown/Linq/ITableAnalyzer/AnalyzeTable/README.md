@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # ITableAnalyzer\.AnalyzeTable\(IEnumerable\<MElement>\) Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[ITableAnalyzer](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[ITableAnalyzer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -18,5 +16,5 @@ IReadOnlyList<TableColumnInfo> AnalyzeTable(IEnumerable<MElement> rows)
 
 ### Returns
 
-System\.Collections\.Generic\.[IReadOnlyList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ireadonlylist-1)\<[TableColumnInfo](../../../TableColumnInfo/README.md#_top)>
+System\.Collections\.Generic\.[IReadOnlyList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ireadonlylist-1)\<[TableColumnInfo](../../../TableColumnInfo/README.md)>
 

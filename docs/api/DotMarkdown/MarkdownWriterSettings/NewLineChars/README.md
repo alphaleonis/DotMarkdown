@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownWriterSettings\.NewLineChars Property
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

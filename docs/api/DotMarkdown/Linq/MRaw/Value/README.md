@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MRaw\.Value Property
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MRaw](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MRaw](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

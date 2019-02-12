@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MInline Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MInline](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MInline](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

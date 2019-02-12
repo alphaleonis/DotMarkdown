@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MBlockQuote Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBlockQuote](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MBlockQuote](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

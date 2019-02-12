@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MObject\(\) Constructor
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MObject](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MObject](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

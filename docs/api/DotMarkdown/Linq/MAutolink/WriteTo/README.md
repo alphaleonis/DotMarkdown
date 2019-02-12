@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MAutolink\.WriteTo\(MarkdownWriter\) Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MAutolink](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MAutolink](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

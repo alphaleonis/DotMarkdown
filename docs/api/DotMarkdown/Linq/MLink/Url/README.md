@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MLink\.Url Property
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MLink](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MLink](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

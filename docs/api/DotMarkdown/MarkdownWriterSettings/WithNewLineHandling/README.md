@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownWriterSettings\.WithNewLineHandling\(NewLineHandling\) Method
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -18,5 +16,5 @@ public MarkdownWriterSettings WithNewLineHandling(NewLineHandling newLineHandlin
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriterSettings](../README.md#_top)
+DotMarkdown\.[MarkdownWriterSettings](../README.md)
 

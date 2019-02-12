@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.CharEntity Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,7 +25,7 @@ public static MCharEntity CharEntity(char value)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MCharEntity](../../MCharEntity/README.md#_top)
+DotMarkdown\.Linq\.[MCharEntity](../../MCharEntity/README.md)
 
 ## CharEntity\(MCharEntity\) <a name="DotMarkdown_Linq_MFactory_CharEntity_DotMarkdown_Linq_MCharEntity_"></a>
 
@@ -41,5 +39,5 @@ public static MCharEntity CharEntity(MCharEntity other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MCharEntity](../../MCharEntity/README.md#_top)
+DotMarkdown\.Linq\.[MCharEntity](../../MCharEntity/README.md)
 

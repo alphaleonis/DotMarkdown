@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.CompletedTaskItem Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -24,7 +22,7 @@ public static MTaskItem CompletedTaskItem()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md#_top)
+DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
 
 ## CompletedTaskItem\(Object\) <a name="DotMarkdown_Linq_MFactory_CompletedTaskItem_System_Object_"></a>
 
@@ -38,7 +36,7 @@ public static MTaskItem CompletedTaskItem(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md#_top)
+DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
 
 ## CompletedTaskItem\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_CompletedTaskItem_System_Object___"></a>
 
@@ -52,5 +50,5 @@ public static MTaskItem CompletedTaskItem(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md#_top)
+DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
 

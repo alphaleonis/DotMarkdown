@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownFormat\.OrderedListStyle Property
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,5 +12,5 @@ public OrderedListStyle OrderedListStyle { get; }
 
 ### Property Value
 
-DotMarkdown\.[OrderedListStyle](../../OrderedListStyle/README.md#_top)
+DotMarkdown\.[OrderedListStyle](../../OrderedListStyle/README.md)
 

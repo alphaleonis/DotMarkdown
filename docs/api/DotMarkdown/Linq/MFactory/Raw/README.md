@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.Raw Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,7 +25,7 @@ public static MRaw Raw(MRaw other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md#_top)
+DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md)
 
 ## Raw\(String\) <a name="DotMarkdown_Linq_MFactory_Raw_System_String_"></a>
 
@@ -41,5 +39,5 @@ public static MRaw Raw(string text)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md#_top)
+DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md)
 

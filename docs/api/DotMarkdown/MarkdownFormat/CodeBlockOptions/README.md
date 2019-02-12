@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownFormat\.CodeBlockOptions Property
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,5 +12,5 @@ public CodeBlockOptions CodeBlockOptions { get; }
 
 ### Property Value
 
-DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md#_top)
+DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md)
 

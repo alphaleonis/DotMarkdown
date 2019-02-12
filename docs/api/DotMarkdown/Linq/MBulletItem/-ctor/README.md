@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MBulletItem Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBulletItem](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MBulletItem](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

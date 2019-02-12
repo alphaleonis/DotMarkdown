@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # TableColumnInfo\.WithAlignment\(HorizontalAlignment\) Method
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[TableColumnInfo](../README.md#_top)
+**Containing Type**: DotMarkdown\.[TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -18,5 +16,5 @@ public TableColumnInfo WithAlignment(HorizontalAlignment alignment)
 
 ### Returns
 
-DotMarkdown\.[TableColumnInfo](../README.md#_top)
+DotMarkdown\.[TableColumnInfo](../README.md)
 

@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownWriter\.Create Method
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriter](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -34,7 +32,7 @@ public static MarkdownWriter Create(Stream stream, Encoding encoding, MarkdownWr
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md#_top)
+DotMarkdown\.[MarkdownWriter](../README.md)
 
 ## Create\(Stream, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_IO_Stream_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -50,7 +48,7 @@ public static MarkdownWriter Create(Stream stream, MarkdownWriterSettings settin
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md#_top)
+DotMarkdown\.[MarkdownWriter](../README.md)
 
 ## Create\(StringBuilder, IFormatProvider, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_System_IFormatProvider_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -68,7 +66,7 @@ public static MarkdownWriter Create(StringBuilder output, IFormatProvider format
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md#_top)
+DotMarkdown\.[MarkdownWriter](../README.md)
 
 ## Create\(StringBuilder, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -84,7 +82,7 @@ public static MarkdownWriter Create(StringBuilder output, MarkdownWriterSettings
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md#_top)
+DotMarkdown\.[MarkdownWriter](../README.md)
 
 ## Create\(TextWriter, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_IO_TextWriter_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -100,5 +98,5 @@ public static MarkdownWriter Create(TextWriter output, MarkdownWriterSettings se
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md#_top)
+DotMarkdown\.[MarkdownWriter](../README.md)
 

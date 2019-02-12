@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.TableColumn Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +27,7 @@ public static MTableColumn TableColumn(HorizontalAlignment alignment)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md#_top)
+DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 
 ## TableColumn\(HorizontalAlignment, Object\) <a name="DotMarkdown_Linq_MFactory_TableColumn_DotMarkdown_HorizontalAlignment_System_Object_"></a>
 
@@ -45,7 +43,7 @@ public static MTableColumn TableColumn(HorizontalAlignment alignment, object con
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md#_top)
+DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 
 ## TableColumn\(HorizontalAlignment, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TableColumn_DotMarkdown_HorizontalAlignment_System_Object___"></a>
 
@@ -61,7 +59,7 @@ public static MTableColumn TableColumn(HorizontalAlignment alignment, params obj
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md#_top)
+DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 
 ## TableColumn\(MTableColumn\) <a name="DotMarkdown_Linq_MFactory_TableColumn_DotMarkdown_Linq_MTableColumn_"></a>
 
@@ -75,5 +73,5 @@ public static MTableColumn TableColumn(MTableColumn other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md#_top)
+DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 

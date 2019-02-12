@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.OrderedList Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -25,7 +23,7 @@ public static MOrderedList OrderedList()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md#_top)
+DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 
 ## OrderedList\(MOrderedList\) <a name="DotMarkdown_Linq_MFactory_OrderedList_DotMarkdown_Linq_MOrderedList_"></a>
 
@@ -39,7 +37,7 @@ public static MOrderedList OrderedList(MOrderedList other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md#_top)
+DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 
 ## OrderedList\(Object\) <a name="DotMarkdown_Linq_MFactory_OrderedList_System_Object_"></a>
 
@@ -53,7 +51,7 @@ public static MOrderedList OrderedList(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md#_top)
+DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 
 ## OrderedList\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_OrderedList_System_Object___"></a>
 
@@ -67,5 +65,5 @@ public static MOrderedList OrderedList(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md#_top)
+DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 

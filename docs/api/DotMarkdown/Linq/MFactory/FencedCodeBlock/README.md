@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.FencedCodeBlock Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,7 +25,7 @@ public static MFencedCodeBlock FencedCodeBlock(MFencedCodeBlock other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md#_top)
+DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md)
 
 ## FencedCodeBlock\(String, String\) <a name="DotMarkdown_Linq_MFactory_FencedCodeBlock_System_String_System_String_"></a>
 
@@ -43,5 +41,5 @@ public static MFencedCodeBlock FencedCodeBlock(string value, string info = null)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md#_top)
+DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md)
 

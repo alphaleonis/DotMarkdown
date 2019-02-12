@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.Italic Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -25,7 +23,7 @@ public static MItalic Italic()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md#_top)
+DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md)
 
 ## Italic\(MItalic\) <a name="DotMarkdown_Linq_MFactory_Italic_DotMarkdown_Linq_MItalic_"></a>
 
@@ -39,7 +37,7 @@ public static MItalic Italic(MItalic other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md#_top)
+DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md)
 
 ## Italic\(Object\) <a name="DotMarkdown_Linq_MFactory_Italic_System_Object_"></a>
 
@@ -53,7 +51,7 @@ public static MItalic Italic(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md#_top)
+DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md)
 
 ## Italic\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Italic_System_Object___"></a>
 
@@ -67,5 +65,5 @@ public static MItalic Italic(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md#_top)
+DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md)
 

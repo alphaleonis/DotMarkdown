@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownEscaper\.Escape\(String, Func\<Char, Boolean>\) Method
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownEscaper](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownEscaper](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

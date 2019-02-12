@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.Image Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,7 +25,7 @@ public static MImage Image(MImage other)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MImage](../../MImage/README.md#_top)
+DotMarkdown\.Linq\.[MImage](../../MImage/README.md)
 
 ## Image\(String, String, String\) <a name="DotMarkdown_Linq_MFactory_Image_System_String_System_String_System_String_"></a>
 
@@ -45,5 +43,5 @@ public static MImage Image(string text, string url, string title = null)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MImage](../../MImage/README.md#_top)
+DotMarkdown\.Linq\.[MImage](../../MImage/README.md)
 

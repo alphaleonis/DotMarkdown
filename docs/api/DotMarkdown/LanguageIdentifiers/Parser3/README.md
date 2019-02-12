@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # LanguageIdentifiers\.Parser3 Field
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[LanguageIdentifiers](../README.md#_top)
+**Containing Type**: DotMarkdown\.[LanguageIdentifiers](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

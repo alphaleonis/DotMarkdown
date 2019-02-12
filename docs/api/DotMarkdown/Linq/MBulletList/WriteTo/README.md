@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MBulletList\.WriteTo\(MarkdownWriter\) Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBulletList](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MBulletList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MBold Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBold](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MBold](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

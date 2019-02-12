@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MHorizontalRule Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MHorizontalRule](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MHorizontalRule](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

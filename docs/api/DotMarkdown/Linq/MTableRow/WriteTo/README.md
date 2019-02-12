@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MTableRow\.WriteTo\(MarkdownWriter\) Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MTableRow](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MTableRow](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

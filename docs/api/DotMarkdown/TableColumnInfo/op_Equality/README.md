@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # TableColumnInfo\.Equality\(TableColumnInfo, TableColumnInfo\) Operator
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[TableColumnInfo](../README.md#_top)
+**Containing Type**: DotMarkdown\.[TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

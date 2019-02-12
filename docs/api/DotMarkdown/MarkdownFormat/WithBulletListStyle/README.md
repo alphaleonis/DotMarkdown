@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownFormat\.WithBulletListStyle\(BulletListStyle\) Method
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -18,5 +16,5 @@ public MarkdownFormat WithBulletListStyle(BulletListStyle bulletListStyle)
 
 ### Returns
 
-DotMarkdown\.[MarkdownFormat](../README.md#_top)
+DotMarkdown\.[MarkdownFormat](../README.md)
 

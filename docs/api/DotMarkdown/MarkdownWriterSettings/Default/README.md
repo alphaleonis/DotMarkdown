@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownWriterSettings\.Default Property
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,5 +12,5 @@ public static MarkdownWriterSettings Default { get; }
 
 ### Property Value
 
-DotMarkdown\.[MarkdownWriterSettings](../README.md#_top)
+DotMarkdown\.[MarkdownWriterSettings](../README.md)
 

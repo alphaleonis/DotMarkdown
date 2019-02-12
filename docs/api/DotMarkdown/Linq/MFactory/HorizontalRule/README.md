@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFactory\.HorizontalRule Method
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -24,7 +22,7 @@ public static MHorizontalRule HorizontalRule()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md#_top)
+DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md)
 
 ## HorizontalRule\(HorizontalRuleFormat\) <a name="DotMarkdown_Linq_MFactory_HorizontalRule_DotMarkdown_HorizontalRuleFormat__"></a>
 
@@ -38,7 +36,7 @@ public static MHorizontalRule HorizontalRule(in HorizontalRuleFormat format)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md#_top)
+DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md)
 
 ## HorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_Linq_MFactory_HorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
@@ -56,5 +54,5 @@ public static MHorizontalRule HorizontalRule(HorizontalRuleStyle style, int coun
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md#_top)
+DotMarkdown\.Linq\.[MHorizontalRule](../../MHorizontalRule/README.md)
 

@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # HorizontalRuleFormat\.Inequality\(HorizontalRuleFormat, HorizontalRuleFormat\) Operator
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[HorizontalRuleFormat](../README.md#_top)
+**Containing Type**: DotMarkdown\.[HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

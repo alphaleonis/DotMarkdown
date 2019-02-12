@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MarkdownWriterSettings\(MarkdownFormat, String, NewLineHandling, Boolean\) Constructor
 
-[Home](../../../README.md#_top)
+[Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md#_top)
+**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

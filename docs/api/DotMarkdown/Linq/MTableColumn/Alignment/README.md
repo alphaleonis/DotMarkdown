@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MTableColumn\.Alignment Property
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MTableColumn](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MTableColumn](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,5 +12,5 @@ public HorizontalAlignment Alignment { get; set; }
 
 ### Property Value
 
-DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md#_top)
+DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
 

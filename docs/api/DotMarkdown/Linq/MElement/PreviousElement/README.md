@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MElement\.PreviousElement Property
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MElement](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MElement](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -14,5 +12,5 @@ public MElement PreviousElement { get; }
 
 ### Property Value
 
-DotMarkdown\.Linq\.[MElement](../README.md#_top)
+DotMarkdown\.Linq\.[MElement](../README.md)
 

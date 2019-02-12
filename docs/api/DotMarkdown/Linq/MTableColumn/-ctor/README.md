@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MTableColumn Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MTableColumn](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MTableColumn](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

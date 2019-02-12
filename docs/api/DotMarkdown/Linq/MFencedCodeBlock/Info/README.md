@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MFencedCodeBlock\.Info Property
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFencedCodeBlock](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MFencedCodeBlock](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

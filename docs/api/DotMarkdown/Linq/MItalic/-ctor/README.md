@@ -1,10 +1,8 @@
-<a name="_top"></a>
-
 # MItalic Constructors
 
-[Home](../../../../README.md#_top)
+[Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MItalic](../README.md#_top)
+**Containing Type**: DotMarkdown\.Linq\.[MItalic](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
