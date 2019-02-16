@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public readonly struct HorizontalRuleFormat : System.IEquatable<HorizontalRuleFormat>
+public readonly struct HorizontalRuleFormat : System.IEquatable<DotMarkdown.HorizontalRuleFormat>
 ```
 
 ### Inheritance

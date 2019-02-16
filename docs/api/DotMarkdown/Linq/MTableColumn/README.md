@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MTableColumn : MContainer
+public class MTableColumn : DotMarkdown.Linq.MContainer
 ```
 
 ### Inheritance

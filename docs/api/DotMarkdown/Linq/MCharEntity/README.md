@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MCharEntity : MElement
+public class MCharEntity : DotMarkdown.Linq.MElement
 ```
 
 ### Inheritance

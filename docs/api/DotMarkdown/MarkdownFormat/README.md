@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MarkdownFormat : System.IEquatable<MarkdownFormat>
+public class MarkdownFormat : System.IEquatable<DotMarkdown.MarkdownFormat>
 ```
 
 ### Inheritance

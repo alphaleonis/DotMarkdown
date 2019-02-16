@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public abstract class MList : MContainer
+public abstract class MList : DotMarkdown.Linq.MContainer
 ```
 
 ### Inheritance

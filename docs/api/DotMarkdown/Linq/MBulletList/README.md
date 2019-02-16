@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MBulletList : MList
+public class MBulletList : DotMarkdown.Linq.MList
 ```
 
 ### Inheritance

@@ -1,6 +1,10 @@
 ﻿<Project>
   <Target Name="GenerateDocumentation" AfterTargets="Build" Condition=" '$(Configuration)' == 'Release'">
 
+  <PropertyGroup>
+    <RoslynatorExe>E:\Dokumenty\Visual Studio 2017\Projects\Roslynator\src\CommandLine\bin\Debug\net461\roslynator</RoslynatorExe>
+  </PropertyGroup>
+
     <Exec Command="&quot;$(RoslynatorExe)&quot; generate-doc ^
       &quot;$(SolutionPath)&quot; ^
       --msbuild-path &quot;$(MSBuildBinPath)&quot; ^
@@ -15,6 +19,7 @@
       --msbuild-path &quot;$(MSBuildBinPath)&quot; ^
       --projects DotMarkdown ^
       --visibility public ^
+      --omit-containing-namespace ^
       --output &quot;$(SolutionDir)docs\api.txt&quot; ^
       --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;"
           LogStandardErrorAsError="true" ConsoleToMSBuild="true">

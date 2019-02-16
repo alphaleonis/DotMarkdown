@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MBold : MInline
+public class MBold : DotMarkdown.Linq.MInline
 ```
 
 ### Inheritance

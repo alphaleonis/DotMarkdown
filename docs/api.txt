@@ -1,4 +1,4 @@
-﻿DotMarkdown, Version=0.1.0.2, Culture=neutral, PublicKeyToken=117de6512634d621
+﻿assembly DotMarkdown, Version=0.1.0.2, Culture=neutral, PublicKeyToken=117de6512634d621
 
 namespace DotMarkdown
 

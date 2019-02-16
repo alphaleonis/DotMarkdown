@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MHorizontalRule : MElement
+public class MHorizontalRule : DotMarkdown.Linq.MElement
 ```
 
 ### Inheritance

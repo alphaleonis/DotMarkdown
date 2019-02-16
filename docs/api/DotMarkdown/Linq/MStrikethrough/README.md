@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MStrikethrough : MInline
+public class MStrikethrough : DotMarkdown.Linq.MInline
 ```
 
 ### Inheritance
