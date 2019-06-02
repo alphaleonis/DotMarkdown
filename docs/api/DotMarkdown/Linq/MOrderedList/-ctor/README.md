@@ -24,7 +24,7 @@ public MOrderedList()
 ## MOrderedList\(MOrderedList\) <a name="DotMarkdown_Linq_MOrderedList__ctor_DotMarkdown_Linq_MOrderedList_"></a>
 
 ```csharp
-public MOrderedList(MOrderedList other)
+public MOrderedList(DotMarkdown.Linq.MOrderedList other)
 ```
 
 ### Parameters

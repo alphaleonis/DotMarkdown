@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public virtual MarkdownWriterSettings Settings { get; }
+public virtual DotMarkdown.MarkdownWriterSettings Settings { get; }
 ```
 
 ### Property Value

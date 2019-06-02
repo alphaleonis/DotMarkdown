@@ -17,7 +17,7 @@
 ## MHorizontalRule\(HorizontalRuleFormat\) <a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_HorizontalRuleFormat__"></a>
 
 ```csharp
-public MHorizontalRule(in HorizontalRuleFormat format)
+public MHorizontalRule(in DotMarkdown.HorizontalRuleFormat format)
 ```
 
 ### Parameters
@@ -27,7 +27,7 @@ public MHorizontalRule(in HorizontalRuleFormat format)
 ## MHorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
 ```csharp
-public MHorizontalRule(HorizontalRuleStyle style, int count, string separator)
+public MHorizontalRule(DotMarkdown.HorizontalRuleStyle style, int count, string separator)
 ```
 
 ### Parameters
@@ -41,7 +41,7 @@ public MHorizontalRule(HorizontalRuleStyle style, int count, string separator)
 ## MHorizontalRule\(MHorizontalRule\) <a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_Linq_MHorizontalRule_"></a>
 
 ```csharp
-public MHorizontalRule(MHorizontalRule other)
+public MHorizontalRule(DotMarkdown.Linq.MHorizontalRule other)
 ```
 
 ### Parameters

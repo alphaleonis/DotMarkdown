@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static MEntityRef GreaterThan()
+public static DotMarkdown.Linq.MEntityRef GreaterThan()
 ```
 
 ### Returns

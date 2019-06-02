@@ -16,7 +16,7 @@
 ## EntityRef\(MEntityRef\) <a name="DotMarkdown_Linq_MFactory_EntityRef_DotMarkdown_Linq_MEntityRef_"></a>
 
 ```csharp
-public static MEntityRef EntityRef(MEntityRef other)
+public static DotMarkdown.Linq.MEntityRef EntityRef(DotMarkdown.Linq.MEntityRef other)
 ```
 
 ### Parameters
@@ -30,7 +30,7 @@ DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
 ## EntityRef\(String\) <a name="DotMarkdown_Linq_MFactory_EntityRef_System_String_"></a>
 
 ```csharp
-public static MEntityRef EntityRef(string name)
+public static DotMarkdown.Linq.MEntityRef EntityRef(string name)
 ```
 
 ### Parameters

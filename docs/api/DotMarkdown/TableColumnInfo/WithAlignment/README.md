@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public TableColumnInfo WithAlignment(HorizontalAlignment alignment)
+public DotMarkdown.TableColumnInfo WithAlignment(DotMarkdown.HorizontalAlignment alignment)
 ```
 
 ### Parameters

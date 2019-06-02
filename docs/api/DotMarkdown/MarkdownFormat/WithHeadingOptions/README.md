@@ -16,7 +16,7 @@
 ## WithHeadingOptions\(HeadingOptions\) <a name="DotMarkdown_MarkdownFormat_WithHeadingOptions_DotMarkdown_HeadingOptions_"></a>
 
 ```csharp
-public MarkdownFormat WithHeadingOptions(HeadingOptions headingOptions)
+public DotMarkdown.MarkdownFormat WithHeadingOptions(DotMarkdown.HeadingOptions headingOptions)
 ```
 
 ### Parameters
@@ -30,7 +30,7 @@ DotMarkdown\.[MarkdownFormat](../README.md)
 ## WithHeadingOptions\(HeadingStyle\) <a name="DotMarkdown_MarkdownFormat_WithHeadingOptions_DotMarkdown_HeadingStyle_"></a>
 
 ```csharp
-public MarkdownFormat WithHeadingOptions(HeadingStyle headingStyle)
+public DotMarkdown.MarkdownFormat WithHeadingOptions(DotMarkdown.HeadingStyle headingStyle)
 ```
 
 ### Parameters

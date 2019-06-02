@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static string Escape(string value, Func<char, bool> shouldBeEscaped = null)
+public static string Escape(string value, System.Func<char, bool> shouldBeEscaped = null)
 ```
 
 ### Parameters

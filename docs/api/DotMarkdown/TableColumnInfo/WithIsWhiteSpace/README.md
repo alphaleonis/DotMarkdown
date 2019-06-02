@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public TableColumnInfo WithIsWhiteSpace(bool isWhiteSpace)
+public DotMarkdown.TableColumnInfo WithIsWhiteSpace(bool isWhiteSpace)
 ```
 
 ### Parameters

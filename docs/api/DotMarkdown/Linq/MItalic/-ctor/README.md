@@ -24,7 +24,7 @@ public MItalic()
 ## MItalic\(MItalic\) <a name="DotMarkdown_Linq_MItalic__ctor_DotMarkdown_Linq_MItalic_"></a>
 
 ```csharp
-public MItalic(MItalic other)
+public MItalic(DotMarkdown.Linq.MItalic other)
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@
 ## MInlineCode\(MInlineCode\) <a name="DotMarkdown_Linq_MInlineCode__ctor_DotMarkdown_Linq_MInlineCode_"></a>
 
 ```csharp
-public MInlineCode(MInlineCode other)
+public MInlineCode(DotMarkdown.Linq.MInlineCode other)
 ```
 
 ### Parameters

@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownWriterSettings WithNewLineHandling(NewLineHandling newLineHandling)
+public DotMarkdown.MarkdownWriterSettings WithNewLineHandling(DotMarkdown.NewLineHandling newLineHandling)
 ```
 
 ### Parameters

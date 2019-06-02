@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static MEntityRef DoubleQuote()
+public static DotMarkdown.Linq.MEntityRef DoubleQuote()
 ```
 
 ### Returns

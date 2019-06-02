@@ -16,7 +16,7 @@
 ## Autolink\(MAutolink\) <a name="DotMarkdown_Linq_MFactory_Autolink_DotMarkdown_Linq_MAutolink_"></a>
 
 ```csharp
-public static MAutolink Autolink(MAutolink other)
+public static DotMarkdown.Linq.MAutolink Autolink(DotMarkdown.Linq.MAutolink other)
 ```
 
 ### Parameters
@@ -30,7 +30,7 @@ DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md)
 ## Autolink\(String\) <a name="DotMarkdown_Linq_MFactory_Autolink_System_String_"></a>
 
 ```csharp
-public static MAutolink Autolink(string url)
+public static DotMarkdown.Linq.MAutolink Autolink(string url)
 ```
 
 ### Parameters

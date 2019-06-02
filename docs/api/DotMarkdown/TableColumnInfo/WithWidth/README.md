@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public TableColumnInfo WithWidth(int width)
+public DotMarkdown.TableColumnInfo WithWidth(int width)
 ```
 
 ### Parameters

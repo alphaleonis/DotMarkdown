@@ -18,7 +18,7 @@
 ## MTableColumn\(HorizontalAlignment\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_"></a>
 
 ```csharp
-public MTableColumn(HorizontalAlignment alignment)
+public MTableColumn(DotMarkdown.HorizontalAlignment alignment)
 ```
 
 ### Parameters
@@ -28,7 +28,7 @@ public MTableColumn(HorizontalAlignment alignment)
 ## MTableColumn\(HorizontalAlignment, Object\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object_"></a>
 
 ```csharp
-public MTableColumn(HorizontalAlignment alignment, object content)
+public MTableColumn(DotMarkdown.HorizontalAlignment alignment, object content)
 ```
 
 ### Parameters
@@ -40,7 +40,7 @@ public MTableColumn(HorizontalAlignment alignment, object content)
 ## MTableColumn\(HorizontalAlignment, Object\[\]\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object___"></a>
 
 ```csharp
-public MTableColumn(HorizontalAlignment alignment, params object[] content)
+public MTableColumn(DotMarkdown.HorizontalAlignment alignment, params object[] content)
 ```
 
 ### Parameters
@@ -52,7 +52,7 @@ public MTableColumn(HorizontalAlignment alignment, params object[] content)
 ## MTableColumn\(MTableColumn\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_Linq_MTableColumn_"></a>
 
 ```csharp
-public MTableColumn(MTableColumn other)
+public MTableColumn(DotMarkdown.Linq.MTableColumn other)
 ```
 
 ### Parameters

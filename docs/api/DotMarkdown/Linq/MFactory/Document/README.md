@@ -18,7 +18,7 @@
 ## Document\(\) <a name="DotMarkdown_Linq_MFactory_Document"></a>
 
 ```csharp
-public static MDocument Document()
+public static DotMarkdown.Linq.MDocument Document()
 ```
 
 ### Returns
@@ -28,7 +28,7 @@ DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md)
 ## Document\(MDocument\) <a name="DotMarkdown_Linq_MFactory_Document_DotMarkdown_Linq_MDocument_"></a>
 
 ```csharp
-public static MDocument Document(MDocument other)
+public static DotMarkdown.Linq.MDocument Document(DotMarkdown.Linq.MDocument other)
 ```
 
 ### Parameters
@@ -42,7 +42,7 @@ DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md)
 ## Document\(Object\) <a name="DotMarkdown_Linq_MFactory_Document_System_Object_"></a>
 
 ```csharp
-public static MDocument Document(object content)
+public static DotMarkdown.Linq.MDocument Document(object content)
 ```
 
 ### Parameters
@@ -56,7 +56,7 @@ DotMarkdown\.Linq\.[MDocument](../../MDocument/README.md)
 ## Document\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Document_System_Object___"></a>
 
 ```csharp
-public static MDocument Document(params object[] content)
+public static DotMarkdown.Linq.MDocument Document(params object[] content)
 ```
 
 ### Parameters

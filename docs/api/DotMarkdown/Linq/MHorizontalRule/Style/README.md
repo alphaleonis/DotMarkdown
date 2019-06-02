@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public HorizontalRuleStyle Style { get; set; }
+public DotMarkdown.HorizontalRuleStyle Style { get; set; }
 ```
 
 ### Property Value

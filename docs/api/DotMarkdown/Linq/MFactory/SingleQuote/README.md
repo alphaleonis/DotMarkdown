@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static MEntityRef SingleQuote()
+public static DotMarkdown.Linq.MEntityRef SingleQuote()
 ```
 
 ### Returns

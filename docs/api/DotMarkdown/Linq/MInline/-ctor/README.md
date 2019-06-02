@@ -24,7 +24,7 @@ public MInline()
 ## MInline\(MContainer\) <a name="DotMarkdown_Linq_MInline__ctor_DotMarkdown_Linq_MContainer_"></a>
 
 ```csharp
-public MInline(MContainer other)
+public MInline(DotMarkdown.Linq.MContainer other)
 ```
 
 ### Parameters

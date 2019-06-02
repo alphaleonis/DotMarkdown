@@ -7,10 +7,10 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public IEnumerable<MElement> DescendantsAndSelf()
+public System.Collections.Generic.IEnumerable<DotMarkdown.Linq.MElement> DescendantsAndSelf()
 ```
 
 ### Returns
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[MElement](../../MElement/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<DotMarkdown\.Linq\.[MElement](../../MElement/README.md)>
 

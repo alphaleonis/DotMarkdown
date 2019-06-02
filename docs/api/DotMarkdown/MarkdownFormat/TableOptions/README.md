@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public TableOptions TableOptions { get; }
+public DotMarkdown.TableOptions TableOptions { get; }
 ```
 
 ### Property Value

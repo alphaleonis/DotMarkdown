@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public HorizontalRuleFormat(HorizontalRuleStyle style, int count, string separator)
+public HorizontalRuleFormat(DotMarkdown.HorizontalRuleStyle style, int count, string separator)
 ```
 
 ### Parameters

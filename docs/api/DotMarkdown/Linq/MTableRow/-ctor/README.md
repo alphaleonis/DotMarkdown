@@ -24,7 +24,7 @@ public MTableRow()
 ## MTableRow\(MTableRow\) <a name="DotMarkdown_Linq_MTableRow__ctor_DotMarkdown_Linq_MTableRow_"></a>
 
 ```csharp
-public MTableRow(MTableRow other)
+public MTableRow(DotMarkdown.Linq.MTableRow other)
 ```
 
 ### Parameters

@@ -52,7 +52,7 @@ public MOrderedItem(int number, params object[] content)
 ## MOrderedItem\(MOrderedItem\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_DotMarkdown_Linq_MOrderedItem_"></a>
 
 ```csharp
-public MOrderedItem(MOrderedItem other)
+public MOrderedItem(DotMarkdown.Linq.MOrderedItem other)
 ```
 
 ### Parameters

@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownWriterSettings WithCloseOutput(bool closeOutput)
+public DotMarkdown.MarkdownWriterSettings WithCloseOutput(bool closeOutput)
 ```
 
 ### Parameters

@@ -24,7 +24,7 @@ public MBlockQuote()
 ## MBlockQuote\(MBlockQuote\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_DotMarkdown_Linq_MBlockQuote_"></a>
 
 ```csharp
-public MBlockQuote(MBlockQuote other)
+public MBlockQuote(DotMarkdown.Linq.MBlockQuote other)
 ```
 
 ### Parameters

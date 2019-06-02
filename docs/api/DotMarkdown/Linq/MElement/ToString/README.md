@@ -27,7 +27,7 @@ System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 ## ToString\(MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
-public string ToString(MarkdownFormat format)
+public string ToString(DotMarkdown.MarkdownFormat format)
 ```
 
 ### Parameters
@@ -41,7 +41,7 @@ System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 ## ToString\(MarkdownWriterSettings\) <a name="DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_"></a>
 
 ```csharp
-public string ToString(MarkdownWriterSettings settings)
+public string ToString(DotMarkdown.MarkdownWriterSettings settings)
 ```
 
 ### Parameters

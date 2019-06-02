@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MDocument Document { get; }
+public DotMarkdown.Linq.MDocument Document { get; }
 ```
 
 ### Property Value

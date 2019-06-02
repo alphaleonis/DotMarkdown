@@ -18,7 +18,7 @@
 ## Bold\(\) <a name="DotMarkdown_Linq_MFactory_Bold"></a>
 
 ```csharp
-public static MBold Bold()
+public static DotMarkdown.Linq.MBold Bold()
 ```
 
 ### Returns
@@ -28,7 +28,7 @@ DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 ## Bold\(MBold\) <a name="DotMarkdown_Linq_MFactory_Bold_DotMarkdown_Linq_MBold_"></a>
 
 ```csharp
-public static MBold Bold(MBold other)
+public static DotMarkdown.Linq.MBold Bold(DotMarkdown.Linq.MBold other)
 ```
 
 ### Parameters
@@ -42,7 +42,7 @@ DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 ## Bold\(Object\) <a name="DotMarkdown_Linq_MFactory_Bold_System_Object_"></a>
 
 ```csharp
-public static MBold Bold(object content)
+public static DotMarkdown.Linq.MBold Bold(object content)
 ```
 
 ### Parameters
@@ -56,7 +56,7 @@ DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 ## Bold\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Bold_System_Object___"></a>
 
 ```csharp
-public static MBold Bold(params object[] content)
+public static DotMarkdown.Linq.MBold Bold(params object[] content)
 ```
 
 ### Parameters

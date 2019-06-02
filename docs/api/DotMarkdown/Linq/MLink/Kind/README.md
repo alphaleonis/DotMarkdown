@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public override MarkdownKind Kind { get; }
+public override DotMarkdown.MarkdownKind Kind { get; }
 ```
 
 ### Property Value

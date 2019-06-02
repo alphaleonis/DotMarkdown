@@ -24,7 +24,7 @@ protected MBlockContainer()
 ## MBlockContainer\(MBlockContainer\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_DotMarkdown_Linq_MBlockContainer_"></a>
 
 ```csharp
-protected MBlockContainer(MBlockContainer other)
+protected MBlockContainer(DotMarkdown.Linq.MBlockContainer other)
 ```
 
 ### Parameters

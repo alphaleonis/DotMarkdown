@@ -16,7 +16,7 @@
 ## MAutolink\(MAutolink\) <a name="DotMarkdown_Linq_MAutolink__ctor_DotMarkdown_Linq_MAutolink_"></a>
 
 ```csharp
-public MAutolink(MAutolink other)
+public MAutolink(DotMarkdown.Linq.MAutolink other)
 ```
 
 ### Parameters

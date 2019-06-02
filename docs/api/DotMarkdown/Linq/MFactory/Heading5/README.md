@@ -17,7 +17,7 @@
 ## Heading5\(\) <a name="DotMarkdown_Linq_MFactory_Heading5"></a>
 
 ```csharp
-public static MHeading Heading5()
+public static DotMarkdown.Linq.MHeading Heading5()
 ```
 
 ### Returns
@@ -27,7 +27,7 @@ DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 ## Heading5\(Object\) <a name="DotMarkdown_Linq_MFactory_Heading5_System_Object_"></a>
 
 ```csharp
-public static MHeading Heading5(object content)
+public static DotMarkdown.Linq.MHeading Heading5(object content)
 ```
 
 ### Parameters
@@ -41,7 +41,7 @@ DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 ## Heading5\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Heading5_System_Object___"></a>
 
 ```csharp
-public static MHeading Heading5(params object[] content)
+public static DotMarkdown.Linq.MHeading Heading5(params object[] content)
 ```
 
 ### Parameters

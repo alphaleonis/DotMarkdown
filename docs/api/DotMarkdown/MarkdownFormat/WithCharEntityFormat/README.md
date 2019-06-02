@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat WithCharEntityFormat(CharEntityFormat charEntityFormat)
+public DotMarkdown.MarkdownFormat WithCharEntityFormat(DotMarkdown.CharEntityFormat charEntityFormat)
 ```
 
 ### Parameters

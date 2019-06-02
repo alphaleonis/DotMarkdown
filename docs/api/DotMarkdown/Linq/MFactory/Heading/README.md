@@ -18,7 +18,7 @@
 ## Heading\(Int32\) <a name="DotMarkdown_Linq_MFactory_Heading_System_Int32_"></a>
 
 ```csharp
-public static MHeading Heading(int level)
+public static DotMarkdown.Linq.MHeading Heading(int level)
 ```
 
 ### Parameters
@@ -32,7 +32,7 @@ DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 ## Heading\(Int32, Object\) <a name="DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object_"></a>
 
 ```csharp
-public static MHeading Heading(int level, object content)
+public static DotMarkdown.Linq.MHeading Heading(int level, object content)
 ```
 
 ### Parameters
@@ -48,7 +48,7 @@ DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 ## Heading\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object___"></a>
 
 ```csharp
-public static MHeading Heading(int level, params object[] content)
+public static DotMarkdown.Linq.MHeading Heading(int level, params object[] content)
 ```
 
 ### Parameters
@@ -64,7 +64,7 @@ DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 ## Heading\(MHeading\) <a name="DotMarkdown_Linq_MFactory_Heading_DotMarkdown_Linq_MHeading_"></a>
 
 ```csharp
-public static MHeading Heading(MHeading other)
+public static DotMarkdown.Linq.MHeading Heading(DotMarkdown.Linq.MHeading other)
 ```
 
 ### Parameters

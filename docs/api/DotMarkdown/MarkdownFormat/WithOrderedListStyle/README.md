@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat WithOrderedListStyle(OrderedListStyle orderedListStyle)
+public DotMarkdown.MarkdownFormat WithOrderedListStyle(DotMarkdown.OrderedListStyle orderedListStyle)
 ```
 
 ### Parameters

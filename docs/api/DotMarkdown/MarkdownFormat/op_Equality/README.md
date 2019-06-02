@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static bool operator ==(MarkdownFormat format1, MarkdownFormat format2)
+public static bool operator ==(DotMarkdown.MarkdownFormat format1, DotMarkdown.MarkdownFormat format2)
 ```
 
 ### Parameters

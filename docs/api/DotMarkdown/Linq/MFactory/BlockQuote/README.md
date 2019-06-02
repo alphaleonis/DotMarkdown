@@ -18,7 +18,7 @@
 ## BlockQuote\(\) <a name="DotMarkdown_Linq_MFactory_BlockQuote"></a>
 
 ```csharp
-public static MBlockQuote BlockQuote()
+public static DotMarkdown.Linq.MBlockQuote BlockQuote()
 ```
 
 ### Returns
@@ -28,7 +28,7 @@ DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
 ## BlockQuote\(MBlockQuote\) <a name="DotMarkdown_Linq_MFactory_BlockQuote_DotMarkdown_Linq_MBlockQuote_"></a>
 
 ```csharp
-public static MBlockQuote BlockQuote(MBlockQuote other)
+public static DotMarkdown.Linq.MBlockQuote BlockQuote(DotMarkdown.Linq.MBlockQuote other)
 ```
 
 ### Parameters
@@ -42,7 +42,7 @@ DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
 ## BlockQuote\(Object\) <a name="DotMarkdown_Linq_MFactory_BlockQuote_System_Object_"></a>
 
 ```csharp
-public static MBlockQuote BlockQuote(object content)
+public static DotMarkdown.Linq.MBlockQuote BlockQuote(object content)
 ```
 
 ### Parameters
@@ -56,7 +56,7 @@ DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
 ## BlockQuote\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_BlockQuote_System_Object___"></a>
 
 ```csharp
-public static MBlockQuote BlockQuote(params object[] content)
+public static DotMarkdown.Linq.MBlockQuote BlockQuote(params object[] content)
 ```
 
 ### Parameters

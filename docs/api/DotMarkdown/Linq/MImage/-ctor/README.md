@@ -16,7 +16,7 @@
 ## MImage\(MImage\) <a name="DotMarkdown_Linq_MImage__ctor_DotMarkdown_Linq_MImage_"></a>
 
 ```csharp
-public MImage(MImage other)
+public MImage(DotMarkdown.Linq.MImage other)
 ```
 
 ### Parameters

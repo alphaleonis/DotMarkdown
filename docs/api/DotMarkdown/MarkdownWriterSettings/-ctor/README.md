@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownWriterSettings(MarkdownFormat format = null, string newLineChars = null, NewLineHandling newLineHandling = Replace, bool closeOutput = false)
+public MarkdownWriterSettings(DotMarkdown.MarkdownFormat format = null, string newLineChars = null, DotMarkdown.NewLineHandling newLineHandling = Replace, bool closeOutput = false)
 ```
 
 ### Parameters

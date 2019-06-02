@@ -16,7 +16,7 @@
 ## CharEntity\(Char\) <a name="DotMarkdown_Linq_MFactory_CharEntity_System_Char_"></a>
 
 ```csharp
-public static MCharEntity CharEntity(char value)
+public static DotMarkdown.Linq.MCharEntity CharEntity(char value)
 ```
 
 ### Parameters
@@ -30,7 +30,7 @@ DotMarkdown\.Linq\.[MCharEntity](../../MCharEntity/README.md)
 ## CharEntity\(MCharEntity\) <a name="DotMarkdown_Linq_MFactory_CharEntity_DotMarkdown_Linq_MCharEntity_"></a>
 
 ```csharp
-public static MCharEntity CharEntity(MCharEntity other)
+public static DotMarkdown.Linq.MCharEntity CharEntity(DotMarkdown.Linq.MCharEntity other)
 ```
 
 ### Parameters

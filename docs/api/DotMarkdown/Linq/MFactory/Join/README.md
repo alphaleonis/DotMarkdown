@@ -16,7 +16,7 @@
 ## Join\(Object, IEnumerable\<Object>\) <a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Collections_Generic_IEnumerable_System_Object__"></a>
 
 ```csharp
-public static MInline Join(object separator, IEnumerable<object> values)
+public static DotMarkdown.Linq.MInline Join(object separator, System.Collections.Generic.IEnumerable<object> values)
 ```
 
 ### Parameters
@@ -32,7 +32,7 @@ DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 ## Join\(Object, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___"></a>
 
 ```csharp
-public static MInline Join(object separator, params object[] values)
+public static DotMarkdown.Linq.MInline Join(object separator, params object[] values)
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@
 ## MLabel\(MLabel\) <a name="DotMarkdown_Linq_MLabel__ctor_DotMarkdown_Linq_MLabel_"></a>
 
 ```csharp
-public MLabel(MLabel other)
+public MLabel(DotMarkdown.Linq.MLabel other)
 ```
 
 ### Parameters

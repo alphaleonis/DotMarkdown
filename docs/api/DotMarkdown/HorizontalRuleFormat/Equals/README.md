@@ -16,7 +16,7 @@
 ## Equals\(HorizontalRuleFormat\) <a name="DotMarkdown_HorizontalRuleFormat_Equals_DotMarkdown_HorizontalRuleFormat_"></a>
 
 ```csharp
-public bool Equals(HorizontalRuleFormat other)
+public bool Equals(DotMarkdown.HorizontalRuleFormat other)
 ```
 
 ### Parameters

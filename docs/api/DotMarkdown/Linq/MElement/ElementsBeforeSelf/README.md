@@ -7,10 +7,10 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public IEnumerable<MElement> ElementsBeforeSelf()
+public System.Collections.Generic.IEnumerable<DotMarkdown.Linq.MElement> ElementsBeforeSelf()
 ```
 
 ### Returns
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[MElement](../README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<DotMarkdown\.Linq\.[MElement](../README.md)>
 

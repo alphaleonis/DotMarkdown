@@ -52,7 +52,7 @@ public MHeading(int level, params object[] content)
 ## MHeading\(MHeading\) <a name="DotMarkdown_Linq_MHeading__ctor_DotMarkdown_Linq_MHeading_"></a>
 
 ```csharp
-public MHeading(MHeading other)
+public MHeading(DotMarkdown.Linq.MHeading other)
 ```
 
 ### Parameters

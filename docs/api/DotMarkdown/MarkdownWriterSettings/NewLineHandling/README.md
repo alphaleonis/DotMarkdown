@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public NewLineHandling NewLineHandling { get; }
+public DotMarkdown.NewLineHandling NewLineHandling { get; }
 ```
 
 ### Property Value

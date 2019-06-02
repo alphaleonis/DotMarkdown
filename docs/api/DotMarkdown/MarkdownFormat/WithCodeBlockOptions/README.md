@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat WithCodeBlockOptions(CodeBlockOptions codeBlockOptions)
+public DotMarkdown.MarkdownFormat WithCodeBlockOptions(DotMarkdown.CodeBlockOptions codeBlockOptions)
 ```
 
 ### Parameters

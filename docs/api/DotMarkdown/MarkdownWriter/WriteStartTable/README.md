@@ -26,7 +26,7 @@ public abstract void WriteStartTable(int columnCount)
 ## WriteStartTable\(IReadOnlyList\<TableColumnInfo>\) <a name="DotMarkdown_MarkdownWriter_WriteStartTable_System_Collections_Generic_IReadOnlyList_DotMarkdown_TableColumnInfo__"></a>
 
 ```csharp
-public abstract void WriteStartTable(IReadOnlyList<TableColumnInfo> columns)
+public abstract void WriteStartTable(System.Collections.Generic.IReadOnlyList<DotMarkdown.TableColumnInfo> columns)
 ```
 
 ### Parameters

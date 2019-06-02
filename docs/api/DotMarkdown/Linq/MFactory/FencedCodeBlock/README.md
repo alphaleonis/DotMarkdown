@@ -16,7 +16,7 @@
 ## FencedCodeBlock\(MFencedCodeBlock\) <a name="DotMarkdown_Linq_MFactory_FencedCodeBlock_DotMarkdown_Linq_MFencedCodeBlock_"></a>
 
 ```csharp
-public static MFencedCodeBlock FencedCodeBlock(MFencedCodeBlock other)
+public static DotMarkdown.Linq.MFencedCodeBlock FencedCodeBlock(DotMarkdown.Linq.MFencedCodeBlock other)
 ```
 
 ### Parameters
@@ -30,7 +30,7 @@ DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md)
 ## FencedCodeBlock\(String, String\) <a name="DotMarkdown_Linq_MFactory_FencedCodeBlock_System_String_System_String_"></a>
 
 ```csharp
-public static MFencedCodeBlock FencedCodeBlock(string value, string info = null)
+public static DotMarkdown.Linq.MFencedCodeBlock FencedCodeBlock(string value, string info = null)
 ```
 
 ### Parameters

@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MContainer Parent { get; internal set; }
+public DotMarkdown.Linq.MContainer Parent { get; internal set; }
 ```
 
 ### Property Value

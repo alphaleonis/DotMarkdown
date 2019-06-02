@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static MEntityRef Ampersand()
+public static DotMarkdown.Linq.MEntityRef Ampersand()
 ```
 
 ### Returns

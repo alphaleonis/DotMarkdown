@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static bool operator ==(in TableColumnInfo info1, in TableColumnInfo info2)
+public static bool operator ==(in DotMarkdown.TableColumnInfo info1, in DotMarkdown.TableColumnInfo info2)
 ```
 
 ### Parameters

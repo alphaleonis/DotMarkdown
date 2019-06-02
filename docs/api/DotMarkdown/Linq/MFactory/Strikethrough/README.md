@@ -18,7 +18,7 @@
 ## Strikethrough\(\) <a name="DotMarkdown_Linq_MFactory_Strikethrough"></a>
 
 ```csharp
-public static MStrikethrough Strikethrough()
+public static DotMarkdown.Linq.MStrikethrough Strikethrough()
 ```
 
 ### Returns
@@ -28,7 +28,7 @@ DotMarkdown\.Linq\.[MStrikethrough](../../MStrikethrough/README.md)
 ## Strikethrough\(MStrikethrough\) <a name="DotMarkdown_Linq_MFactory_Strikethrough_DotMarkdown_Linq_MStrikethrough_"></a>
 
 ```csharp
-public static MStrikethrough Strikethrough(MStrikethrough other)
+public static DotMarkdown.Linq.MStrikethrough Strikethrough(DotMarkdown.Linq.MStrikethrough other)
 ```
 
 ### Parameters
@@ -42,7 +42,7 @@ DotMarkdown\.Linq\.[MStrikethrough](../../MStrikethrough/README.md)
 ## Strikethrough\(Object\) <a name="DotMarkdown_Linq_MFactory_Strikethrough_System_Object_"></a>
 
 ```csharp
-public static MStrikethrough Strikethrough(object content)
+public static DotMarkdown.Linq.MStrikethrough Strikethrough(object content)
 ```
 
 ### Parameters
@@ -56,7 +56,7 @@ DotMarkdown\.Linq\.[MStrikethrough](../../MStrikethrough/README.md)
 ## Strikethrough\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Strikethrough_System_Object___"></a>
 
 ```csharp
-public static MStrikethrough Strikethrough(params object[] content)
+public static DotMarkdown.Linq.MStrikethrough Strikethrough(params object[] content)
 ```
 
 ### Parameters

@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public EmphasisStyle ItalicStyle { get; }
+public DotMarkdown.EmphasisStyle ItalicStyle { get; }
 ```
 
 ### Property Value

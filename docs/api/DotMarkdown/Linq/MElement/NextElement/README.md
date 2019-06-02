@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MElement NextElement { get; }
+public DotMarkdown.Linq.MElement NextElement { get; }
 ```
 
 ### Property Value

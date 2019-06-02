@@ -24,7 +24,7 @@ public MBulletItem()
 ## MBulletItem\(MBulletItem\) <a name="DotMarkdown_Linq_MBulletItem__ctor_DotMarkdown_Linq_MBulletItem_"></a>
 
 ```csharp
-public MBulletItem(MBulletItem other)
+public MBulletItem(DotMarkdown.Linq.MBulletItem other)
 ```
 
 ### Parameters

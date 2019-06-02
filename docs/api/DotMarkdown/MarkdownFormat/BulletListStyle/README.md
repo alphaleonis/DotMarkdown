@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public BulletListStyle BulletListStyle { get; }
+public DotMarkdown.BulletListStyle BulletListStyle { get; }
 ```
 
 ### Property Value

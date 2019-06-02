@@ -16,7 +16,7 @@
 ## MText\(MText\) <a name="DotMarkdown_Linq_MText__ctor_DotMarkdown_Linq_MText_"></a>
 
 ```csharp
-public MText(MText other)
+public MText(DotMarkdown.Linq.MText other)
 ```
 
 ### Parameters

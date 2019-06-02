@@ -16,7 +16,7 @@
 ## MIndentedCodeBlock\(MIndentedCodeBlock\) <a name="DotMarkdown_Linq_MIndentedCodeBlock__ctor_DotMarkdown_Linq_MIndentedCodeBlock_"></a>
 
 ```csharp
-public MIndentedCodeBlock(MIndentedCodeBlock other)
+public MIndentedCodeBlock(DotMarkdown.Linq.MIndentedCodeBlock other)
 ```
 
 ### Parameters

@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public HeadingStyle HeadingStyle { get; }
+public DotMarkdown.HeadingStyle HeadingStyle { get; }
 ```
 
 ### Property Value

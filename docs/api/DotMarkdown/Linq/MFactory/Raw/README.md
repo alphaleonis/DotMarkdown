@@ -16,7 +16,7 @@
 ## Raw\(MRaw\) <a name="DotMarkdown_Linq_MFactory_Raw_DotMarkdown_Linq_MRaw_"></a>
 
 ```csharp
-public static MRaw Raw(MRaw other)
+public static DotMarkdown.Linq.MRaw Raw(DotMarkdown.Linq.MRaw other)
 ```
 
 ### Parameters
@@ -30,7 +30,7 @@ DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md)
 ## Raw\(String\) <a name="DotMarkdown_Linq_MFactory_Raw_System_String_"></a>
 
 ```csharp
-public static MRaw Raw(string text)
+public static DotMarkdown.Linq.MRaw Raw(string text)
 ```
 
 ### Parameters

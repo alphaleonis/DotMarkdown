@@ -18,7 +18,7 @@
 ## Italic\(\) <a name="DotMarkdown_Linq_MFactory_Italic"></a>
 
 ```csharp
-public static MItalic Italic()
+public static DotMarkdown.Linq.MItalic Italic()
 ```
 
 ### Returns
@@ -28,7 +28,7 @@ DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md)
 ## Italic\(MItalic\) <a name="DotMarkdown_Linq_MFactory_Italic_DotMarkdown_Linq_MItalic_"></a>
 
 ```csharp
-public static MItalic Italic(MItalic other)
+public static DotMarkdown.Linq.MItalic Italic(DotMarkdown.Linq.MItalic other)
 ```
 
 ### Parameters
@@ -42,7 +42,7 @@ DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md)
 ## Italic\(Object\) <a name="DotMarkdown_Linq_MFactory_Italic_System_Object_"></a>
 
 ```csharp
-public static MItalic Italic(object content)
+public static DotMarkdown.Linq.MItalic Italic(object content)
 ```
 
 ### Parameters
@@ -56,7 +56,7 @@ DotMarkdown\.Linq\.[MItalic](../../MItalic/README.md)
 ## Italic\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Italic_System_Object___"></a>
 
 ```csharp
-public static MItalic Italic(params object[] content)
+public static DotMarkdown.Linq.MItalic Italic(params object[] content)
 ```
 
 ### Parameters

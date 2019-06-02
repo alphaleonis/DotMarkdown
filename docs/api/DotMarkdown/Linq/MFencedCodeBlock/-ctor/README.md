@@ -16,7 +16,7 @@
 ## MFencedCodeBlock\(MFencedCodeBlock\) <a name="DotMarkdown_Linq_MFencedCodeBlock__ctor_DotMarkdown_Linq_MFencedCodeBlock_"></a>
 
 ```csharp
-public MFencedCodeBlock(MFencedCodeBlock other)
+public MFencedCodeBlock(DotMarkdown.Linq.MFencedCodeBlock other)
 ```
 
 ### Parameters

@@ -24,7 +24,7 @@ protected MList()
 ## MList\(MList\) <a name="DotMarkdown_Linq_MList__ctor_DotMarkdown_Linq_MList_"></a>
 
 ```csharp
-protected MList(MList other)
+protected MList(DotMarkdown.Linq.MList other)
 ```
 
 ### Parameters

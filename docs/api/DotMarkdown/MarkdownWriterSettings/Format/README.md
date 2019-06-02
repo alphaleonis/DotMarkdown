@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat Format { get; }
+public DotMarkdown.MarkdownFormat Format { get; }
 ```
 
 ### Property Value

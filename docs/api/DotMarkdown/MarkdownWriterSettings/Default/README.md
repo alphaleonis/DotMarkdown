@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static MarkdownWriterSettings Default { get; }
+public static DotMarkdown.MarkdownWriterSettings Default { get; }
 ```
 
 ### Property Value

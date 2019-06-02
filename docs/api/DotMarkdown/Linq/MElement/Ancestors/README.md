@@ -7,10 +7,10 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public IEnumerable<MContainer> Ancestors()
+public System.Collections.Generic.IEnumerable<DotMarkdown.Linq.MContainer> Ancestors()
 ```
 
 ### Returns
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[MContainer](../../MContainer/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<DotMarkdown\.Linq\.[MContainer](../../MContainer/README.md)>
 

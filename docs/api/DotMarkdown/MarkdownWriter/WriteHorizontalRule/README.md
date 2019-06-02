@@ -23,7 +23,7 @@ public void WriteHorizontalRule()
 ## WriteHorizontalRule\(HorizontalRuleFormat\) <a name="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleFormat__"></a>
 
 ```csharp
-public void WriteHorizontalRule(in HorizontalRuleFormat format)
+public void WriteHorizontalRule(in DotMarkdown.HorizontalRuleFormat format)
 ```
 
 ### Parameters
@@ -33,7 +33,7 @@ public void WriteHorizontalRule(in HorizontalRuleFormat format)
 ## WriteHorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
 ```csharp
-public abstract void WriteHorizontalRule(HorizontalRuleStyle style, int count = 3, string separator = " ")
+public abstract void WriteHorizontalRule(DotMarkdown.HorizontalRuleStyle style, int count = 3, string separator = " ")
 ```
 
 ### Parameters

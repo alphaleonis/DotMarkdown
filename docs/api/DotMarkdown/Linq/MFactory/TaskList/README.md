@@ -18,7 +18,7 @@
 ## TaskList\(\) <a name="DotMarkdown_Linq_MFactory_TaskList"></a>
 
 ```csharp
-public static MTaskList TaskList()
+public static DotMarkdown.Linq.MTaskList TaskList()
 ```
 
 ### Returns
@@ -28,7 +28,7 @@ DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
 ## TaskList\(MTaskList\) <a name="DotMarkdown_Linq_MFactory_TaskList_DotMarkdown_Linq_MTaskList_"></a>
 
 ```csharp
-public static MTaskList TaskList(MTaskList other)
+public static DotMarkdown.Linq.MTaskList TaskList(DotMarkdown.Linq.MTaskList other)
 ```
 
 ### Parameters
@@ -42,7 +42,7 @@ DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
 ## TaskList\(Object\) <a name="DotMarkdown_Linq_MFactory_TaskList_System_Object_"></a>
 
 ```csharp
-public static MTaskList TaskList(object content)
+public static DotMarkdown.Linq.MTaskList TaskList(object content)
 ```
 
 ### Parameters
@@ -56,7 +56,7 @@ DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
 ## TaskList\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TaskList_System_Object___"></a>
 
 ```csharp
-public static MTaskList TaskList(params object[] content)
+public static DotMarkdown.Linq.MTaskList TaskList(params object[] content)
 ```
 
 ### Parameters

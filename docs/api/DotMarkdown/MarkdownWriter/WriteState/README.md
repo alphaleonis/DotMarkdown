@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public abstract WriteState WriteState { get; }
+public abstract DotMarkdown.WriteState WriteState { get; }
 ```
 
 ### Property Value

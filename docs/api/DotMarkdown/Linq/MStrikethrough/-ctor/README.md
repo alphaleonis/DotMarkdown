@@ -24,7 +24,7 @@ public MStrikethrough()
 ## MStrikethrough\(MStrikethrough\) <a name="DotMarkdown_Linq_MStrikethrough__ctor_DotMarkdown_Linq_MStrikethrough_"></a>
 
 ```csharp
-public MStrikethrough(MStrikethrough other)
+public MStrikethrough(DotMarkdown.Linq.MStrikethrough other)
 ```
 
 ### Parameters

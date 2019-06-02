@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat WithTableOptions(TableOptions tableOptions)
+public DotMarkdown.MarkdownFormat WithTableOptions(DotMarkdown.TableOptions tableOptions)
 ```
 
 ### Parameters

@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownWriterSettings WithFormat(MarkdownFormat format)
+public DotMarkdown.MarkdownWriterSettings WithFormat(DotMarkdown.MarkdownFormat format)
 ```
 
 ### Parameters

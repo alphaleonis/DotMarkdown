@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public override void WriteTo(MarkdownWriter writer)
+public override void WriteTo(DotMarkdown.MarkdownWriter writer)
 ```
 
 ### Parameters

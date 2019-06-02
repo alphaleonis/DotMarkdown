@@ -16,7 +16,7 @@
 ## MComment\(MComment\) <a name="DotMarkdown_Linq_MComment__ctor_DotMarkdown_Linq_MComment_"></a>
 
 ```csharp
-public MComment(MComment other)
+public MComment(DotMarkdown.Linq.MComment other)
 ```
 
 ### Parameters

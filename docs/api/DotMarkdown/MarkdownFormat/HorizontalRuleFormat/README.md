@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public HorizontalRuleFormat HorizontalRuleFormat { get; }
+public DotMarkdown.HorizontalRuleFormat HorizontalRuleFormat { get; }
 ```
 
 ### Property Value

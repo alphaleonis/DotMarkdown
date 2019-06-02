@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat WithHorizontalRuleFormat(in HorizontalRuleFormat horizontalRuleFormat)
+public DotMarkdown.MarkdownFormat WithHorizontalRuleFormat(in DotMarkdown.HorizontalRuleFormat horizontalRuleFormat)
 ```
 
 ### Parameters

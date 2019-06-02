@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat WithItalicStyle(EmphasisStyle italicStyle)
+public DotMarkdown.MarkdownFormat WithItalicStyle(DotMarkdown.EmphasisStyle italicStyle)
 ```
 
 ### Parameters

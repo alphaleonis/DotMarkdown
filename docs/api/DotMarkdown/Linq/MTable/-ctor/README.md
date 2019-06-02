@@ -24,7 +24,7 @@ public MTable()
 ## MTable\(MContainer\) <a name="DotMarkdown_Linq_MTable__ctor_DotMarkdown_Linq_MContainer_"></a>
 
 ```csharp
-public MTable(MContainer other)
+public MTable(DotMarkdown.Linq.MContainer other)
 ```
 
 ### Parameters

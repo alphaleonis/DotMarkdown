@@ -18,7 +18,7 @@
 ## Inline\(\) <a name="DotMarkdown_Linq_MFactory_Inline"></a>
 
 ```csharp
-public static MInline Inline()
+public static DotMarkdown.Linq.MInline Inline()
 ```
 
 ### Returns
@@ -28,7 +28,7 @@ DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 ## Inline\(MInline\) <a name="DotMarkdown_Linq_MFactory_Inline_DotMarkdown_Linq_MInline_"></a>
 
 ```csharp
-public static MInline Inline(MInline other)
+public static DotMarkdown.Linq.MInline Inline(DotMarkdown.Linq.MInline other)
 ```
 
 ### Parameters
@@ -42,7 +42,7 @@ DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 ## Inline\(Object\) <a name="DotMarkdown_Linq_MFactory_Inline_System_Object_"></a>
 
 ```csharp
-public static MInline Inline(object content)
+public static DotMarkdown.Linq.MInline Inline(object content)
 ```
 
 ### Parameters
@@ -56,7 +56,7 @@ DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
 ## Inline\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Inline_System_Object___"></a>
 
 ```csharp
-public static MInline Inline(params object[] content)
+public static DotMarkdown.Linq.MInline Inline(params object[] content)
 ```
 
 ### Parameters

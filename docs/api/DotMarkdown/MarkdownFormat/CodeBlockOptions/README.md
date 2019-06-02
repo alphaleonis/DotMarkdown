@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public CodeBlockOptions CodeBlockOptions { get; }
+public DotMarkdown.CodeBlockOptions CodeBlockOptions { get; }
 ```
 
 ### Property Value

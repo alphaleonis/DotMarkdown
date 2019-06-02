@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat(EmphasisStyle boldStyle = Asterisk, EmphasisStyle italicStyle = Asterisk, BulletListStyle bulletListStyle = Asterisk, OrderedListStyle orderedListStyle = Dot, HeadingStyle headingStyle = NumberSign, HeadingOptions headingOptions = EmptyLineBeforeAndAfter, TableOptions tableOptions = FormatHeader | Padding | OuterDelimiter | EmptyLineBeforeAndAfter, CodeFenceStyle codeFenceStyle = Backtick, CodeBlockOptions codeBlockOptions = EmptyLineBeforeAndAfter, CharEntityFormat charEntityFormat = Hexadecimal, HorizontalRuleFormat? horizontalRuleFormat = null)
+public MarkdownFormat(DotMarkdown.EmphasisStyle boldStyle = Asterisk, DotMarkdown.EmphasisStyle italicStyle = Asterisk, DotMarkdown.BulletListStyle bulletListStyle = Asterisk, DotMarkdown.OrderedListStyle orderedListStyle = Dot, DotMarkdown.HeadingStyle headingStyle = NumberSign, DotMarkdown.HeadingOptions headingOptions = EmptyLineBeforeAndAfter, DotMarkdown.TableOptions tableOptions = FormatHeader | Padding | OuterDelimiter | EmptyLineBeforeAndAfter, DotMarkdown.CodeFenceStyle codeFenceStyle = Backtick, DotMarkdown.CodeBlockOptions codeBlockOptions = EmptyLineBeforeAndAfter, DotMarkdown.CharEntityFormat charEntityFormat = Hexadecimal, DotMarkdown.HorizontalRuleFormat? horizontalRuleFormat = null)
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@
 ## MEntityRef\(MEntityRef\) <a name="DotMarkdown_Linq_MEntityRef__ctor_DotMarkdown_Linq_MEntityRef_"></a>
 
 ```csharp
-public MEntityRef(MEntityRef other)
+public MEntityRef(DotMarkdown.Linq.MEntityRef other)
 ```
 
 ### Parameters

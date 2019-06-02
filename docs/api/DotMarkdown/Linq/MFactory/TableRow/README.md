@@ -18,7 +18,7 @@
 ## TableRow\(\) <a name="DotMarkdown_Linq_MFactory_TableRow"></a>
 
 ```csharp
-public static MTableRow TableRow()
+public static DotMarkdown.Linq.MTableRow TableRow()
 ```
 
 ### Returns
@@ -28,7 +28,7 @@ DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
 ## TableRow\(MTableRow\) <a name="DotMarkdown_Linq_MFactory_TableRow_DotMarkdown_Linq_MTableRow_"></a>
 
 ```csharp
-public static MTableRow TableRow(MTableRow other)
+public static DotMarkdown.Linq.MTableRow TableRow(DotMarkdown.Linq.MTableRow other)
 ```
 
 ### Parameters
@@ -42,7 +42,7 @@ DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
 ## TableRow\(Object\) <a name="DotMarkdown_Linq_MFactory_TableRow_System_Object_"></a>
 
 ```csharp
-public static MTableRow TableRow(object content)
+public static DotMarkdown.Linq.MTableRow TableRow(object content)
 ```
 
 ### Parameters
@@ -56,7 +56,7 @@ DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
 ## TableRow\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TableRow_System_Object___"></a>
 
 ```csharp
-public static MTableRow TableRow(params object[] content)
+public static DotMarkdown.Linq.MTableRow TableRow(params object[] content)
 ```
 
 ### Parameters

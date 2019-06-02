@@ -16,7 +16,7 @@
 ## InlineCode\(MInlineCode\) <a name="DotMarkdown_Linq_MFactory_InlineCode_DotMarkdown_Linq_MInlineCode_"></a>
 
 ```csharp
-public static MInlineCode InlineCode(MInlineCode other)
+public static DotMarkdown.Linq.MInlineCode InlineCode(DotMarkdown.Linq.MInlineCode other)
 ```
 
 ### Parameters
@@ -30,7 +30,7 @@ DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md)
 ## InlineCode\(String\) <a name="DotMarkdown_Linq_MFactory_InlineCode_System_String_"></a>
 
 ```csharp
-public static MInlineCode InlineCode(string text)
+public static DotMarkdown.Linq.MInlineCode InlineCode(string text)
 ```
 
 ### Parameters

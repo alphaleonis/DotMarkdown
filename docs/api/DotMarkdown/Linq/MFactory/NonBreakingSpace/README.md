@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static MEntityRef NonBreakingSpace()
+public static DotMarkdown.Linq.MEntityRef NonBreakingSpace()
 ```
 
 ### Returns

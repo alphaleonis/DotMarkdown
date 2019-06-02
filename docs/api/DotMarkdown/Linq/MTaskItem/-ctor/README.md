@@ -52,7 +52,7 @@ public MTaskItem(bool isCompleted, params object[] content)
 ## MTaskItem\(MTaskItem\) <a name="DotMarkdown_Linq_MTaskItem__ctor_DotMarkdown_Linq_MTaskItem_"></a>
 
 ```csharp
-public MTaskItem(MTaskItem other)
+public MTaskItem(DotMarkdown.Linq.MTaskItem other)
 ```
 
 ### Parameters

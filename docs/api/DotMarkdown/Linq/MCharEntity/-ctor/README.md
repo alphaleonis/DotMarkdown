@@ -26,7 +26,7 @@ public MCharEntity(char value)
 ## MCharEntity\(MCharEntity\) <a name="DotMarkdown_Linq_MCharEntity__ctor_DotMarkdown_Linq_MCharEntity_"></a>
 
 ```csharp
-public MCharEntity(MCharEntity other)
+public MCharEntity(DotMarkdown.Linq.MCharEntity other)
 ```
 
 ### Parameters

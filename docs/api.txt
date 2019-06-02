@@ -337,125 +337,125 @@ namespace DotMarkdown
 
   public enum BulletListStyle
 
-    Asterisk = 0
-    Plus = 1
-    Minus = 2
+    Asterisk = 0,
+    Plus = 1,
+    Minus = 2,
 
   public enum CharEntityFormat
 
-    Hexadecimal = 0
-    Decimal = 1
+    Hexadecimal = 0,
+    Decimal = 1,
 
   [Flags]
   public enum CodeBlockOptions
 
-    None = 0
-    EmptyLineBefore = 1
-    EmptyLineAfter = 2
-    EmptyLineBeforeAndAfter = EmptyLineBefore | EmptyLineAfter
+    None = 0,
+    EmptyLineBefore = 1,
+    EmptyLineAfter = 2,
+    EmptyLineBeforeAndAfter = EmptyLineBefore | EmptyLineAfter,
 
   public enum CodeFenceStyle
 
-    Backtick = 0
-    Tilde = 1
+    Backtick = 0,
+    Tilde = 1,
 
   public enum EmphasisStyle
 
-    Asterisk = 0
-    Underscore = 1
+    Asterisk = 0,
+    Underscore = 1,
 
   [Flags]
   public enum HeadingOptions
 
-    None = 0
-    UnderlineHeading1 = 1
-    UnderlineHeading2 = 2
-    Underline = UnderlineHeading1 | UnderlineHeading2
-    Close = 4
-    EmptyLineBefore = 8
-    EmptyLineAfter = 16
-    EmptyLineBeforeAndAfter = EmptyLineBefore | EmptyLineAfter
+    None = 0,
+    UnderlineHeading1 = 1,
+    UnderlineHeading2 = 2,
+    Underline = UnderlineHeading1 | UnderlineHeading2,
+    Close = 4,
+    EmptyLineBefore = 8,
+    EmptyLineAfter = 16,
+    EmptyLineBeforeAndAfter = EmptyLineBefore | EmptyLineAfter,
 
   public enum HeadingStyle
 
-    NumberSign = 0
+    NumberSign = 0,
 
   public enum HorizontalAlignment
 
-    Left = 0
-    Center = 1
-    Right = 2
+    Left = 0,
+    Center = 1,
+    Right = 2,
 
   public enum HorizontalRuleStyle
 
-    Hyphen = 0
-    Underscore = 1
-    Asterisk = 2
+    Hyphen = 0,
+    Underscore = 1,
+    Asterisk = 2,
 
   public enum MarkdownKind
 
-    None = 0
-    Text = 1
-    Raw = 2
-    Link = 3
-    LinkReference = 4
-    Image = 5
-    ImageReference = 6
-    Label = 7
-    Autolink = 8
-    InlineCode = 9
-    CharEntity = 10
-    EntityRef = 11
-    Comment = 12
-    FencedCodeBlock = 13
-    IndentedCodeBlock = 14
-    HorizontalRule = 15
-    Heading = 16
-    Inline = 17
-    Bold = 18
-    Italic = 19
-    Strikethrough = 20
-    Table = 21
-    TableRow = 22
-    TableColumn = 23
-    BulletList = 24
-    OrderedList = 25
-    TaskList = 26
-    BulletItem = 27
-    OrderedItem = 28
-    TaskItem = 29
-    BlockQuote = 30
-    Document = 31
+    None = 0,
+    Text = 1,
+    Raw = 2,
+    Link = 3,
+    LinkReference = 4,
+    Image = 5,
+    ImageReference = 6,
+    Label = 7,
+    Autolink = 8,
+    InlineCode = 9,
+    CharEntity = 10,
+    EntityRef = 11,
+    Comment = 12,
+    FencedCodeBlock = 13,
+    IndentedCodeBlock = 14,
+    HorizontalRule = 15,
+    Heading = 16,
+    Inline = 17,
+    Bold = 18,
+    Italic = 19,
+    Strikethrough = 20,
+    Table = 21,
+    TableRow = 22,
+    TableColumn = 23,
+    BulletList = 24,
+    OrderedList = 25,
+    TaskList = 26,
+    BulletItem = 27,
+    OrderedItem = 28,
+    TaskItem = 29,
+    BlockQuote = 30,
+    Document = 31,
 
   public enum NewLineHandling
 
-    Replace = 0
-    None = 1
+    Replace = 0,
+    None = 1,
 
   public enum OrderedListStyle
 
-    Dot = 0
-    Parenthesis = 1
+    Dot = 0,
+    Parenthesis = 1,
 
   [Flags]
   public enum TableOptions
 
-    None = 0
-    FormatHeader = 1
-    FormatContent = 2
-    FormatHeaderAndContent = FormatHeader | FormatContent
-    Padding = 4
-    OuterDelimiter = 8
-    EmptyLineBefore = 16
-    EmptyLineAfter = 32
-    EmptyLineBeforeAndAfter = EmptyLineBefore | EmptyLineAfter
+    None = 0,
+    FormatHeader = 1,
+    FormatContent = 2,
+    FormatHeaderAndContent = FormatHeader | FormatContent,
+    Padding = 4,
+    OuterDelimiter = 8,
+    EmptyLineBefore = 16,
+    EmptyLineAfter = 32,
+    EmptyLineBeforeAndAfter = EmptyLineBefore | EmptyLineAfter,
 
   public enum WriteState
 
-    Start = 0
-    Content = 1
-    Closed = 2
-    Error = 3
+    Start = 0,
+    Content = 1,
+    Closed = 2,
+    Error = 3,
 
 namespace DotMarkdown.Linq
 

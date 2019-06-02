@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public static MElement LinkOrAutolink(string text, string url, string title = null)
+public static DotMarkdown.Linq.MElement LinkOrAutolink(string text, string url, string title = null)
 ```
 
 ### Parameters

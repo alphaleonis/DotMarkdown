@@ -30,7 +30,7 @@ System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 ## Equals\(TableColumnInfo\) <a name="DotMarkdown_TableColumnInfo_Equals_DotMarkdown_TableColumnInfo_"></a>
 
 ```csharp
-public bool Equals(TableColumnInfo other)
+public bool Equals(DotMarkdown.TableColumnInfo other)
 ```
 
 ### Parameters

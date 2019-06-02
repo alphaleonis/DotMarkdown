@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-protected MarkdownWriter(MarkdownWriterSettings settings = null)
+protected MarkdownWriter(DotMarkdown.MarkdownWriterSettings settings = null)
 ```
 
 ### Parameters

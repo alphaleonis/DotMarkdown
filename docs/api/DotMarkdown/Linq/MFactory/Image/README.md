@@ -16,7 +16,7 @@
 ## Image\(MImage\) <a name="DotMarkdown_Linq_MFactory_Image_DotMarkdown_Linq_MImage_"></a>
 
 ```csharp
-public static MImage Image(MImage other)
+public static DotMarkdown.Linq.MImage Image(DotMarkdown.Linq.MImage other)
 ```
 
 ### Parameters
@@ -30,7 +30,7 @@ DotMarkdown\.Linq\.[MImage](../../MImage/README.md)
 ## Image\(String, String, String\) <a name="DotMarkdown_Linq_MFactory_Image_System_String_System_String_System_String_"></a>
 
 ```csharp
-public static MImage Image(string text, string url, string title = null)
+public static DotMarkdown.Linq.MImage Image(string text, string url, string title = null)
 ```
 
 ### Parameters

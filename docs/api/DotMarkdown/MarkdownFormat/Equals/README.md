@@ -16,7 +16,7 @@
 ## Equals\(MarkdownFormat\) <a name="DotMarkdown_MarkdownFormat_Equals_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
-public bool Equals(MarkdownFormat other)
+public bool Equals(DotMarkdown.MarkdownFormat other)
 ```
 
 ### Parameters

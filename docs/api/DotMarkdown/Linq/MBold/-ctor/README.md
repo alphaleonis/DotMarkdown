@@ -24,7 +24,7 @@ public MBold()
 ## MBold\(MBold\) <a name="DotMarkdown_Linq_MBold__ctor_DotMarkdown_Linq_MBold_"></a>
 
 ```csharp
-public MBold(MBold other)
+public MBold(DotMarkdown.Linq.MBold other)
 ```
 
 ### Parameters

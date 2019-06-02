@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat WithBulletListStyle(BulletListStyle bulletListStyle)
+public DotMarkdown.MarkdownFormat WithBulletListStyle(DotMarkdown.BulletListStyle bulletListStyle)
 ```
 
 ### Parameters

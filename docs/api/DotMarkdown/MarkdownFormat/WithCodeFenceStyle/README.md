@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public MarkdownFormat WithCodeFenceStyle(CodeFenceStyle codeFenceStyle)
+public DotMarkdown.MarkdownFormat WithCodeFenceStyle(DotMarkdown.CodeFenceStyle codeFenceStyle)
 ```
 
 ### Parameters

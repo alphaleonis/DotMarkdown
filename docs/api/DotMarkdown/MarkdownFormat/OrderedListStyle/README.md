@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public OrderedListStyle OrderedListStyle { get; }
+public DotMarkdown.OrderedListStyle OrderedListStyle { get; }
 ```
 
 ### Property Value

@@ -16,7 +16,7 @@
 ## MLink\(MLink\) <a name="DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_"></a>
 
 ```csharp
-public MLink(MLink other)
+public MLink(DotMarkdown.Linq.MLink other)
 ```
 
 ### Parameters

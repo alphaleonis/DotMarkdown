@@ -24,7 +24,7 @@ public MDocument()
 ## MDocument\(MDocument\) <a name="DotMarkdown_Linq_MDocument__ctor_DotMarkdown_Linq_MDocument_"></a>
 
 ```csharp
-public MDocument(MDocument other)
+public MDocument(DotMarkdown.Linq.MDocument other)
 ```
 
 ### Parameters

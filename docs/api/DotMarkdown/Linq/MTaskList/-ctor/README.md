@@ -24,7 +24,7 @@ public MTaskList()
 ## MTaskList\(MTaskList\) <a name="DotMarkdown_Linq_MTaskList__ctor_DotMarkdown_Linq_MTaskList_"></a>
 
 ```csharp
-public MTaskList(MTaskList other)
+public MTaskList(DotMarkdown.Linq.MTaskList other)
 ```
 
 ### Parameters

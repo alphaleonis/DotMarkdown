@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public HorizontalAlignment Alignment { get; }
+public DotMarkdown.HorizontalAlignment Alignment { get; }
 ```
 
 ### Property Value

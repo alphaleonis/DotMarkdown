@@ -18,7 +18,7 @@
 ## Save\(MarkdownWriter\) <a name="DotMarkdown_Linq_MElement_Save_DotMarkdown_MarkdownWriter_"></a>
 
 ```csharp
-public void Save(MarkdownWriter writer)
+public void Save(DotMarkdown.MarkdownWriter writer)
 ```
 
 ### Parameters
@@ -28,7 +28,7 @@ public void Save(MarkdownWriter writer)
 ## Save\(Stream, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
-public void Save(Stream stream, MarkdownFormat format = null)
+public void Save(System.IO.Stream stream, DotMarkdown.MarkdownFormat format = null)
 ```
 
 ### Parameters
@@ -40,7 +40,7 @@ public void Save(Stream stream, MarkdownFormat format = null)
 ## Save\(String, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
-public void Save(string fileName, MarkdownFormat format = null)
+public void Save(string fileName, DotMarkdown.MarkdownFormat format = null)
 ```
 
 ### Parameters
@@ -52,7 +52,7 @@ public void Save(string fileName, MarkdownFormat format = null)
 ## Save\(TextWriter, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
-public void Save(TextWriter writer, MarkdownFormat format = null)
+public void Save(System.IO.TextWriter writer, DotMarkdown.MarkdownFormat format = null)
 ```
 
 ### Parameters

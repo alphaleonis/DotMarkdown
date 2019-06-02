@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public CodeFenceStyle CodeFenceStyle { get; }
+public DotMarkdown.CodeFenceStyle CodeFenceStyle { get; }
 ```
 
 ### Property Value

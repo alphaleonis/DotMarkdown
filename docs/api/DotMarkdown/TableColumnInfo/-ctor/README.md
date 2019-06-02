@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public TableColumnInfo(HorizontalAlignment alignment, int width, bool isWhiteSpace)
+public TableColumnInfo(DotMarkdown.HorizontalAlignment alignment, int width, bool isWhiteSpace)
 ```
 
 ### Parameters

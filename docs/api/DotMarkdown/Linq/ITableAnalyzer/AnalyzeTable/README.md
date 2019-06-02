@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-IReadOnlyList<TableColumnInfo> AnalyzeTable(IEnumerable<MElement> rows)
+System.Collections.Generic.IReadOnlyList<DotMarkdown.TableColumnInfo> AnalyzeTable(System.Collections.Generic.IEnumerable<DotMarkdown.Linq.MElement> rows)
 ```
 
 ### Parameters
@@ -16,5 +16,5 @@ IReadOnlyList<TableColumnInfo> AnalyzeTable(IEnumerable<MElement> rows)
 
 ### Returns
 
-System\.Collections\.Generic\.[IReadOnlyList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ireadonlylist-1)\<[TableColumnInfo](../../../TableColumnInfo/README.md)>
+System\.Collections\.Generic\.[IReadOnlyList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ireadonlylist-1)\<DotMarkdown\.[TableColumnInfo](../../../TableColumnInfo/README.md)>
 

@@ -16,7 +16,7 @@
 ## MRaw\(MRaw\) <a name="DotMarkdown_Linq_MRaw__ctor_DotMarkdown_Linq_MRaw_"></a>
 
 ```csharp
-public MRaw(MRaw other)
+public MRaw(DotMarkdown.Linq.MRaw other)
 ```
 
 ### Parameters

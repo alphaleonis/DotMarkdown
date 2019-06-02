@@ -24,7 +24,7 @@ protected MContainer()
 ## MContainer\(MContainer\) <a name="DotMarkdown_Linq_MContainer__ctor_DotMarkdown_Linq_MContainer_"></a>
 
 ```csharp
-protected MContainer(MContainer other)
+protected MContainer(DotMarkdown.Linq.MContainer other)
 ```
 
 ### Parameters
