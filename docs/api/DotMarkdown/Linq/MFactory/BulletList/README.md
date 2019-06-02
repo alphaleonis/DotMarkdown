@@ -33,7 +33,7 @@ public static DotMarkdown.Linq.MBulletList BulletList(DotMarkdown.Linq.MBulletLi
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MBulletList](../../MBulletList/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MBulletList](../../MBulletList/README.md)
 
 ### Returns
 
@@ -47,7 +47,7 @@ public static DotMarkdown.Linq.MBulletList BulletList(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MBulletList BulletList(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

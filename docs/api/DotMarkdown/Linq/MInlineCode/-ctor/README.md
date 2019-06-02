@@ -21,7 +21,7 @@ public MInlineCode(DotMarkdown.Linq.MInlineCode other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MInlineCode](../README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MInlineCode](../README.md)
 
 ## MInlineCode\(String\) <a name="DotMarkdown_Linq_MInlineCode__ctor_System_String_"></a>
 
@@ -31,4 +31,4 @@ public MInlineCode(string text)
 
 ### Parameters
 
-**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

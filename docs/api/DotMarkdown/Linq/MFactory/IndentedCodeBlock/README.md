@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MIndentedCodeBlock IndentedCodeBlock(DotMarkdown.
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
 
 ### Returns
 
@@ -35,7 +35,7 @@ public static DotMarkdown.Linq.MIndentedCodeBlock IndentedCodeBlock(string value
 
 ### Parameters
 
-**value** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**value** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

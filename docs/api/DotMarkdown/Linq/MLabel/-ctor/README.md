@@ -21,7 +21,7 @@ public MLabel(DotMarkdown.Linq.MLabel other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MLabel](../README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MLabel](../README.md)
 
 ## MLabel\(String, String, String\) <a name="DotMarkdown_Linq_MLabel__ctor_System_String_System_String_System_String_"></a>
 
@@ -31,8 +31,8 @@ public MLabel(string text, string url, string title = null)
 
 ### Parameters
 
-**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**url** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**url** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**title** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**title** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

@@ -33,7 +33,7 @@ public static DotMarkdown.Linq.MStrikethrough Strikethrough(DotMarkdown.Linq.MSt
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MStrikethrough](../../MStrikethrough/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MStrikethrough](../../MStrikethrough/README.md)
 
 ### Returns
 
@@ -47,7 +47,7 @@ public static DotMarkdown.Linq.MStrikethrough Strikethrough(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MStrikethrough Strikethrough(params object[] cont
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

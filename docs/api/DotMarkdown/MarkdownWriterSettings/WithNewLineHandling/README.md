@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownWriterSettings WithNewLineHandling(DotMarkdown.NewLin
 
 ### Parameters
 
-**newLineHandling** &emsp; DotMarkdown\.[NewLineHandling](../../NewLineHandling/README.md)
+**newLineHandling** &ensp; DotMarkdown\.[NewLineHandling](../../NewLineHandling/README.md)
 
 ### Returns
 

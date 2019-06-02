@@ -33,7 +33,7 @@ public static DotMarkdown.Linq.MTableRow TableRow(DotMarkdown.Linq.MTableRow oth
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
 
 ### Returns
 
@@ -47,7 +47,7 @@ public static DotMarkdown.Linq.MTableRow TableRow(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MTableRow TableRow(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

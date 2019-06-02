@@ -12,7 +12,7 @@ public DotMarkdown.TableColumnInfo WithWidth(int width)
 
 ### Parameters
 
-**width** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**width** &ensp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 ### Returns
 

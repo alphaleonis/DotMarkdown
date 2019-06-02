@@ -21,9 +21,9 @@ public static DotMarkdown.Linq.MInline Join(object separator, System.Collections
 
 ### Parameters
 
-**separator** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**separator** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-**values** &emsp; System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)>
+**values** &ensp; System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)>
 
 ### Returns
 
@@ -37,9 +37,9 @@ public static DotMarkdown.Linq.MInline Join(object separator, params object[] va
 
 ### Parameters
 
-**separator** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**separator** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-**values** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**values** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

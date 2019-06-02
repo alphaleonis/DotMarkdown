@@ -29,7 +29,7 @@ protected MList(DotMarkdown.Linq.MList other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MList](../README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MList](../README.md)
 
 ## MList\(Object\) <a name="DotMarkdown_Linq_MList__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ protected MList(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MList\(Object\[\]\) <a name="DotMarkdown_Linq_MList__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ protected MList(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

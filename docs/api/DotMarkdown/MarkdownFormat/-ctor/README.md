@@ -12,24 +12,24 @@ public MarkdownFormat(DotMarkdown.EmphasisStyle boldStyle = Asterisk, DotMarkdow
 
 ### Parameters
 
-**boldStyle** &emsp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
+**boldStyle** &ensp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
 
-**italicStyle** &emsp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
+**italicStyle** &ensp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
 
-**bulletListStyle** &emsp; DotMarkdown\.[BulletListStyle](../../BulletListStyle/README.md)
+**bulletListStyle** &ensp; DotMarkdown\.[BulletListStyle](../../BulletListStyle/README.md)
 
-**orderedListStyle** &emsp; DotMarkdown\.[OrderedListStyle](../../OrderedListStyle/README.md)
+**orderedListStyle** &ensp; DotMarkdown\.[OrderedListStyle](../../OrderedListStyle/README.md)
 
-**headingStyle** &emsp; DotMarkdown\.[HeadingStyle](../../HeadingStyle/README.md)
+**headingStyle** &ensp; DotMarkdown\.[HeadingStyle](../../HeadingStyle/README.md)
 
-**headingOptions** &emsp; DotMarkdown\.[HeadingOptions](../../HeadingOptions/README.md)
+**headingOptions** &ensp; DotMarkdown\.[HeadingOptions](../../HeadingOptions/README.md)
 
-**tableOptions** &emsp; DotMarkdown\.[TableOptions](../../TableOptions/README.md)
+**tableOptions** &ensp; DotMarkdown\.[TableOptions](../../TableOptions/README.md)
 
-**codeFenceStyle** &emsp; DotMarkdown\.[CodeFenceStyle](../../CodeFenceStyle/README.md)
+**codeFenceStyle** &ensp; DotMarkdown\.[CodeFenceStyle](../../CodeFenceStyle/README.md)
 
-**codeBlockOptions** &emsp; DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md)
+**codeBlockOptions** &ensp; DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md)
 
-**charEntityFormat** &emsp; DotMarkdown\.[CharEntityFormat](../../CharEntityFormat/README.md)
+**charEntityFormat** &ensp; DotMarkdown\.[CharEntityFormat](../../CharEntityFormat/README.md)
 
-**horizontalRuleFormat** &emsp; DotMarkdown\.[HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)?
+**horizontalRuleFormat** &ensp; DotMarkdown\.[HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)?

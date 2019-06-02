@@ -21,7 +21,7 @@ public override bool Equals(object obj)
 
 ### Parameters
 
-**obj** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**obj** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -35,7 +35,7 @@ public bool Equals(DotMarkdown.TableColumnInfo other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.[TableColumnInfo](../README.md)
+**other** &ensp; DotMarkdown\.[TableColumnInfo](../README.md)
 
 ### Returns
 

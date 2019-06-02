@@ -21,7 +21,7 @@ public MFencedCodeBlock(DotMarkdown.Linq.MFencedCodeBlock other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MFencedCodeBlock](../README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MFencedCodeBlock](../README.md)
 
 ## MFencedCodeBlock\(String, String\) <a name="DotMarkdown_Linq_MFencedCodeBlock__ctor_System_String_System_String_"></a>
 
@@ -31,6 +31,6 @@ public MFencedCodeBlock(string text, string info = null)
 
 ### Parameters
 
-**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**info** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**info** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

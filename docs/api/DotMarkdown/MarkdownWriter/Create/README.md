@@ -24,11 +24,11 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, System.
 
 ### Parameters
 
-**stream** &emsp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
+**stream** &ensp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
 
-**encoding** &emsp; System\.Text\.[Encoding](https://docs.microsoft.com/en-us/dotnet/api/system.text.encoding)
+**encoding** &ensp; System\.Text\.[Encoding](https://docs.microsoft.com/en-us/dotnet/api/system.text.encoding)
 
-**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
@@ -42,9 +42,9 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, DotMark
 
 ### Parameters
 
-**stream** &emsp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
+**stream** &ensp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
 
-**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
@@ -58,11 +58,11 @@ public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output
 
 ### Parameters
 
-**output** &emsp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
+**output** &ensp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
 
-**formatProvider** &emsp; [IFormatProvider](https://docs.microsoft.com/en-us/dotnet/api/system.iformatprovider)
+**formatProvider** &ensp; [IFormatProvider](https://docs.microsoft.com/en-us/dotnet/api/system.iformatprovider)
 
-**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
@@ -76,9 +76,9 @@ public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output
 
 ### Parameters
 
-**output** &emsp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
+**output** &ensp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
 
-**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
@@ -92,9 +92,9 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.TextWriter output, Dot
 
 ### Parameters
 
-**output** &emsp; System\.IO\.[TextWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter)
+**output** &ensp; System\.IO\.[TextWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter)
 
-**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 

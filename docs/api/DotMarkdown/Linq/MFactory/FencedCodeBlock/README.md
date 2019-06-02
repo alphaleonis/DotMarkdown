@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MFencedCodeBlock FencedCodeBlock(DotMarkdown.Linq
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MFencedCodeBlock](../../MFencedCodeBlock/README.md)
 
 ### Returns
 
@@ -35,9 +35,9 @@ public static DotMarkdown.Linq.MFencedCodeBlock FencedCodeBlock(string value, st
 
 ### Parameters
 
-**value** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**value** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**info** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**info** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

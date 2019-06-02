@@ -21,7 +21,7 @@ public DotMarkdown.MarkdownFormat WithHeadingOptions(DotMarkdown.HeadingOptions 
 
 ### Parameters
 
-**headingOptions** &emsp; DotMarkdown\.[HeadingOptions](../../HeadingOptions/README.md)
+**headingOptions** &ensp; DotMarkdown\.[HeadingOptions](../../HeadingOptions/README.md)
 
 ### Returns
 
@@ -35,7 +35,7 @@ public DotMarkdown.MarkdownFormat WithHeadingOptions(DotMarkdown.HeadingStyle he
 
 ### Parameters
 
-**headingStyle** &emsp; DotMarkdown\.[HeadingStyle](../../HeadingStyle/README.md)
+**headingStyle** &ensp; DotMarkdown\.[HeadingStyle](../../HeadingStyle/README.md)
 
 ### Returns
 

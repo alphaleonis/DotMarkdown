@@ -12,7 +12,7 @@ public DotMarkdown.TableColumnInfo WithIsWhiteSpace(bool isWhiteSpace)
 
 ### Parameters
 
-**isWhiteSpace** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**isWhiteSpace** &ensp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ### Returns
 

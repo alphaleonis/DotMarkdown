@@ -21,7 +21,7 @@ public void Add(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## Add\(Object\[\]\) <a name="DotMarkdown_Linq_MContainer_Add_System_Object___"></a>
 
@@ -31,4 +31,4 @@ public void Add(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

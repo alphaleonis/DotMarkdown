@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownWriterSettings WithFormat(DotMarkdown.MarkdownFormat 
 
 ### Parameters
 
-**format** &emsp; DotMarkdown\.[MarkdownFormat](../../MarkdownFormat/README.md)
+**format** &ensp; DotMarkdown\.[MarkdownFormat](../../MarkdownFormat/README.md)
 
 ### Returns
 

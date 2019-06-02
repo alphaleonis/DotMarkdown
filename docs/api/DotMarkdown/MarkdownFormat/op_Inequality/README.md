@@ -12,9 +12,9 @@ public static bool operator !=(DotMarkdown.MarkdownFormat format1, DotMarkdown.M
 
 ### Parameters
 
-**format1** &emsp; DotMarkdown\.[MarkdownFormat](../README.md)
+**format1** &ensp; DotMarkdown\.[MarkdownFormat](../README.md)
 
-**format2** &emsp; DotMarkdown\.[MarkdownFormat](../README.md)
+**format2** &ensp; DotMarkdown\.[MarkdownFormat](../README.md)
 
 ### Returns
 

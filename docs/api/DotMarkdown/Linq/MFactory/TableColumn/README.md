@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MTableColumn TableColumn(DotMarkdown.HorizontalAl
 
 ### Parameters
 
-**alignment** &emsp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
+**alignment** &ensp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
 ### Returns
 
@@ -37,9 +37,9 @@ public static DotMarkdown.Linq.MTableColumn TableColumn(DotMarkdown.HorizontalAl
 
 ### Parameters
 
-**alignment** &emsp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
+**alignment** &ensp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -53,9 +53,9 @@ public static DotMarkdown.Linq.MTableColumn TableColumn(DotMarkdown.HorizontalAl
 
 ### Parameters
 
-**alignment** &emsp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
+**alignment** &ensp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 
@@ -69,7 +69,7 @@ public static DotMarkdown.Linq.MTableColumn TableColumn(DotMarkdown.Linq.MTableC
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
 
 ### Returns
 

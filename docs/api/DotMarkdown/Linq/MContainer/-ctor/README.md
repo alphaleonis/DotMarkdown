@@ -29,7 +29,7 @@ protected MContainer(DotMarkdown.Linq.MContainer other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MContainer](../README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MContainer](../README.md)
 
 ## MContainer\(Object\) <a name="DotMarkdown_Linq_MContainer__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ protected MContainer(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MContainer\(Object\[\]\) <a name="DotMarkdown_Linq_MContainer__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ protected MContainer(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

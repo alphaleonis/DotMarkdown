@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithCodeFenceStyle(DotMarkdown.CodeFenceStyle 
 
 ### Parameters
 
-**codeFenceStyle** &emsp; DotMarkdown\.[CodeFenceStyle](../../CodeFenceStyle/README.md)
+**codeFenceStyle** &ensp; DotMarkdown\.[CodeFenceStyle](../../CodeFenceStyle/README.md)
 
 ### Returns
 

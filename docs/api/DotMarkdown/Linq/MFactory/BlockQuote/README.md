@@ -33,7 +33,7 @@ public static DotMarkdown.Linq.MBlockQuote BlockQuote(DotMarkdown.Linq.MBlockQuo
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
 
 ### Returns
 
@@ -47,7 +47,7 @@ public static DotMarkdown.Linq.MBlockQuote BlockQuote(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MBlockQuote BlockQuote(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

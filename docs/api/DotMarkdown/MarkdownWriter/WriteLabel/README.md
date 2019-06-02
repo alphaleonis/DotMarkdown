@@ -12,8 +12,8 @@ public abstract void WriteLabel(string label, string url, string title = null)
 
 ### Parameters
 
-**label** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**label** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**url** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**url** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**title** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**title** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

@@ -33,7 +33,7 @@ public static DotMarkdown.Linq.MTable Table(DotMarkdown.Linq.MTable other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
 
 ### Returns
 
@@ -47,7 +47,7 @@ public static DotMarkdown.Linq.MTable Table(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MTable Table(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

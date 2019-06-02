@@ -23,7 +23,7 @@ public void Save(DotMarkdown.MarkdownWriter writer)
 
 ### Parameters
 
-**writer** &emsp; DotMarkdown\.[MarkdownWriter](../../../MarkdownWriter/README.md)
+**writer** &ensp; DotMarkdown\.[MarkdownWriter](../../../MarkdownWriter/README.md)
 
 ## Save\(Stream, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_"></a>
 
@@ -33,9 +33,9 @@ public void Save(System.IO.Stream stream, DotMarkdown.MarkdownFormat format = nu
 
 ### Parameters
 
-**stream** &emsp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
+**stream** &ensp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
 
-**format** &emsp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
+**format** &ensp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
 
 ## Save\(String, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_"></a>
 
@@ -45,9 +45,9 @@ public void Save(string fileName, DotMarkdown.MarkdownFormat format = null)
 
 ### Parameters
 
-**fileName** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**fileName** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**format** &emsp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
+**format** &ensp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
 
 ## Save\(TextWriter, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_"></a>
 
@@ -57,6 +57,6 @@ public void Save(System.IO.TextWriter writer, DotMarkdown.MarkdownFormat format 
 
 ### Parameters
 
-**writer** &emsp; System\.IO\.[TextWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter)
+**writer** &ensp; System\.IO\.[TextWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter)
 
-**format** &emsp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
+**format** &ensp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)

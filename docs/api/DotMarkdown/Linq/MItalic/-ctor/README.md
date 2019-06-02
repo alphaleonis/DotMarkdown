@@ -29,7 +29,7 @@ public MItalic(DotMarkdown.Linq.MItalic other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MItalic](../README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MItalic](../README.md)
 
 ## MItalic\(Object\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MItalic(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MItalic\(Object\[\]\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ public MItalic(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

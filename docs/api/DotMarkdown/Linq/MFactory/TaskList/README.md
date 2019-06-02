@@ -33,7 +33,7 @@ public static DotMarkdown.Linq.MTaskList TaskList(DotMarkdown.Linq.MTaskList oth
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
 
 ### Returns
 
@@ -47,7 +47,7 @@ public static DotMarkdown.Linq.MTaskList TaskList(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MTaskList TaskList(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

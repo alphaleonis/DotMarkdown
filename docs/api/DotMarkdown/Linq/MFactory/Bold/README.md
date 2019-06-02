@@ -33,7 +33,7 @@ public static DotMarkdown.Linq.MBold Bold(DotMarkdown.Linq.MBold other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
 
 ### Returns
 
@@ -47,7 +47,7 @@ public static DotMarkdown.Linq.MBold Bold(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MBold Bold(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

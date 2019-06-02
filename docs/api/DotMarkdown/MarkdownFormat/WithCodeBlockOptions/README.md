@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithCodeBlockOptions(DotMarkdown.CodeBlockOpti
 
 ### Parameters
 
-**codeBlockOptions** &emsp; DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md)
+**codeBlockOptions** &ensp; DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md)
 
 ### Returns
 

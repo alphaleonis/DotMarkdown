@@ -12,6 +12,6 @@ public virtual void WriteOrderedItem(int number, string text)
 
 ### Parameters
 
-**number** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**number** &ensp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

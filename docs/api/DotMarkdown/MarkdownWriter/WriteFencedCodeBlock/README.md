@@ -12,6 +12,6 @@ public abstract void WriteFencedCodeBlock(string text, string info = null)
 
 ### Parameters
 
-**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**info** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**info** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

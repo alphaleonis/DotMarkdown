@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MEntityRef EntityRef(DotMarkdown.Linq.MEntityRef 
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
 
 ### Returns
 
@@ -35,7 +35,7 @@ public static DotMarkdown.Linq.MEntityRef EntityRef(string name)
 
 ### Parameters
 
-**name** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**name** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

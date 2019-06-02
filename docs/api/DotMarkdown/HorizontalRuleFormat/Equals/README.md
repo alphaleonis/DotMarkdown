@@ -21,7 +21,7 @@ public bool Equals(DotMarkdown.HorizontalRuleFormat other)
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.[HorizontalRuleFormat](../README.md)
+**other** &ensp; DotMarkdown\.[HorizontalRuleFormat](../README.md)
 
 ### Returns
 
@@ -39,7 +39,7 @@ public override bool Equals(object obj)
 
 ### Parameters
 
-**obj** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**obj** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 

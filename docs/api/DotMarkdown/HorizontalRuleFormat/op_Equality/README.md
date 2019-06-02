@@ -12,9 +12,9 @@ public static bool operator ==(in DotMarkdown.HorizontalRuleFormat format1, in D
 
 ### Parameters
 
-**format1** &emsp; DotMarkdown\.[HorizontalRuleFormat](../README.md)
+**format1** &ensp; DotMarkdown\.[HorizontalRuleFormat](../README.md)
 
-**format2** &emsp; DotMarkdown\.[HorizontalRuleFormat](../README.md)
+**format2** &ensp; DotMarkdown\.[HorizontalRuleFormat](../README.md)
 
 ### Returns
 

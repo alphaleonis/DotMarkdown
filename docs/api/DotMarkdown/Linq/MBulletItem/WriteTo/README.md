@@ -12,4 +12,4 @@ public override void WriteTo(DotMarkdown.MarkdownWriter writer)
 
 ### Parameters
 
-**writer** &emsp; DotMarkdown\.[MarkdownWriter](../../../MarkdownWriter/README.md)
+**writer** &ensp; DotMarkdown\.[MarkdownWriter](../../../MarkdownWriter/README.md)

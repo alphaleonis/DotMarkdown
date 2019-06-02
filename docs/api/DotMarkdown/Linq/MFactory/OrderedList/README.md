@@ -33,7 +33,7 @@ public static DotMarkdown.Linq.MOrderedList OrderedList(DotMarkdown.Linq.MOrdere
 
 ### Parameters
 
-**other** &emsp; DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
+**other** &ensp; DotMarkdown\.Linq\.[MOrderedList](../../MOrderedList/README.md)
 
 ### Returns
 
@@ -47,7 +47,7 @@ public static DotMarkdown.Linq.MOrderedList OrderedList(object content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MOrderedList OrderedList(params object[] content)
 
 ### Parameters
 
-**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 
