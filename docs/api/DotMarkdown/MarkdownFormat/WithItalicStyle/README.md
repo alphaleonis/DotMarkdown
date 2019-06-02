@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithItalicStyle(DotMarkdown.EmphasisStyle ital
 
 ### Parameters
 
-**italicStyle**
+**italicStyle** &emsp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
 
 ### Returns
 

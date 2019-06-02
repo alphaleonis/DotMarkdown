@@ -12,4 +12,4 @@ public void WriteHeading2(string text)
 
 ### Parameters
 
-**text**
+**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

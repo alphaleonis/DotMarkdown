@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MLink Link(DotMarkdown.Linq.MLink other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MLink](../../MLink/README.md)
 
 ### Returns
 
@@ -35,11 +35,11 @@ public static DotMarkdown.Linq.MLink Link(object content, string url, string tit
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-**url**
+**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**title**
+**title** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

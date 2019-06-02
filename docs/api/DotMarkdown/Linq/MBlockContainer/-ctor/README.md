@@ -29,7 +29,7 @@ protected MBlockContainer(DotMarkdown.Linq.MBlockContainer other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MBlockContainer](../README.md)
 
 ## MBlockContainer\(Object\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ protected MBlockContainer(object content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MBlockContainer\(Object\[\]\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ protected MBlockContainer(params object[] content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

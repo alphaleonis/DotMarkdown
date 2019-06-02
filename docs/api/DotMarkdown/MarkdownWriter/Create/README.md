@@ -24,11 +24,11 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, System.
 
 ### Parameters
 
-**stream**
+**stream** &emsp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
 
-**encoding**
+**encoding** &emsp; System\.Text\.[Encoding](https://docs.microsoft.com/en-us/dotnet/api/system.text.encoding)
 
-**settings**
+**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
@@ -42,9 +42,9 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, DotMark
 
 ### Parameters
 
-**stream**
+**stream** &emsp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
 
-**settings**
+**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
@@ -58,11 +58,11 @@ public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output
 
 ### Parameters
 
-**output**
+**output** &emsp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
 
-**formatProvider**
+**formatProvider** &emsp; System\.[IFormatProvider](https://docs.microsoft.com/en-us/dotnet/api/system.iformatprovider)
 
-**settings**
+**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
@@ -76,9 +76,9 @@ public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output
 
 ### Parameters
 
-**output**
+**output** &emsp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
 
-**settings**
+**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
@@ -92,9 +92,9 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.TextWriter output, Dot
 
 ### Parameters
 
-**output**
+**output** &emsp; System\.IO\.[TextWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter)
 
-**settings**
+**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 

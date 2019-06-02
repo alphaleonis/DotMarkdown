@@ -29,7 +29,7 @@ public MBulletList(DotMarkdown.Linq.MBulletList other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MBulletList](../README.md)
 
 ## MBulletList\(Object\) <a name="DotMarkdown_Linq_MBulletList__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MBulletList(object content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MBulletList\(Object\[\]\) <a name="DotMarkdown_Linq_MBulletList__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ public MBulletList(params object[] content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

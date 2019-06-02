@@ -29,7 +29,7 @@ public MBlockQuote(DotMarkdown.Linq.MBlockQuote other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MBlockQuote](../README.md)
 
 ## MBlockQuote\(Object\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MBlockQuote(object content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MBlockQuote\(Object\[\]\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ public MBlockQuote(params object[] content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

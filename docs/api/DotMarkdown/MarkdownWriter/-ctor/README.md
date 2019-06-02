@@ -12,4 +12,4 @@ protected MarkdownWriter(DotMarkdown.MarkdownWriterSettings settings = null)
 
 ### Parameters
 
-**settings**
+**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)

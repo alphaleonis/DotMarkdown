@@ -31,4 +31,4 @@ protected virtual void Dispose(bool disposing)
 
 ### Parameters
 
-**disposing**
+**disposing** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)

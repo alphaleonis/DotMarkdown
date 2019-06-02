@@ -12,7 +12,7 @@ public DotMarkdown.TableColumnInfo WithAlignment(DotMarkdown.HorizontalAlignment
 
 ### Parameters
 
-**alignment**
+**alignment** &emsp; DotMarkdown\.[HorizontalAlignment](../../HorizontalAlignment/README.md)
 
 ### Returns
 

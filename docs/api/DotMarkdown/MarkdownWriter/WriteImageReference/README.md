@@ -12,6 +12,6 @@ public abstract void WriteImageReference(string text, string label)
 
 ### Parameters
 
-**text**
+**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**label**
+**label** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

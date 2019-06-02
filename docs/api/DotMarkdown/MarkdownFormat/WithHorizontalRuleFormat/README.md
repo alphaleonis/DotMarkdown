@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithHorizontalRuleFormat(in DotMarkdown.Horizo
 
 ### Parameters
 
-**horizontalRuleFormat**
+**horizontalRuleFormat** &emsp; DotMarkdown\.[HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)
 
 ### Returns
 

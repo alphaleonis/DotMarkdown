@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithOrderedListStyle(DotMarkdown.OrderedListSt
 
 ### Parameters
 
-**orderedListStyle**
+**orderedListStyle** &emsp; DotMarkdown\.[OrderedListStyle](../../OrderedListStyle/README.md)
 
 ### Returns
 

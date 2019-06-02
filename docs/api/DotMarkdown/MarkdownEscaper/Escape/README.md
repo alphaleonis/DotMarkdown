@@ -12,9 +12,9 @@ public static string Escape(string value, System.Func<char, bool> shouldBeEscape
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**shouldBeEscaped**
+**shouldBeEscaped** &emsp; System\.[Func](https://docs.microsoft.com/en-us/dotnet/api/system.func-2)\<System\.[Char](https://docs.microsoft.com/en-us/dotnet/api/system.char), System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)>
 
 ### Returns
 

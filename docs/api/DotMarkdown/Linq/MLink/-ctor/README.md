@@ -21,7 +21,7 @@ public MLink(DotMarkdown.Linq.MLink other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MLink](../README.md)
 
 ## MLink\(Object, String, String\) <a name="DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_"></a>
 
@@ -31,8 +31,8 @@ public MLink(object content, string url, string title = null)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-**url**
+**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**title**
+**title** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MAutolink Autolink(DotMarkdown.Linq.MAutolink oth
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md)
 
 ### Returns
 
@@ -35,7 +35,7 @@ public static DotMarkdown.Linq.MAutolink Autolink(string url)
 
 ### Parameters
 
-**url**
+**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

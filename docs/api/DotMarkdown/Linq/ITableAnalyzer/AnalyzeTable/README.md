@@ -12,7 +12,7 @@ System.Collections.Generic.IReadOnlyList<DotMarkdown.TableColumnInfo> AnalyzeTab
 
 ### Parameters
 
-**rows**
+**rows** &emsp; System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<DotMarkdown\.Linq\.[MElement](../../MElement/README.md)>
 
 ### Returns
 

@@ -28,7 +28,7 @@ public void WriteHorizontalRule(in DotMarkdown.HorizontalRuleFormat format)
 
 ### Parameters
 
-**format**
+**format** &emsp; DotMarkdown\.[HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)
 
 ## WriteHorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
@@ -38,8 +38,8 @@ public abstract void WriteHorizontalRule(DotMarkdown.HorizontalRuleStyle style, 
 
 ### Parameters
 
-**style**
+**style** &emsp; DotMarkdown\.[HorizontalRuleStyle](../../HorizontalRuleStyle/README.md)
 
-**count**
+**count** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**separator**
+**separator** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

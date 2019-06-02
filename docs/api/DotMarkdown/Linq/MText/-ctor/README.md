@@ -21,7 +21,7 @@ public MText(DotMarkdown.Linq.MText other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MText](../README.md)
 
 ## MText\(String\) <a name="DotMarkdown_Linq_MText__ctor_System_String_"></a>
 
@@ -31,4 +31,4 @@ public MText(string value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

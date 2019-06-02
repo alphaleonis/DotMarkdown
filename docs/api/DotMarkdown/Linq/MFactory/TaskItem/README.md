@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted)
 
 ### Parameters
 
-**isCompleted**
+**isCompleted** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ### Returns
 
@@ -37,9 +37,9 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, object conte
 
 ### Parameters
 
-**isCompleted**
+**isCompleted** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -53,9 +53,9 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, params objec
 
 ### Parameters
 
-**isCompleted**
+**isCompleted** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 
@@ -69,7 +69,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(DotMarkdown.Linq.MTaskItem oth
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
 
 ### Returns
 

@@ -12,6 +12,6 @@ public abstract void WriteEndLink(string url, string title = null)
 
 ### Parameters
 
-**url**
+**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**title**
+**title** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

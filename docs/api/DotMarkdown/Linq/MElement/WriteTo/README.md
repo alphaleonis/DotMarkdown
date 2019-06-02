@@ -12,4 +12,4 @@ public abstract void WriteTo(DotMarkdown.MarkdownWriter writer)
 
 ### Parameters
 
-**writer**
+**writer** &emsp; DotMarkdown\.[MarkdownWriter](../../../MarkdownWriter/README.md)

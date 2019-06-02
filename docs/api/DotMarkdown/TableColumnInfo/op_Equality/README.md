@@ -12,9 +12,9 @@ public static bool operator ==(in DotMarkdown.TableColumnInfo info1, in DotMarkd
 
 ### Parameters
 
-**info1**
+**info1** &emsp; DotMarkdown\.[TableColumnInfo](../README.md)
 
-**info2**
+**info2** &emsp; DotMarkdown\.[TableColumnInfo](../README.md)
 
 ### Returns
 

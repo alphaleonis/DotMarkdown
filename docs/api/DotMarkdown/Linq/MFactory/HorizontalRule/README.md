@@ -32,7 +32,7 @@ public static DotMarkdown.Linq.MHorizontalRule HorizontalRule(in DotMarkdown.Hor
 
 ### Parameters
 
-**format**
+**format** &emsp; DotMarkdown\.[HorizontalRuleFormat](../../../HorizontalRuleFormat/README.md)
 
 ### Returns
 
@@ -46,11 +46,11 @@ public static DotMarkdown.Linq.MHorizontalRule HorizontalRule(DotMarkdown.Horizo
 
 ### Parameters
 
-**style**
+**style** &emsp; DotMarkdown\.[HorizontalRuleStyle](../../../HorizontalRuleStyle/README.md)
 
-**count**
+**count** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**separator**
+**separator** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

@@ -12,8 +12,8 @@ public HorizontalRuleFormat(DotMarkdown.HorizontalRuleStyle style, int count, st
 
 ### Parameters
 
-**style**
+**style** &emsp; DotMarkdown\.[HorizontalRuleStyle](../../HorizontalRuleStyle/README.md)
 
-**count**
+**count** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**separator**
+**separator** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

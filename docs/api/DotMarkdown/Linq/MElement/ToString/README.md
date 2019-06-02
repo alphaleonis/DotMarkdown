@@ -32,7 +32,7 @@ public string ToString(DotMarkdown.MarkdownFormat format)
 
 ### Parameters
 
-**format**
+**format** &emsp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
 
 ### Returns
 
@@ -46,7 +46,7 @@ public string ToString(DotMarkdown.MarkdownWriterSettings settings)
 
 ### Parameters
 
-**settings**
+**settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../../MarkdownWriterSettings/README.md)
 
 ### Returns
 

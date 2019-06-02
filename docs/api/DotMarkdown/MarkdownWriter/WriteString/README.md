@@ -12,4 +12,4 @@ public abstract void WriteString(string text)
 
 ### Parameters
 
-**text**
+**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

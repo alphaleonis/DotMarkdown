@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MHeading Heading(int level)
 
 ### Parameters
 
-**level**
+**level** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 ### Returns
 
@@ -37,9 +37,9 @@ public static DotMarkdown.Linq.MHeading Heading(int level, object content)
 
 ### Parameters
 
-**level**
+**level** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -53,9 +53,9 @@ public static DotMarkdown.Linq.MHeading Heading(int level, params object[] conte
 
 ### Parameters
 
-**level**
+**level** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 
@@ -69,7 +69,7 @@ public static DotMarkdown.Linq.MHeading Heading(DotMarkdown.Linq.MHeading other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
 
 ### Returns
 

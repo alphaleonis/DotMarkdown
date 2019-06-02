@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithTableOptions(DotMarkdown.TableOptions tabl
 
 ### Parameters
 
-**tableOptions**
+**tableOptions** &emsp; DotMarkdown\.[TableOptions](../../TableOptions/README.md)
 
 ### Returns
 

@@ -21,7 +21,7 @@ public MComment(DotMarkdown.Linq.MComment other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MComment](../README.md)
 
 ## MComment\(String\) <a name="DotMarkdown_Linq_MComment__ctor_System_String_"></a>
 
@@ -31,4 +31,4 @@ public MComment(string value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

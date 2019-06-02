@@ -12,6 +12,6 @@ public virtual void WriteHeading(int level, string text)
 
 ### Parameters
 
-**level**
+**level** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**text**
+**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

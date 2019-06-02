@@ -23,7 +23,7 @@ public void Save(DotMarkdown.MarkdownWriter writer)
 
 ### Parameters
 
-**writer**
+**writer** &emsp; DotMarkdown\.[MarkdownWriter](../../../MarkdownWriter/README.md)
 
 ## Save\(Stream, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_Stream_DotMarkdown_MarkdownFormat_"></a>
 
@@ -33,9 +33,9 @@ public void Save(System.IO.Stream stream, DotMarkdown.MarkdownFormat format = nu
 
 ### Parameters
 
-**stream**
+**stream** &emsp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
 
-**format**
+**format** &emsp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
 
 ## Save\(String, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_String_DotMarkdown_MarkdownFormat_"></a>
 
@@ -45,9 +45,9 @@ public void Save(string fileName, DotMarkdown.MarkdownFormat format = null)
 
 ### Parameters
 
-**fileName**
+**fileName** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**format**
+**format** &emsp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
 
 ## Save\(TextWriter, MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_Save_System_IO_TextWriter_DotMarkdown_MarkdownFormat_"></a>
 
@@ -57,6 +57,6 @@ public void Save(System.IO.TextWriter writer, DotMarkdown.MarkdownFormat format 
 
 ### Parameters
 
-**writer**
+**writer** &emsp; System\.IO\.[TextWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter)
 
-**format**
+**format** &emsp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)

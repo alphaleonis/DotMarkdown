@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MRaw Raw(DotMarkdown.Linq.MRaw other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MRaw](../../MRaw/README.md)
 
 ### Returns
 
@@ -35,7 +35,7 @@ public static DotMarkdown.Linq.MRaw Raw(string text)
 
 ### Parameters
 
-**text**
+**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

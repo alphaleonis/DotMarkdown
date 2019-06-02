@@ -25,7 +25,7 @@ public virtual void WriteValue(bool value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ## WriteValue\(Decimal\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Decimal_"></a>
 
@@ -35,7 +35,7 @@ public virtual void WriteValue(decimal value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[Decimal](https://docs.microsoft.com/en-us/dotnet/api/system.decimal)
 
 ## WriteValue\(Double\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Double_"></a>
 
@@ -45,7 +45,7 @@ public virtual void WriteValue(double value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[Double](https://docs.microsoft.com/en-us/dotnet/api/system.double)
 
 ## WriteValue\(Int32\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Int32_"></a>
 
@@ -55,7 +55,7 @@ public virtual void WriteValue(int value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 ## WriteValue\(Int64\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Int64_"></a>
 
@@ -65,7 +65,7 @@ public virtual void WriteValue(long value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[Int64](https://docs.microsoft.com/en-us/dotnet/api/system.int64)
 
 ## WriteValue\(Single\) <a name="DotMarkdown_MarkdownWriter_WriteValue_System_Single_"></a>
 
@@ -75,4 +75,4 @@ public virtual void WriteValue(float value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[Single](https://docs.microsoft.com/en-us/dotnet/api/system.single)

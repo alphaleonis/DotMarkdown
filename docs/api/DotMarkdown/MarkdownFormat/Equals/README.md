@@ -21,7 +21,7 @@ public bool Equals(DotMarkdown.MarkdownFormat other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.[MarkdownFormat](../README.md)
 
 ### Returns
 
@@ -39,7 +39,7 @@ public override bool Equals(object obj)
 
 ### Parameters
 
-**obj**
+**obj** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 

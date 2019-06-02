@@ -12,4 +12,4 @@ public abstract void WriteCharEntity(char value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[Char](https://docs.microsoft.com/en-us/dotnet/api/system.char)

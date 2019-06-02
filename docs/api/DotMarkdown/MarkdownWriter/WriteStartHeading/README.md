@@ -12,4 +12,4 @@ public abstract void WriteStartHeading(int level)
 
 ### Parameters
 
-**level**
+**level** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)

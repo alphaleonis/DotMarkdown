@@ -29,7 +29,7 @@ public MDocument(DotMarkdown.Linq.MDocument other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MDocument](../README.md)
 
 ## MDocument\(Object\) <a name="DotMarkdown_Linq_MDocument__ctor_System_Object_"></a>
 
@@ -39,7 +39,7 @@ public MDocument(object content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MDocument\(Object\[\]\) <a name="DotMarkdown_Linq_MDocument__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ public MDocument(params object[] content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

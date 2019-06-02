@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MImage Image(DotMarkdown.Linq.MImage other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MImage](../../MImage/README.md)
 
 ### Returns
 
@@ -35,11 +35,11 @@ public static DotMarkdown.Linq.MImage Image(string text, string url, string titl
 
 ### Parameters
 
-**text**
+**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**url**
+**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**title**
+**title** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

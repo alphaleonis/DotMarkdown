@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithBulletListStyle(DotMarkdown.BulletListStyl
 
 ### Parameters
 
-**bulletListStyle**
+**bulletListStyle** &emsp; DotMarkdown\.[BulletListStyle](../../BulletListStyle/README.md)
 
 ### Returns
 

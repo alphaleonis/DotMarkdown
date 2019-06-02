@@ -12,10 +12,10 @@ public MarkdownWriterSettings(DotMarkdown.MarkdownFormat format = null, string n
 
 ### Parameters
 
-**format**
+**format** &emsp; DotMarkdown\.[MarkdownFormat](../../MarkdownFormat/README.md)
 
-**newLineChars**
+**newLineChars** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**newLineHandling**
+**newLineHandling** &emsp; DotMarkdown\.[NewLineHandling](../../NewLineHandling/README.md)
 
-**closeOutput**
+**closeOutput** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)

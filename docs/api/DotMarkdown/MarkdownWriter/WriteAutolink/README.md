@@ -12,4 +12,4 @@ public abstract void WriteAutolink(string url)
 
 ### Parameters
 
-**url**
+**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

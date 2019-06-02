@@ -12,4 +12,4 @@ public abstract void WriteEntityRef(string name)
 
 ### Parameters
 
-**name**
+**name** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

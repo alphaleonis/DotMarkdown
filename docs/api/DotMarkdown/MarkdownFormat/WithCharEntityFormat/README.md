@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithCharEntityFormat(DotMarkdown.CharEntityFor
 
 ### Parameters
 
-**charEntityFormat**
+**charEntityFormat** &emsp; DotMarkdown\.[CharEntityFormat](../../CharEntityFormat/README.md)
 
 ### Returns
 

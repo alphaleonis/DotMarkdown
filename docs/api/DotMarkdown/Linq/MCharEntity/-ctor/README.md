@@ -21,7 +21,7 @@ public MCharEntity(char value)
 
 ### Parameters
 
-**value**
+**value** &emsp; System\.[Char](https://docs.microsoft.com/en-us/dotnet/api/system.char)
 
 ## MCharEntity\(MCharEntity\) <a name="DotMarkdown_Linq_MCharEntity__ctor_DotMarkdown_Linq_MCharEntity_"></a>
 
@@ -31,4 +31,4 @@ public MCharEntity(DotMarkdown.Linq.MCharEntity other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MCharEntity](../README.md)

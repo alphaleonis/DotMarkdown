@@ -21,7 +21,7 @@ public MEntityRef(DotMarkdown.Linq.MEntityRef other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MEntityRef](../README.md)
 
 ## MEntityRef\(String\) <a name="DotMarkdown_Linq_MEntityRef__ctor_System_String_"></a>
 
@@ -31,4 +31,4 @@ public MEntityRef(string name)
 
 ### Parameters
 
-**name**
+**name** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

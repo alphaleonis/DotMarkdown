@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MInlineCode InlineCode(DotMarkdown.Linq.MInlineCo
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md)
 
 ### Returns
 
@@ -35,7 +35,7 @@ public static DotMarkdown.Linq.MInlineCode InlineCode(string text)
 
 ### Parameters
 
-**text**
+**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownFormat WithBoldStyle(DotMarkdown.EmphasisStyle boldSt
 
 ### Parameters
 
-**boldStyle**
+**boldStyle** &emsp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
 
 ### Returns
 

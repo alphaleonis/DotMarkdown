@@ -32,7 +32,7 @@ public static DotMarkdown.Linq.MHeading Heading6(object content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -46,7 +46,7 @@ public static DotMarkdown.Linq.MHeading Heading6(params object[] content)
 
 ### Parameters
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

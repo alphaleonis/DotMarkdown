@@ -23,7 +23,7 @@ public MOrderedItem(int number)
 
 ### Parameters
 
-**number**
+**number** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 ## MOrderedItem\(Int32, Object\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object_"></a>
 
@@ -33,9 +33,9 @@ public MOrderedItem(int number, object content)
 
 ### Parameters
 
-**number**
+**number** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MOrderedItem\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_System_Int32_System_Object___"></a>
 
@@ -45,9 +45,9 @@ public MOrderedItem(int number, params object[] content)
 
 ### Parameters
 
-**number**
+**number** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**content**
+**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ## MOrderedItem\(MOrderedItem\) <a name="DotMarkdown_Linq_MOrderedItem__ctor_DotMarkdown_Linq_MOrderedItem_"></a>
 
@@ -57,4 +57,4 @@ public MOrderedItem(DotMarkdown.Linq.MOrderedItem other)
 
 ### Parameters
 
-**other**
+**other** &emsp; DotMarkdown\.Linq\.[MOrderedItem](../README.md)

@@ -12,24 +12,24 @@ public MarkdownFormat(DotMarkdown.EmphasisStyle boldStyle = Asterisk, DotMarkdow
 
 ### Parameters
 
-**boldStyle**
+**boldStyle** &emsp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
 
-**italicStyle**
+**italicStyle** &emsp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
 
-**bulletListStyle**
+**bulletListStyle** &emsp; DotMarkdown\.[BulletListStyle](../../BulletListStyle/README.md)
 
-**orderedListStyle**
+**orderedListStyle** &emsp; DotMarkdown\.[OrderedListStyle](../../OrderedListStyle/README.md)
 
-**headingStyle**
+**headingStyle** &emsp; DotMarkdown\.[HeadingStyle](../../HeadingStyle/README.md)
 
-**headingOptions**
+**headingOptions** &emsp; DotMarkdown\.[HeadingOptions](../../HeadingOptions/README.md)
 
-**tableOptions**
+**tableOptions** &emsp; DotMarkdown\.[TableOptions](../../TableOptions/README.md)
 
-**codeFenceStyle**
+**codeFenceStyle** &emsp; DotMarkdown\.[CodeFenceStyle](../../CodeFenceStyle/README.md)
 
-**codeBlockOptions**
+**codeBlockOptions** &emsp; DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md)
 
-**charEntityFormat**
+**charEntityFormat** &emsp; DotMarkdown\.[CharEntityFormat](../../CharEntityFormat/README.md)
 
-**horizontalRuleFormat**
+**horizontalRuleFormat** &emsp; DotMarkdown\.[HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)?
