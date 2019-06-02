@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public readonly struct HorizontalRuleFormat : System.IEquatable<DotMarkdown.HorizontalRuleFormat>
+public readonly struct HorizontalRuleFormat : IEquatable<DotMarkdown.HorizontalRuleFormat>
 ```
 
 ### Inheritance
@@ -16,7 +16,7 @@ public readonly struct HorizontalRuleFormat : System.IEquatable<DotMarkdown.Hori
 
 ### Implements
 
-* System\.[IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[HorizontalRuleFormat](./README.md)>
+* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[HorizontalRuleFormat](./README.md)>
 
 ## Constructors
 

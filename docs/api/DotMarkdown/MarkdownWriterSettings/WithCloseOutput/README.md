@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownWriterSettings WithCloseOutput(bool closeOutput)
 
 ### Parameters
 
-**closeOutput** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**closeOutput** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ### Returns
 

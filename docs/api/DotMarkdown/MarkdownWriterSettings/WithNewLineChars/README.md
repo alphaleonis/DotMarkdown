@@ -12,7 +12,7 @@ public DotMarkdown.MarkdownWriterSettings WithNewLineChars(string newLineChars)
 
 ### Parameters
 
-**newLineChars** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**newLineChars** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

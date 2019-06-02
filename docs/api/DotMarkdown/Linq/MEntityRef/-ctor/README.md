@@ -31,4 +31,4 @@ public MEntityRef(string name)
 
 ### Parameters
 
-**name** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**name** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

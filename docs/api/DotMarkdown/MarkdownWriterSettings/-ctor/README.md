@@ -14,8 +14,8 @@ public MarkdownWriterSettings(DotMarkdown.MarkdownFormat format = null, string n
 
 **format** &emsp; DotMarkdown\.[MarkdownFormat](../../MarkdownFormat/README.md)
 
-**newLineChars** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**newLineChars** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 **newLineHandling** &emsp; DotMarkdown\.[NewLineHandling](../../NewLineHandling/README.md)
 
-**closeOutput** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**closeOutput** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)

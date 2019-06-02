@@ -22,7 +22,7 @@ public override string ToString()
 
 ### Returns
 
-System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ## ToString\(MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_"></a>
 
@@ -36,7 +36,7 @@ public string ToString(DotMarkdown.MarkdownFormat format)
 
 ### Returns
 
-System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ## ToString\(MarkdownWriterSettings\) <a name="DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -50,5 +50,5 @@ public string ToString(DotMarkdown.MarkdownWriterSettings settings)
 
 ### Returns
 
-System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 

@@ -39,7 +39,7 @@ public MStrikethrough(object content)
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MStrikethrough\(Object\[\]\) <a name="DotMarkdown_Linq_MStrikethrough__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ public MStrikethrough(params object[] content)
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

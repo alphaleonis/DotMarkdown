@@ -40,6 +40,6 @@ public abstract void WriteHorizontalRule(DotMarkdown.HorizontalRuleStyle style, 
 
 **style** &emsp; DotMarkdown\.[HorizontalRuleStyle](../../HorizontalRuleStyle/README.md)
 
-**count** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**count** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**separator** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**separator** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

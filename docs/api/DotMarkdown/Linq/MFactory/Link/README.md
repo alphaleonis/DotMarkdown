@@ -35,11 +35,11 @@ public static DotMarkdown.Linq.MLink Link(object content, string url, string tit
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**url** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**title** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**title** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

@@ -18,5 +18,5 @@ public static bool operator !=(in DotMarkdown.HorizontalRuleFormat format1, in D
 
 ### Returns
 
-System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 

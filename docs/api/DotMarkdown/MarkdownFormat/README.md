@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public class MarkdownFormat : System.IEquatable<DotMarkdown.MarkdownFormat>
+public class MarkdownFormat : IEquatable<DotMarkdown.MarkdownFormat>
 ```
 
 ### Inheritance
@@ -16,7 +16,7 @@ public class MarkdownFormat : System.IEquatable<DotMarkdown.MarkdownFormat>
 
 ### Implements
 
-* System\.[IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[MarkdownFormat](./README.md)>
+* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[MarkdownFormat](./README.md)>
 
 ## Constructors
 

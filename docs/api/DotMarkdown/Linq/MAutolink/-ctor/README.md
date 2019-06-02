@@ -31,4 +31,4 @@ public MAutolink(string url)
 
 ### Parameters
 
-**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**url** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

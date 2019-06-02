@@ -16,5 +16,5 @@ public const string ARMAssembler = "armasm"
 
 ### Field Value
 
-System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 

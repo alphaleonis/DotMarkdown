@@ -53,14 +53,14 @@ DotMarkdown\.[MarkdownWriter](../README.md)
 ## Create\(StringBuilder, IFormatProvider, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_System_IFormatProvider_DotMarkdown_MarkdownWriterSettings_"></a>
 
 ```csharp
-public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output, System.IFormatProvider formatProvider, DotMarkdown.MarkdownWriterSettings settings = null)
+public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output, IFormatProvider formatProvider, DotMarkdown.MarkdownWriterSettings settings = null)
 ```
 
 ### Parameters
 
 **output** &emsp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
 
-**formatProvider** &emsp; System\.[IFormatProvider](https://docs.microsoft.com/en-us/dotnet/api/system.iformatprovider)
+**formatProvider** &emsp; [IFormatProvider](https://docs.microsoft.com/en-us/dotnet/api/system.iformatprovider)
 
 **settings** &emsp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 

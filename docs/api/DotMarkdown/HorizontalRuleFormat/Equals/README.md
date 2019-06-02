@@ -25,11 +25,11 @@ public bool Equals(DotMarkdown.HorizontalRuleFormat other)
 
 ### Returns
 
-System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ### Implements
 
-* System\.[IEquatable\<HorizontalRuleFormat>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)
+* [IEquatable\<HorizontalRuleFormat>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)
 
 ## Equals\(Object\) <a name="DotMarkdown_HorizontalRuleFormat_Equals_System_Object_"></a>
 
@@ -39,9 +39,9 @@ public override bool Equals(object obj)
 
 ### Parameters
 
-**obj** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**obj** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
-System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 

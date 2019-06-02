@@ -21,11 +21,11 @@ public override bool Equals(object obj)
 
 ### Parameters
 
-**obj** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**obj** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
-System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ## Equals\(TableColumnInfo\) <a name="DotMarkdown_TableColumnInfo_Equals_DotMarkdown_TableColumnInfo_"></a>
 
@@ -39,8 +39,8 @@ public bool Equals(DotMarkdown.TableColumnInfo other)
 
 ### Returns
 
-System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ### Implements
 
-* System\.[IEquatable\<TableColumnInfo>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)
+* [IEquatable\<TableColumnInfo>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1.equals)

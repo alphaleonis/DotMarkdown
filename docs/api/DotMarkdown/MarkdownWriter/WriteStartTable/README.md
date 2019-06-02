@@ -21,7 +21,7 @@ public abstract void WriteStartTable(int columnCount)
 
 ### Parameters
 
-**columnCount** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**columnCount** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 ## WriteStartTable\(IReadOnlyList\<TableColumnInfo>\) <a name="DotMarkdown_MarkdownWriter_WriteStartTable_System_Collections_Generic_IReadOnlyList_DotMarkdown_TableColumnInfo__"></a>
 

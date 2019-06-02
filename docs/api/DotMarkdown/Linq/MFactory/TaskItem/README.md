@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted)
 
 ### Parameters
 
-**isCompleted** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**isCompleted** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ### Returns
 
@@ -37,9 +37,9 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, object conte
 
 ### Parameters
 
-**isCompleted** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**isCompleted** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -53,9 +53,9 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, params objec
 
 ### Parameters
 
-**isCompleted** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**isCompleted** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

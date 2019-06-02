@@ -34,9 +34,9 @@ public MHorizontalRule(DotMarkdown.HorizontalRuleStyle style, int count, string 
 
 **style** &emsp; DotMarkdown\.[HorizontalRuleStyle](../../../HorizontalRuleStyle/README.md)
 
-**count** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**count** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**separator** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**separator** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ## MHorizontalRule\(MHorizontalRule\) <a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_Linq_MHorizontalRule_"></a>
 

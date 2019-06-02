@@ -35,7 +35,7 @@ public MTableColumn(DotMarkdown.HorizontalAlignment alignment, object content)
 
 **alignment** &emsp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MTableColumn\(HorizontalAlignment, Object\[\]\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object___"></a>
 
@@ -47,7 +47,7 @@ public MTableColumn(DotMarkdown.HorizontalAlignment alignment, params object[] c
 
 **alignment** &emsp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ## MTableColumn\(MTableColumn\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_Linq_MTableColumn_"></a>
 

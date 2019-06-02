@@ -39,7 +39,7 @@ protected MBlockContainer(object content)
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MBlockContainer\(Object\[\]\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ protected MBlockContainer(params object[] content)
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

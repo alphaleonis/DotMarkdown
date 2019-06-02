@@ -39,7 +39,7 @@ public MOrderedList(object content)
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MOrderedList\(Object\[\]\) <a name="DotMarkdown_Linq_MOrderedList__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ public MOrderedList(params object[] content)
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

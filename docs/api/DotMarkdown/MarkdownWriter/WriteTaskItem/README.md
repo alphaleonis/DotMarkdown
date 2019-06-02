@@ -12,6 +12,6 @@ public virtual void WriteTaskItem(string text, bool isCompleted = false)
 
 ### Parameters
 
-**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**isCompleted** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**isCompleted** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)

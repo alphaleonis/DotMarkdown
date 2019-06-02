@@ -35,7 +35,7 @@ public static DotMarkdown.Linq.MIndentedCodeBlock IndentedCodeBlock(string value
 
 ### Parameters
 
-**value** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**value** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 ### Returns
 

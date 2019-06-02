@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MOrderedItem OrderedItem(int number)
 
 ### Parameters
 
-**number** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**number** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 ### Returns
 
@@ -37,9 +37,9 @@ public static DotMarkdown.Linq.MOrderedItem OrderedItem(int number, object conte
 
 ### Parameters
 
-**number** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**number** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
@@ -53,9 +53,9 @@ public static DotMarkdown.Linq.MOrderedItem OrderedItem(int number, params objec
 
 ### Parameters
 
-**number** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**number** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 

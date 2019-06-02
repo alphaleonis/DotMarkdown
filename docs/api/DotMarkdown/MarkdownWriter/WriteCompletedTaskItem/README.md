@@ -12,4 +12,4 @@ public void WriteCompletedTaskItem(string text)
 
 ### Parameters
 
-**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

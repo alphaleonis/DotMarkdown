@@ -12,6 +12,6 @@ public abstract void WriteLinkReference(string text, string label = null)
 
 ### Parameters
 
-**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**label** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**label** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public abstract class MarkdownWriter : System.IDisposable
+public abstract class MarkdownWriter : IDisposable
 ```
 
 ### Inheritance
@@ -16,7 +16,7 @@ public abstract class MarkdownWriter : System.IDisposable
 
 ### Implements
 
-* System\.[IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable)
+* [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable)
 
 ## Constructors
 

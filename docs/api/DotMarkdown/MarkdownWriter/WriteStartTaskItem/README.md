@@ -12,4 +12,4 @@ public abstract void WriteStartTaskItem(bool isCompleted = false)
 
 ### Parameters
 
-**isCompleted** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**isCompleted** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)

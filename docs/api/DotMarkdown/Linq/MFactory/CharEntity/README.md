@@ -21,7 +21,7 @@ public static DotMarkdown.Linq.MCharEntity CharEntity(char value)
 
 ### Parameters
 
-**value** &emsp; System\.[Char](https://docs.microsoft.com/en-us/dotnet/api/system.char)
+**value** &emsp; [Char](https://docs.microsoft.com/en-us/dotnet/api/system.char)
 
 ### Returns
 

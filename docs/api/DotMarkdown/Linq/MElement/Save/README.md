@@ -45,7 +45,7 @@ public void Save(string fileName, DotMarkdown.MarkdownFormat format = null)
 
 ### Parameters
 
-**fileName** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**fileName** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 **format** &emsp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
 

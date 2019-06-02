@@ -39,7 +39,7 @@ public MInline(object content)
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MInline\(Object\[\]\) <a name="DotMarkdown_Linq_MInline__ctor_System_Object___"></a>
 
@@ -49,4 +49,4 @@ public MInline(params object[] content)
 
 ### Parameters
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]

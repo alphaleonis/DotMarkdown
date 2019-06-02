@@ -12,4 +12,4 @@ public abstract void WriteRaw(string data)
 
 ### Parameters
 
-**data** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**data** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

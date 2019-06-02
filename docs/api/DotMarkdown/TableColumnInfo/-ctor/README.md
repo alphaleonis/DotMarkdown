@@ -14,6 +14,6 @@ public TableColumnInfo(DotMarkdown.HorizontalAlignment alignment, int width, boo
 
 **alignment** &emsp; DotMarkdown\.[HorizontalAlignment](../../HorizontalAlignment/README.md)
 
-**width** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**width** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**isWhiteSpace** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**isWhiteSpace** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)

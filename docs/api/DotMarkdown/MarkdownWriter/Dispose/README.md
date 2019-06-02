@@ -21,7 +21,7 @@ public void Dispose()
 
 ### Implements
 
-* System\.[IDisposable.Dispose](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)
+* [IDisposable.Dispose](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)
 
 ## Dispose\(Boolean\) <a name="DotMarkdown_MarkdownWriter_Dispose_System_Boolean_"></a>
 
@@ -31,4 +31,4 @@ protected virtual void Dispose(bool disposing)
 
 ### Parameters
 
-**disposing** &emsp; System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+**disposing** &emsp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)

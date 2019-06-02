@@ -31,6 +31,6 @@ public MFencedCodeBlock(string text, string info = null)
 
 ### Parameters
 
-**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**info** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**info** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

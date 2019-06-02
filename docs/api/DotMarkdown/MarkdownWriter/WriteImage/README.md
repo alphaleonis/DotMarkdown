@@ -12,8 +12,8 @@ public abstract void WriteImage(string text, string url, string title = null)
 
 ### Parameters
 
-**text** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**text** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**url** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**url** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**title** &emsp; System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+**title** &emsp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

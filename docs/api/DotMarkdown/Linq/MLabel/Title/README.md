@@ -12,5 +12,5 @@ public string Title { get; set; }
 
 ### Property Value
 
-System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 

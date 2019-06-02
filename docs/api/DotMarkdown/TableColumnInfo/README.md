@@ -7,7 +7,7 @@
 **Assembly**: DotMarkdown\.dll
 
 ```csharp
-public readonly struct TableColumnInfo : System.IEquatable<DotMarkdown.TableColumnInfo>
+public readonly struct TableColumnInfo : IEquatable<DotMarkdown.TableColumnInfo>
 ```
 
 ### Inheritance
@@ -16,7 +16,7 @@ public readonly struct TableColumnInfo : System.IEquatable<DotMarkdown.TableColu
 
 ### Implements
 
-* System\.[IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[TableColumnInfo](./README.md)>
+* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[TableColumnInfo](./README.md)>
 
 ## Constructors
 

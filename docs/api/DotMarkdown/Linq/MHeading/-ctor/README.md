@@ -23,7 +23,7 @@ public MHeading(int level)
 
 ### Parameters
 
-**level** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**level** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 ## MHeading\(Int32, Object\) <a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object_"></a>
 
@@ -33,9 +33,9 @@ public MHeading(int level, object content)
 
 ### Parameters
 
-**level** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**level** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ## MHeading\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object___"></a>
 
@@ -45,9 +45,9 @@ public MHeading(int level, params object[] content)
 
 ### Parameters
 
-**level** &emsp; System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+**level** &emsp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-**content** &emsp; System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
+**content** &emsp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ## MHeading\(MHeading\) <a name="DotMarkdown_Linq_MHeading__ctor_DotMarkdown_Linq_MHeading_"></a>
 
