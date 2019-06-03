@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownEscaper](../README.md)
+**Containing Type**: [MarkdownEscaper](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

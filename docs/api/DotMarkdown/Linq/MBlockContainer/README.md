@@ -16,11 +16,11 @@ public abstract class MBlockContainer : DotMarkdown.Linq.MContainer
 
 ### Derived
 
-* DotMarkdown\.Linq\.[MBlockQuote](../MBlockQuote/README.md)
-* DotMarkdown\.Linq\.[MBulletItem](../MBulletItem/README.md)
-* DotMarkdown\.Linq\.[MDocument](../MDocument/README.md)
-* DotMarkdown\.Linq\.[MOrderedItem](../MOrderedItem/README.md)
-* DotMarkdown\.Linq\.[MTaskItem](../MTaskItem/README.md)
+* [MBlockQuote](../MBlockQuote/README.md)
+* [MBulletItem](../MBulletItem/README.md)
+* [MDocument](../MDocument/README.md)
+* [MOrderedItem](../MOrderedItem/README.md)
+* [MTaskItem](../MTaskItem/README.md)
 
 ## Constructors
 

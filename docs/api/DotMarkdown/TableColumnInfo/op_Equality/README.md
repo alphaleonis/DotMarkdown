@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[TableColumnInfo](../README.md)
+**Containing Type**: [TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public static bool operator ==(in DotMarkdown.TableColumnInfo info1, in DotMarkd
 
 ### Parameters
 
-**info1** &ensp; DotMarkdown\.[TableColumnInfo](../README.md)
+**info1** &ensp; [TableColumnInfo](../README.md)
 
-**info2** &ensp; DotMarkdown\.[TableColumnInfo](../README.md)
+**info2** &ensp; [TableColumnInfo](../README.md)
 
 ### Returns
 

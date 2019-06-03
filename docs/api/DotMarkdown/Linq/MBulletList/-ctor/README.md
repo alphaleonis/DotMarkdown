@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBulletList](../README.md)
+**Containing Type**: [MBulletList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MBulletList(DotMarkdown.Linq.MBulletList other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MBulletList](../README.md)
+**other** &ensp; [MBulletList](../README.md)
 
 ## MBulletList\(Object\) <a name="DotMarkdown_Linq_MBulletList__ctor_System_Object_"></a>
 

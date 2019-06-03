@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriter](../README.md)
+**Containing Type**: [MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public DotMarkdown.MarkdownFormat Format { get; }
 
 ### Property Value
 
-DotMarkdown\.[MarkdownFormat](../../MarkdownFormat/README.md)
+[MarkdownFormat](../../MarkdownFormat/README.md)
 

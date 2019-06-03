@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public DotMarkdown.MarkdownFormat WithBulletListStyle(DotMarkdown.BulletListStyl
 
 ### Parameters
 
-**bulletListStyle** &ensp; DotMarkdown\.[BulletListStyle](../../BulletListStyle/README.md)
+**bulletListStyle** &ensp; [BulletListStyle](../../BulletListStyle/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownFormat](../README.md)
+[MarkdownFormat](../README.md)
 

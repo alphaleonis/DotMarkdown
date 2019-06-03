@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MElement](../README.md)
+**Containing Type**: [MElement](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -32,7 +32,7 @@ public string ToString(DotMarkdown.MarkdownFormat format)
 
 ### Parameters
 
-**format** &ensp; DotMarkdown\.[MarkdownFormat](../../../MarkdownFormat/README.md)
+**format** &ensp; [MarkdownFormat](../../../MarkdownFormat/README.md)
 
 ### Returns
 
@@ -46,7 +46,7 @@ public string ToString(DotMarkdown.MarkdownWriterSettings settings)
 
 ### Parameters
 
-**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../../MarkdownWriterSettings/README.md)
+**settings** &ensp; [MarkdownWriterSettings](../../../MarkdownWriterSettings/README.md)
 
 ### Returns
 

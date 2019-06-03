@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MTable Table()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+[MTable](../../MTable/README.md)
 
 ## Table\(MTable\) <a name="DotMarkdown_Linq_MFactory_Table_DotMarkdown_Linq_MTable_"></a>
 
@@ -33,11 +33,11 @@ public static DotMarkdown.Linq.MTable Table(DotMarkdown.Linq.MTable other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+**other** &ensp; [MTable](../../MTable/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+[MTable](../../MTable/README.md)
 
 ## Table\(Object\) <a name="DotMarkdown_Linq_MFactory_Table_System_Object_"></a>
 
@@ -51,7 +51,7 @@ public static DotMarkdown.Linq.MTable Table(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+[MTable](../../MTable/README.md)
 
 ## Table\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Table_System_Object___"></a>
 
@@ -65,5 +65,5 @@ public static DotMarkdown.Linq.MTable Table(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTable](../../MTable/README.md)
+[MTable](../../MTable/README.md)
 

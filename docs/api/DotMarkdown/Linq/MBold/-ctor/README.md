@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBold](../README.md)
+**Containing Type**: [MBold](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MBold(DotMarkdown.Linq.MBold other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MBold](../README.md)
+**other** &ensp; [MBold](../README.md)
 
 ## MBold\(Object\) <a name="DotMarkdown_Linq_MBold__ctor_System_Object_"></a>
 

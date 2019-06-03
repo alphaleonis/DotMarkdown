@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MBold Bold()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+[MBold](../../MBold/README.md)
 
 ## Bold\(MBold\) <a name="DotMarkdown_Linq_MFactory_Bold_DotMarkdown_Linq_MBold_"></a>
 
@@ -33,11 +33,11 @@ public static DotMarkdown.Linq.MBold Bold(DotMarkdown.Linq.MBold other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+**other** &ensp; [MBold](../../MBold/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+[MBold](../../MBold/README.md)
 
 ## Bold\(Object\) <a name="DotMarkdown_Linq_MFactory_Bold_System_Object_"></a>
 
@@ -51,7 +51,7 @@ public static DotMarkdown.Linq.MBold Bold(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+[MBold](../../MBold/README.md)
 
 ## Bold\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Bold_System_Object___"></a>
 
@@ -65,5 +65,5 @@ public static DotMarkdown.Linq.MBold Bold(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBold](../../MBold/README.md)
+[MBold](../../MBold/README.md)
 

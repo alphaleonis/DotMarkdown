@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,11 @@ public static DotMarkdown.Linq.MAutolink Autolink(DotMarkdown.Linq.MAutolink oth
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md)
+**other** &ensp; [MAutolink](../../MAutolink/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md)
+[MAutolink](../../MAutolink/README.md)
 
 ## Autolink\(String\) <a name="DotMarkdown_Linq_MFactory_Autolink_System_String_"></a>
 
@@ -39,5 +39,5 @@ public static DotMarkdown.Linq.MAutolink Autolink(string url)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MAutolink](../../MAutolink/README.md)
+[MAutolink](../../MAutolink/README.md)
 

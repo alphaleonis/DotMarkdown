@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MContainer](../README.md)
+**Containing Type**: [MContainer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public System.Collections.Generic.IEnumerable<DotMarkdown.Linq.MContainer> Ances
 
 ### Returns
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<DotMarkdown\.Linq\.[MContainer](../README.md)>
+[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[MContainer](../README.md)>
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MRaw](../README.md)
+**Containing Type**: [MRaw](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MRaw(DotMarkdown.Linq.MRaw other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MRaw](../README.md)
+**other** &ensp; [MRaw](../README.md)
 
 ## MRaw\(String\) <a name="DotMarkdown_Linq_MRaw__ctor_System_String_"></a>
 

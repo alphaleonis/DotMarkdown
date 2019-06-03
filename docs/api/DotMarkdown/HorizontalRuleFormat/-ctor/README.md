@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[HorizontalRuleFormat](../README.md)
+**Containing Type**: [HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,7 +12,7 @@ public HorizontalRuleFormat(DotMarkdown.HorizontalRuleStyle style, int count, st
 
 ### Parameters
 
-**style** &ensp; DotMarkdown\.[HorizontalRuleStyle](../../HorizontalRuleStyle/README.md)
+**style** &ensp; [HorizontalRuleStyle](../../HorizontalRuleStyle/README.md)
 
 **count** &ensp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 

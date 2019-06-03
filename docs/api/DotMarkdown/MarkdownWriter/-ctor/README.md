@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriter](../README.md)
+**Containing Type**: [MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,4 +12,4 @@ protected MarkdownWriter(DotMarkdown.MarkdownWriterSettings settings = null)
 
 ### Parameters
 
-**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; [MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)

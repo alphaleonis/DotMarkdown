@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,24 +12,24 @@ public MarkdownFormat(DotMarkdown.EmphasisStyle boldStyle = Asterisk, DotMarkdow
 
 ### Parameters
 
-**boldStyle** &ensp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
+**boldStyle** &ensp; [EmphasisStyle](../../EmphasisStyle/README.md)
 
-**italicStyle** &ensp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
+**italicStyle** &ensp; [EmphasisStyle](../../EmphasisStyle/README.md)
 
-**bulletListStyle** &ensp; DotMarkdown\.[BulletListStyle](../../BulletListStyle/README.md)
+**bulletListStyle** &ensp; [BulletListStyle](../../BulletListStyle/README.md)
 
-**orderedListStyle** &ensp; DotMarkdown\.[OrderedListStyle](../../OrderedListStyle/README.md)
+**orderedListStyle** &ensp; [OrderedListStyle](../../OrderedListStyle/README.md)
 
-**headingStyle** &ensp; DotMarkdown\.[HeadingStyle](../../HeadingStyle/README.md)
+**headingStyle** &ensp; [HeadingStyle](../../HeadingStyle/README.md)
 
-**headingOptions** &ensp; DotMarkdown\.[HeadingOptions](../../HeadingOptions/README.md)
+**headingOptions** &ensp; [HeadingOptions](../../HeadingOptions/README.md)
 
-**tableOptions** &ensp; DotMarkdown\.[TableOptions](../../TableOptions/README.md)
+**tableOptions** &ensp; [TableOptions](../../TableOptions/README.md)
 
-**codeFenceStyle** &ensp; DotMarkdown\.[CodeFenceStyle](../../CodeFenceStyle/README.md)
+**codeFenceStyle** &ensp; [CodeFenceStyle](../../CodeFenceStyle/README.md)
 
-**codeBlockOptions** &ensp; DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md)
+**codeBlockOptions** &ensp; [CodeBlockOptions](../../CodeBlockOptions/README.md)
 
-**charEntityFormat** &ensp; DotMarkdown\.[CharEntityFormat](../../CharEntityFormat/README.md)
+**charEntityFormat** &ensp; [CharEntityFormat](../../CharEntityFormat/README.md)
 
-**horizontalRuleFormat** &ensp; DotMarkdown\.[HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)?
+**horizontalRuleFormat** &ensp; [HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)?

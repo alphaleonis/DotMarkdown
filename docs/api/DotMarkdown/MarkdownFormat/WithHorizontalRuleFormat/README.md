@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public DotMarkdown.MarkdownFormat WithHorizontalRuleFormat(in DotMarkdown.Horizo
 
 ### Parameters
 
-**horizontalRuleFormat** &ensp; DotMarkdown\.[HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)
+**horizontalRuleFormat** &ensp; [HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownFormat](../README.md)
+[MarkdownFormat](../README.md)
 

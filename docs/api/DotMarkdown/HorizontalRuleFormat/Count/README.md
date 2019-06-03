@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[HorizontalRuleFormat](../README.md)
+**Containing Type**: [HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

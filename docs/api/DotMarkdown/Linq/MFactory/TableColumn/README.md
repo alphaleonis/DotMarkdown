@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,11 +23,11 @@ public static DotMarkdown.Linq.MTableColumn TableColumn(DotMarkdown.HorizontalAl
 
 ### Parameters
 
-**alignment** &ensp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
+**alignment** &ensp; [HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
+[MTableColumn](../../MTableColumn/README.md)
 
 ## TableColumn\(HorizontalAlignment, Object\) <a name="DotMarkdown_Linq_MFactory_TableColumn_DotMarkdown_HorizontalAlignment_System_Object_"></a>
 
@@ -37,13 +37,13 @@ public static DotMarkdown.Linq.MTableColumn TableColumn(DotMarkdown.HorizontalAl
 
 ### Parameters
 
-**alignment** &ensp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
+**alignment** &ensp; [HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
+[MTableColumn](../../MTableColumn/README.md)
 
 ## TableColumn\(HorizontalAlignment, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TableColumn_DotMarkdown_HorizontalAlignment_System_Object___"></a>
 
@@ -53,13 +53,13 @@ public static DotMarkdown.Linq.MTableColumn TableColumn(DotMarkdown.HorizontalAl
 
 ### Parameters
 
-**alignment** &ensp; DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
+**alignment** &ensp; [HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
+[MTableColumn](../../MTableColumn/README.md)
 
 ## TableColumn\(MTableColumn\) <a name="DotMarkdown_Linq_MFactory_TableColumn_DotMarkdown_Linq_MTableColumn_"></a>
 
@@ -69,9 +69,9 @@ public static DotMarkdown.Linq.MTableColumn TableColumn(DotMarkdown.Linq.MTableC
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
+**other** &ensp; [MTableColumn](../../MTableColumn/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableColumn](../../MTableColumn/README.md)
+[MTableColumn](../../MTableColumn/README.md)
 

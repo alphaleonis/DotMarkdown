@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriter](../README.md)
+**Containing Type**: [MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public virtual DotMarkdown.MarkdownWriterSettings Settings { get; }
 
 ### Property Value
 
-DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,11 @@ public static DotMarkdown.Linq.MIndentedCodeBlock IndentedCodeBlock(DotMarkdown.
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
+**other** &ensp; [MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
+[MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
 
 ## IndentedCodeBlock\(String\) <a name="DotMarkdown_Linq_MFactory_IndentedCodeBlock_System_String_"></a>
 
@@ -39,5 +39,5 @@ public static DotMarkdown.Linq.MIndentedCodeBlock IndentedCodeBlock(string value
 
 ### Returns
 
-DotMarkdown\.Linq\.[MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
+[MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
 

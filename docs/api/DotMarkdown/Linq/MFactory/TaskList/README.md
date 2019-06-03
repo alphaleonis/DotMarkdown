@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MTaskList TaskList()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
+[MTaskList](../../MTaskList/README.md)
 
 ## TaskList\(MTaskList\) <a name="DotMarkdown_Linq_MFactory_TaskList_DotMarkdown_Linq_MTaskList_"></a>
 
@@ -33,11 +33,11 @@ public static DotMarkdown.Linq.MTaskList TaskList(DotMarkdown.Linq.MTaskList oth
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
+**other** &ensp; [MTaskList](../../MTaskList/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
+[MTaskList](../../MTaskList/README.md)
 
 ## TaskList\(Object\) <a name="DotMarkdown_Linq_MFactory_TaskList_System_Object_"></a>
 
@@ -51,7 +51,7 @@ public static DotMarkdown.Linq.MTaskList TaskList(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
+[MTaskList](../../MTaskList/README.md)
 
 ## TaskList\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TaskList_System_Object___"></a>
 
@@ -65,5 +65,5 @@ public static DotMarkdown.Linq.MTaskList TaskList(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskList](../../MTaskList/README.md)
+[MTaskList](../../MTaskList/README.md)
 

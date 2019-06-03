@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MElement](../README.md)
+**Containing Type**: [MElement](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public DotMarkdown.Linq.MElement PreviousElement { get; }
 
 ### Property Value
 
-DotMarkdown\.Linq\.[MElement](../README.md)
+[MElement](../README.md)
 

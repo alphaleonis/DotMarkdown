@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MItalic](../README.md)
+**Containing Type**: [MItalic](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public override DotMarkdown.MarkdownKind Kind { get; }
 
 ### Property Value
 
-DotMarkdown\.[MarkdownKind](../../../MarkdownKind/README.md)
+[MarkdownKind](../../../MarkdownKind/README.md)
 

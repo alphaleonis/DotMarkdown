@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MOrderedItem](../README.md)
+**Containing Type**: [MOrderedItem](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -57,4 +57,4 @@ public MOrderedItem(DotMarkdown.Linq.MOrderedItem other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MOrderedItem](../README.md)
+**other** &ensp; [MOrderedItem](../README.md)

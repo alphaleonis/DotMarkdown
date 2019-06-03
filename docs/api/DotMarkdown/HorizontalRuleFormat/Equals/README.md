@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[HorizontalRuleFormat](../README.md)
+**Containing Type**: [HorizontalRuleFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public bool Equals(DotMarkdown.HorizontalRuleFormat other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.[HorizontalRuleFormat](../README.md)
+**other** &ensp; [HorizontalRuleFormat](../README.md)
 
 ### Returns
 

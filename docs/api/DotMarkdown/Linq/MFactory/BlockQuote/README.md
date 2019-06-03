@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MBlockQuote BlockQuote()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
+[MBlockQuote](../../MBlockQuote/README.md)
 
 ## BlockQuote\(MBlockQuote\) <a name="DotMarkdown_Linq_MFactory_BlockQuote_DotMarkdown_Linq_MBlockQuote_"></a>
 
@@ -33,11 +33,11 @@ public static DotMarkdown.Linq.MBlockQuote BlockQuote(DotMarkdown.Linq.MBlockQuo
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
+**other** &ensp; [MBlockQuote](../../MBlockQuote/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
+[MBlockQuote](../../MBlockQuote/README.md)
 
 ## BlockQuote\(Object\) <a name="DotMarkdown_Linq_MFactory_BlockQuote_System_Object_"></a>
 
@@ -51,7 +51,7 @@ public static DotMarkdown.Linq.MBlockQuote BlockQuote(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
+[MBlockQuote](../../MBlockQuote/README.md)
 
 ## BlockQuote\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_BlockQuote_System_Object___"></a>
 
@@ -65,5 +65,5 @@ public static DotMarkdown.Linq.MBlockQuote BlockQuote(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBlockQuote](../../MBlockQuote/README.md)
+[MBlockQuote](../../MBlockQuote/README.md)
 

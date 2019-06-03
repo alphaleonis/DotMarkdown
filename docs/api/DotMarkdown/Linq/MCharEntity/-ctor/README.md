@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MCharEntity](../README.md)
+**Containing Type**: [MCharEntity](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -31,4 +31,4 @@ public MCharEntity(DotMarkdown.Linq.MCharEntity other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MCharEntity](../README.md)
+**other** &ensp; [MCharEntity](../README.md)

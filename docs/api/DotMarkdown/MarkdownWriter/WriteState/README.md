@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriter](../README.md)
+**Containing Type**: [MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public abstract DotMarkdown.WriteState WriteState { get; }
 
 ### Property Value
 
-DotMarkdown\.[WriteState](../../WriteState/README.md)
+[WriteState](../../WriteState/README.md)
 

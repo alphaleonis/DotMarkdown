@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MInlineCode](../README.md)
+**Containing Type**: [MInlineCode](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

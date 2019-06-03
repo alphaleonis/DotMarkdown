@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MDocument](../README.md)
+**Containing Type**: [MDocument](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MDocument(DotMarkdown.Linq.MDocument other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MDocument](../README.md)
+**other** &ensp; [MDocument](../README.md)
 
 ## MDocument\(Object\) <a name="DotMarkdown_Linq_MDocument__ctor_System_Object_"></a>
 

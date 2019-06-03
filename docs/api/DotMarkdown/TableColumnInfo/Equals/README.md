@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[TableColumnInfo](../README.md)
+**Containing Type**: [TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -35,7 +35,7 @@ public bool Equals(DotMarkdown.TableColumnInfo other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.[TableColumnInfo](../README.md)
+**other** &ensp; [TableColumnInfo](../README.md)
 
 ### Returns
 

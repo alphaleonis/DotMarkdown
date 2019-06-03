@@ -16,7 +16,7 @@ public readonly struct HorizontalRuleFormat : IEquatable<DotMarkdown.HorizontalR
 
 ### Implements
 
-* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[HorizontalRuleFormat](./README.md)>
+* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<[HorizontalRuleFormat](./README.md)>
 
 ## Constructors
 

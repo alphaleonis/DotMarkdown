@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public DotMarkdown.CodeFenceStyle CodeFenceStyle { get; }
 
 ### Property Value
 
-DotMarkdown\.[CodeFenceStyle](../../CodeFenceStyle/README.md)
+[CodeFenceStyle](../../CodeFenceStyle/README.md)
 

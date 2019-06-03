@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public DotMarkdown.MarkdownFormat WithCodeBlockOptions(DotMarkdown.CodeBlockOpti
 
 ### Parameters
 
-**codeBlockOptions** &ensp; DotMarkdown\.[CodeBlockOptions](../../CodeBlockOptions/README.md)
+**codeBlockOptions** &ensp; [CodeBlockOptions](../../CodeBlockOptions/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownFormat](../README.md)
+[MarkdownFormat](../README.md)
 

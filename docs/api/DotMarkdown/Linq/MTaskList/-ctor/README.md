@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MTaskList](../README.md)
+**Containing Type**: [MTaskList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MTaskList(DotMarkdown.Linq.MTaskList other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MTaskList](../README.md)
+**other** &ensp; [MTaskList](../README.md)
 
 ## MTaskList\(Object\) <a name="DotMarkdown_Linq_MTaskList__ctor_System_Object_"></a>
 

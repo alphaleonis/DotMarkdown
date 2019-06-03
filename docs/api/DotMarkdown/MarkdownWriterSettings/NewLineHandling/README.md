@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md)
+**Containing Type**: [MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public DotMarkdown.NewLineHandling NewLineHandling { get; }
 
 ### Property Value
 
-DotMarkdown\.[NewLineHandling](../../NewLineHandling/README.md)
+[NewLineHandling](../../NewLineHandling/README.md)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MIndentedCodeBlock](../README.md)
+**Containing Type**: [MIndentedCodeBlock](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

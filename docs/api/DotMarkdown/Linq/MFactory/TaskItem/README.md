@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,7 +27,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
+[MTaskItem](../../MTaskItem/README.md)
 
 ## TaskItem\(Boolean, Object\) <a name="DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_System_Object_"></a>
 
@@ -43,7 +43,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, object conte
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
+[MTaskItem](../../MTaskItem/README.md)
 
 ## TaskItem\(Boolean, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_System_Object___"></a>
 
@@ -59,7 +59,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, params objec
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
+[MTaskItem](../../MTaskItem/README.md)
 
 ## TaskItem\(MTaskItem\) <a name="DotMarkdown_Linq_MFactory_TaskItem_DotMarkdown_Linq_MTaskItem_"></a>
 
@@ -69,9 +69,9 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(DotMarkdown.Linq.MTaskItem oth
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
+**other** &ensp; [MTaskItem](../../MTaskItem/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTaskItem](../../MTaskItem/README.md)
+[MTaskItem](../../MTaskItem/README.md)
 

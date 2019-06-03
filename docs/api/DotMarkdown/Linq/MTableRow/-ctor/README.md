@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MTableRow](../README.md)
+**Containing Type**: [MTableRow](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MTableRow(DotMarkdown.Linq.MTableRow other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MTableRow](../README.md)
+**other** &ensp; [MTableRow](../README.md)
 
 ## MTableRow\(Object\) <a name="DotMarkdown_Linq_MTableRow__ctor_System_Object_"></a>
 

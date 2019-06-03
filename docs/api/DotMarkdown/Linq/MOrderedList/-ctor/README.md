@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MOrderedList](../README.md)
+**Containing Type**: [MOrderedList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MOrderedList(DotMarkdown.Linq.MOrderedList other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MOrderedList](../README.md)
+**other** &ensp; [MOrderedList](../README.md)
 
 ## MOrderedList\(Object\) <a name="DotMarkdown_Linq_MOrderedList__ctor_System_Object_"></a>
 

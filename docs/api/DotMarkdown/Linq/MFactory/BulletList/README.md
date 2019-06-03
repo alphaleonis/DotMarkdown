@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MBulletList BulletList()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBulletList](../../MBulletList/README.md)
+[MBulletList](../../MBulletList/README.md)
 
 ## BulletList\(MBulletList\) <a name="DotMarkdown_Linq_MFactory_BulletList_DotMarkdown_Linq_MBulletList_"></a>
 
@@ -33,11 +33,11 @@ public static DotMarkdown.Linq.MBulletList BulletList(DotMarkdown.Linq.MBulletLi
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MBulletList](../../MBulletList/README.md)
+**other** &ensp; [MBulletList](../../MBulletList/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBulletList](../../MBulletList/README.md)
+[MBulletList](../../MBulletList/README.md)
 
 ## BulletList\(Object\) <a name="DotMarkdown_Linq_MFactory_BulletList_System_Object_"></a>
 
@@ -51,7 +51,7 @@ public static DotMarkdown.Linq.MBulletList BulletList(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBulletList](../../MBulletList/README.md)
+[MBulletList](../../MBulletList/README.md)
 
 ## BulletList\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_BulletList_System_Object___"></a>
 
@@ -65,5 +65,5 @@ public static DotMarkdown.Linq.MBulletList BulletList(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MBulletList](../../MBulletList/README.md)
+[MBulletList](../../MBulletList/README.md)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MAutolink](../README.md)
+**Containing Type**: [MAutolink](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

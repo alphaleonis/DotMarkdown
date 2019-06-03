@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -20,5 +20,5 @@ public static DotMarkdown.Linq.MElement LinkOrAutolink(string text, string url, 
 
 ### Returns
 
-DotMarkdown\.Linq\.[MElement](../../MElement/README.md)
+[MElement](../../MElement/README.md)
 

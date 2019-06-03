@@ -16,9 +16,9 @@ public abstract class MList : DotMarkdown.Linq.MContainer
 
 ### Derived
 
-* DotMarkdown\.Linq\.[MBulletList](../MBulletList/README.md)
-* DotMarkdown\.Linq\.[MOrderedList](../MOrderedList/README.md)
-* DotMarkdown\.Linq\.[MTaskList](../MTaskList/README.md)
+* [MBulletList](../MBulletList/README.md)
+* [MOrderedList](../MOrderedList/README.md)
+* [MTaskList](../MTaskList/README.md)
 
 ## Constructors
 

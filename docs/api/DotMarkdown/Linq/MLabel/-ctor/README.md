@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MLabel](../README.md)
+**Containing Type**: [MLabel](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MLabel(DotMarkdown.Linq.MLabel other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MLabel](../README.md)
+**other** &ensp; [MLabel](../README.md)
 
 ## MLabel\(String, String, String\) <a name="DotMarkdown_Linq_MLabel__ctor_System_String_System_String_System_String_"></a>
 

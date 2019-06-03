@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MItalic](../README.md)
+**Containing Type**: [MItalic](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MItalic(DotMarkdown.Linq.MItalic other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MItalic](../README.md)
+**other** &ensp; [MItalic](../README.md)
 
 ## MItalic\(Object\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object_"></a>
 

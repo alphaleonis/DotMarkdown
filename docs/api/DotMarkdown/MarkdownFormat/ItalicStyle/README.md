@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public DotMarkdown.EmphasisStyle ItalicStyle { get; }
 
 ### Property Value
 
-DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
+[EmphasisStyle](../../EmphasisStyle/README.md)
 

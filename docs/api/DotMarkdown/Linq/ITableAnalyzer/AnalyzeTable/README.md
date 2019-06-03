@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[ITableAnalyzer](../README.md)
+**Containing Type**: [ITableAnalyzer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ System.Collections.Generic.IReadOnlyList<DotMarkdown.TableColumnInfo> AnalyzeTab
 
 ### Parameters
 
-**rows** &ensp; System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<DotMarkdown\.Linq\.[MElement](../../MElement/README.md)>
+**rows** &ensp; [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[MElement](../../MElement/README.md)>
 
 ### Returns
 
-System\.Collections\.Generic\.[IReadOnlyList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ireadonlylist-1)\<DotMarkdown\.[TableColumnInfo](../../../TableColumnInfo/README.md)>
+[IReadOnlyList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ireadonlylist-1)\<[TableColumnInfo](../../../TableColumnInfo/README.md)>
 

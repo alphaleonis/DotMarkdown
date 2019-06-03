@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBlockQuote](../README.md)
+**Containing Type**: [MBlockQuote](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MBlockQuote(DotMarkdown.Linq.MBlockQuote other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MBlockQuote](../README.md)
+**other** &ensp; [MBlockQuote](../README.md)
 
 ## MBlockQuote\(Object\) <a name="DotMarkdown_Linq_MBlockQuote__ctor_System_Object_"></a>
 

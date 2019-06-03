@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public DotMarkdown.CharEntityFormat CharEntityFormat { get; }
 
 ### Property Value
 
-DotMarkdown\.[CharEntityFormat](../../CharEntityFormat/README.md)
+[CharEntityFormat](../../CharEntityFormat/README.md)
 

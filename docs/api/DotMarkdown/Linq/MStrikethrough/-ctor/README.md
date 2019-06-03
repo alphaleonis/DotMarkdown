@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MStrikethrough](../README.md)
+**Containing Type**: [MStrikethrough](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MStrikethrough(DotMarkdown.Linq.MStrikethrough other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MStrikethrough](../README.md)
+**other** &ensp; [MStrikethrough](../README.md)
 
 ## MStrikethrough\(Object\) <a name="DotMarkdown_Linq_MStrikethrough__ctor_System_Object_"></a>
 

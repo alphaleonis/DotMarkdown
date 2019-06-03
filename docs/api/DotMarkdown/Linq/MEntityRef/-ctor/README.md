@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MEntityRef](../README.md)
+**Containing Type**: [MEntityRef](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MEntityRef(DotMarkdown.Linq.MEntityRef other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MEntityRef](../README.md)
+**other** &ensp; [MEntityRef](../README.md)
 
 ## MEntityRef\(String\) <a name="DotMarkdown_Linq_MEntityRef__ctor_System_String_"></a>
 

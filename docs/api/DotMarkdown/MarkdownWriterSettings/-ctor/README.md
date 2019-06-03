@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md)
+**Containing Type**: [MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,10 +12,10 @@ public MarkdownWriterSettings(DotMarkdown.MarkdownFormat format = null, string n
 
 ### Parameters
 
-**format** &ensp; DotMarkdown\.[MarkdownFormat](../../MarkdownFormat/README.md)
+**format** &ensp; [MarkdownFormat](../../MarkdownFormat/README.md)
 
 **newLineChars** &ensp; [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-**newLineHandling** &ensp; DotMarkdown\.[NewLineHandling](../../NewLineHandling/README.md)
+**newLineHandling** &ensp; [NewLineHandling](../../NewLineHandling/README.md)
 
 **closeOutput** &ensp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)

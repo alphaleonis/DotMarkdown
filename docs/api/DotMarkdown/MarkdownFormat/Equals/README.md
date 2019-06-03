@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public bool Equals(DotMarkdown.MarkdownFormat other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.[MarkdownFormat](../README.md)
+**other** &ensp; [MarkdownFormat](../README.md)
 
 ### Returns
 

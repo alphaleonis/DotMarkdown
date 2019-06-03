@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MImage](../README.md)
+**Containing Type**: [MImage](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MImage(DotMarkdown.Linq.MImage other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MImage](../README.md)
+**other** &ensp; [MImage](../README.md)
 
 ## MImage\(String, String, String\) <a name="DotMarkdown_Linq_MImage__ctor_System_String_System_String_System_String_"></a>
 

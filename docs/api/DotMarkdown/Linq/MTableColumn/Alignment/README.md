@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MTableColumn](../README.md)
+**Containing Type**: [MTableColumn](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public DotMarkdown.HorizontalAlignment Alignment { get; set; }
 
 ### Property Value
 
-DotMarkdown\.[HorizontalAlignment](../../../HorizontalAlignment/README.md)
+[HorizontalAlignment](../../../HorizontalAlignment/README.md)
 

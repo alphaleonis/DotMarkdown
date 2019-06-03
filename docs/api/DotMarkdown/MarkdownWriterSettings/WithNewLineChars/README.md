@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriterSettings](../README.md)
+**Containing Type**: [MarkdownWriterSettings](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -16,5 +16,5 @@ public DotMarkdown.MarkdownWriterSettings WithNewLineChars(string newLineChars)
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriterSettings](../README.md)
+[MarkdownWriterSettings](../README.md)
 

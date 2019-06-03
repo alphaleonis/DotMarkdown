@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public static DotMarkdown.Linq.MEntityRef DoubleQuote()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MEntityRef](../../MEntityRef/README.md)
+[MEntityRef](../../MEntityRef/README.md)
 

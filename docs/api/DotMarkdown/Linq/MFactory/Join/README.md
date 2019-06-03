@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,11 +23,11 @@ public static DotMarkdown.Linq.MInline Join(object separator, System.Collections
 
 **separator** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-**values** &ensp; System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)>
+**values** &ensp; [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)>
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
+[MInline](../../MInline/README.md)
 
 ## Join\(Object, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___"></a>
 
@@ -43,5 +43,5 @@ public static DotMarkdown.Linq.MInline Join(object separator, params object[] va
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInline](../../MInline/README.md)
+[MInline](../../MInline/README.md)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public DotMarkdown.MarkdownFormat WithTableOptions(DotMarkdown.TableOptions tabl
 
 ### Parameters
 
-**tableOptions** &ensp; DotMarkdown\.[TableOptions](../../TableOptions/README.md)
+**tableOptions** &ensp; [TableOptions](../../TableOptions/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownFormat](../README.md)
+[MarkdownFormat](../README.md)
 

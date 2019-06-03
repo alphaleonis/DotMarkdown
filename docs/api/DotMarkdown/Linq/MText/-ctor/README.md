@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MText](../README.md)
+**Containing Type**: [MText](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MText(DotMarkdown.Linq.MText other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MText](../README.md)
+**other** &ensp; [MText](../README.md)
 
 ## MText\(String\) <a name="DotMarkdown_Linq_MText__ctor_System_String_"></a>
 

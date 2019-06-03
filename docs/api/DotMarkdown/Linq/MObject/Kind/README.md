@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MObject](../README.md)
+**Containing Type**: [MObject](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,5 +12,5 @@ public abstract DotMarkdown.MarkdownKind Kind { get; }
 
 ### Property Value
 
-DotMarkdown\.[MarkdownKind](../../../MarkdownKind/README.md)
+[MarkdownKind](../../../MarkdownKind/README.md)
 

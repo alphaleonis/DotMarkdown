@@ -16,11 +16,11 @@ public abstract class MContainer : DotMarkdown.Linq.MElement
 
 ### Derived
 
-* DotMarkdown\.Linq\.[MBlockContainer](../MBlockContainer/README.md)
-* DotMarkdown\.Linq\.[MHeading](../MHeading/README.md)
-* DotMarkdown\.Linq\.[MInline](../MInline/README.md)
-* DotMarkdown\.Linq\.[MLink](../MLink/README.md)
-* DotMarkdown\.Linq\.[MList](../MList/README.md)
+* [MBlockContainer](../MBlockContainer/README.md)
+* [MHeading](../MHeading/README.md)
+* [MInline](../MInline/README.md)
+* [MLink](../MLink/README.md)
+* [MList](../MList/README.md)
 * [...](#derived-all "See all derived types")
 
 ## Constructors
@@ -75,13 +75,13 @@ public abstract class MContainer : DotMarkdown.Linq.MElement
 
 ## Derived \(All\)
 
-* DotMarkdown\.Linq\.[MBlockContainer](../MBlockContainer/README.md)
-* DotMarkdown\.Linq\.[MHeading](../MHeading/README.md)
-* DotMarkdown\.Linq\.[MInline](../MInline/README.md)
-* DotMarkdown\.Linq\.[MLink](../MLink/README.md)
-* DotMarkdown\.Linq\.[MList](../MList/README.md)
+* [MBlockContainer](../MBlockContainer/README.md)
+* [MHeading](../MHeading/README.md)
+* [MInline](../MInline/README.md)
+* [MLink](../MLink/README.md)
+* [MList](../MList/README.md)
 * &mdash;&mdash;&mdash;&mdash;&mdash;
-* DotMarkdown\.Linq\.[MTable](../MTable/README.md)
-* DotMarkdown\.Linq\.[MTableColumn](../MTableColumn/README.md)
-* DotMarkdown\.Linq\.[MTableRow](../MTableRow/README.md)
+* [MTable](../MTable/README.md)
+* [MTableColumn](../MTableColumn/README.md)
+* [MTableRow](../MTableRow/README.md)
 

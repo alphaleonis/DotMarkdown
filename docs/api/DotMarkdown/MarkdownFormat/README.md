@@ -16,7 +16,7 @@ public class MarkdownFormat : IEquatable<DotMarkdown.MarkdownFormat>
 
 ### Implements
 
-* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[MarkdownFormat](./README.md)>
+* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<[MarkdownFormat](./README.md)>
 
 ## Constructors
 

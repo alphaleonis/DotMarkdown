@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,11 @@ public static DotMarkdown.Linq.MImage Image(DotMarkdown.Linq.MImage other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MImage](../../MImage/README.md)
+**other** &ensp; [MImage](../../MImage/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MImage](../../MImage/README.md)
+[MImage](../../MImage/README.md)
 
 ## Image\(String, String, String\) <a name="DotMarkdown_Linq_MFactory_Image_System_String_System_String_System_String_"></a>
 
@@ -43,5 +43,5 @@ public static DotMarkdown.Linq.MImage Image(string text, string url, string titl
 
 ### Returns
 
-DotMarkdown\.Linq\.[MImage](../../MImage/README.md)
+[MImage](../../MImage/README.md)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -23,7 +23,7 @@ public static DotMarkdown.Linq.MTableRow TableRow()
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+[MTableRow](../../MTableRow/README.md)
 
 ## TableRow\(MTableRow\) <a name="DotMarkdown_Linq_MFactory_TableRow_DotMarkdown_Linq_MTableRow_"></a>
 
@@ -33,11 +33,11 @@ public static DotMarkdown.Linq.MTableRow TableRow(DotMarkdown.Linq.MTableRow oth
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+**other** &ensp; [MTableRow](../../MTableRow/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+[MTableRow](../../MTableRow/README.md)
 
 ## TableRow\(Object\) <a name="DotMarkdown_Linq_MFactory_TableRow_System_Object_"></a>
 
@@ -51,7 +51,7 @@ public static DotMarkdown.Linq.MTableRow TableRow(object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+[MTableRow](../../MTableRow/README.md)
 
 ## TableRow\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TableRow_System_Object___"></a>
 
@@ -65,5 +65,5 @@ public static DotMarkdown.Linq.MTableRow TableRow(params object[] content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MTableRow](../../MTableRow/README.md)
+[MTableRow](../../MTableRow/README.md)
 

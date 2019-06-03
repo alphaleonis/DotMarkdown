@@ -16,7 +16,7 @@ public abstract class MObject
 
 ### Derived
 
-* DotMarkdown\.Linq\.[MElement](../MElement/README.md)
+* [MElement](../MElement/README.md)
 
 ## Constructors
 

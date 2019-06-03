@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MCharEntity](../README.md)
+**Containing Type**: [MCharEntity](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,4 +12,4 @@ public override void WriteTo(DotMarkdown.MarkdownWriter writer)
 
 ### Parameters
 
-**writer** &ensp; DotMarkdown\.[MarkdownWriter](../../../MarkdownWriter/README.md)
+**writer** &ensp; [MarkdownWriter](../../../MarkdownWriter/README.md)

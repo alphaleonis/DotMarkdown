@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFencedCodeBlock](../README.md)
+**Containing Type**: [MFencedCodeBlock](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MFencedCodeBlock(DotMarkdown.Linq.MFencedCodeBlock other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MFencedCodeBlock](../README.md)
+**other** &ensp; [MFencedCodeBlock](../README.md)
 
 ## MFencedCodeBlock\(String, String\) <a name="DotMarkdown_Linq_MFencedCodeBlock__ctor_System_String_System_String_"></a>
 

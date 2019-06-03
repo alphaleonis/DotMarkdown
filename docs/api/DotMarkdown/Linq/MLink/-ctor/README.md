@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MLink](../README.md)
+**Containing Type**: [MLink](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MLink(DotMarkdown.Linq.MLink other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MLink](../README.md)
+**other** &ensp; [MLink](../README.md)
 
 ## MLink\(Object, String, String\) <a name="DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_"></a>
 

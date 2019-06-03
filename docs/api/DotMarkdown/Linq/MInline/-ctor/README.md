@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MInline](../README.md)
+**Containing Type**: [MInline](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ public MInline(DotMarkdown.Linq.MContainer other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MContainer](../../MContainer/README.md)
+**other** &ensp; [MContainer](../../MContainer/README.md)
 
 ## MInline\(Object\) <a name="DotMarkdown_Linq_MInline__ctor_System_Object_"></a>
 

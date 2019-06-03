@@ -16,9 +16,9 @@ public class MInline : DotMarkdown.Linq.MContainer
 
 ### Derived
 
-* DotMarkdown\.Linq\.[MBold](../MBold/README.md)
-* DotMarkdown\.Linq\.[MItalic](../MItalic/README.md)
-* DotMarkdown\.Linq\.[MStrikethrough](../MStrikethrough/README.md)
+* [MBold](../MBold/README.md)
+* [MItalic](../MItalic/README.md)
+* [MStrikethrough](../MStrikethrough/README.md)
 
 ## Constructors
 

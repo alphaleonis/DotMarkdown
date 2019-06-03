@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MElement](../README.md)
+**Containing Type**: [MElement](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 

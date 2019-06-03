@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownWriter](../README.md)
+**Containing Type**: [MarkdownWriter](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -24,15 +24,15 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, System.
 
 ### Parameters
 
-**stream** &ensp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
+**stream** &ensp; [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
 
-**encoding** &ensp; System\.Text\.[Encoding](https://docs.microsoft.com/en-us/dotnet/api/system.text.encoding)
+**encoding** &ensp; [Encoding](https://docs.microsoft.com/en-us/dotnet/api/system.text.encoding)
 
-**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; [MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md)
+[MarkdownWriter](../README.md)
 
 ## Create\(Stream, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_IO_Stream_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -42,13 +42,13 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, DotMark
 
 ### Parameters
 
-**stream** &ensp; System\.IO\.[Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
+**stream** &ensp; [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream)
 
-**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; [MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md)
+[MarkdownWriter](../README.md)
 
 ## Create\(StringBuilder, IFormatProvider, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_System_IFormatProvider_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -58,15 +58,15 @@ public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output
 
 ### Parameters
 
-**output** &ensp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
+**output** &ensp; [StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
 
 **formatProvider** &ensp; [IFormatProvider](https://docs.microsoft.com/en-us/dotnet/api/system.iformatprovider)
 
-**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; [MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md)
+[MarkdownWriter](../README.md)
 
 ## Create\(StringBuilder, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -76,13 +76,13 @@ public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output
 
 ### Parameters
 
-**output** &ensp; System\.Text\.[StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
+**output** &ensp; [StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder)
 
-**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; [MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md)
+[MarkdownWriter](../README.md)
 
 ## Create\(TextWriter, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_IO_TextWriter_DotMarkdown_MarkdownWriterSettings_"></a>
 
@@ -92,11 +92,11 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.TextWriter output, Dot
 
 ### Parameters
 
-**output** &ensp; System\.IO\.[TextWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter)
+**output** &ensp; [TextWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter)
 
-**settings** &ensp; DotMarkdown\.[MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
+**settings** &ensp; [MarkdownWriterSettings](../../MarkdownWriterSettings/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownWriter](../README.md)
+[MarkdownWriter](../README.md)
 

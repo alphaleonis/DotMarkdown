@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MComment](../README.md)
+**Containing Type**: [MComment](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MComment(DotMarkdown.Linq.MComment other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MComment](../README.md)
+**other** &ensp; [MComment](../README.md)
 
 ## MComment\(String\) <a name="DotMarkdown_Linq_MComment__ctor_System_String_"></a>
 

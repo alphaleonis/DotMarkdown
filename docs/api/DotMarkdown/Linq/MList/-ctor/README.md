@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MList](../README.md)
+**Containing Type**: [MList](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ protected MList(DotMarkdown.Linq.MList other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MList](../README.md)
+**other** &ensp; [MList](../README.md)
 
 ## MList\(Object\) <a name="DotMarkdown_Linq_MList__ctor_System_Object_"></a>
 

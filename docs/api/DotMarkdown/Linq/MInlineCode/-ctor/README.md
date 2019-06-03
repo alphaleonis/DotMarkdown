@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MInlineCode](../README.md)
+**Containing Type**: [MInlineCode](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MInlineCode(DotMarkdown.Linq.MInlineCode other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MInlineCode](../README.md)
+**other** &ensp; [MInlineCode](../README.md)
 
 ## MInlineCode\(String\) <a name="DotMarkdown_Linq_MInlineCode__ctor_System_String_"></a>
 

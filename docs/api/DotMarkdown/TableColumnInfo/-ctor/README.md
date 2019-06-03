@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[TableColumnInfo](../README.md)
+**Containing Type**: [TableColumnInfo](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,7 +12,7 @@ public TableColumnInfo(DotMarkdown.HorizontalAlignment alignment, int width, boo
 
 ### Parameters
 
-**alignment** &ensp; DotMarkdown\.[HorizontalAlignment](../../HorizontalAlignment/README.md)
+**alignment** &ensp; [HorizontalAlignment](../../HorizontalAlignment/README.md)
 
 **width** &ensp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 

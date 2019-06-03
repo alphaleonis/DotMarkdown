@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MIndentedCodeBlock](../README.md)
+**Containing Type**: [MIndentedCodeBlock](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,7 +21,7 @@ public MIndentedCodeBlock(DotMarkdown.Linq.MIndentedCodeBlock other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MIndentedCodeBlock](../README.md)
+**other** &ensp; [MIndentedCodeBlock](../README.md)
 
 ## MIndentedCodeBlock\(String\) <a name="DotMarkdown_Linq_MIndentedCodeBlock__ctor_System_String_"></a>
 

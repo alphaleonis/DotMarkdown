@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MBlockContainer](../README.md)
+**Containing Type**: [MBlockContainer](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -29,7 +29,7 @@ protected MBlockContainer(DotMarkdown.Linq.MBlockContainer other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MBlockContainer](../README.md)
+**other** &ensp; [MBlockContainer](../README.md)
 
 ## MBlockContainer\(Object\) <a name="DotMarkdown_Linq_MBlockContainer__ctor_System_Object_"></a>
 

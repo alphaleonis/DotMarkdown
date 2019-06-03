@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -27,7 +27,7 @@ public static DotMarkdown.Linq.MHeading Heading(int level)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
+[MHeading](../../MHeading/README.md)
 
 ## Heading\(Int32, Object\) <a name="DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object_"></a>
 
@@ -43,7 +43,7 @@ public static DotMarkdown.Linq.MHeading Heading(int level, object content)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
+[MHeading](../../MHeading/README.md)
 
 ## Heading\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object___"></a>
 
@@ -59,7 +59,7 @@ public static DotMarkdown.Linq.MHeading Heading(int level, params object[] conte
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
+[MHeading](../../MHeading/README.md)
 
 ## Heading\(MHeading\) <a name="DotMarkdown_Linq_MFactory_Heading_DotMarkdown_Linq_MHeading_"></a>
 
@@ -69,9 +69,9 @@ public static DotMarkdown.Linq.MHeading Heading(DotMarkdown.Linq.MHeading other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
+**other** &ensp; [MHeading](../../MHeading/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MHeading](../../MHeading/README.md)
+[MHeading](../../MHeading/README.md)
 

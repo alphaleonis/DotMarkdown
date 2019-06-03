@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MHorizontalRule](../README.md)
+**Containing Type**: [MHorizontalRule](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -22,7 +22,7 @@ public MHorizontalRule(in DotMarkdown.HorizontalRuleFormat format)
 
 ### Parameters
 
-**format** &ensp; DotMarkdown\.[HorizontalRuleFormat](../../../HorizontalRuleFormat/README.md)
+**format** &ensp; [HorizontalRuleFormat](../../../HorizontalRuleFormat/README.md)
 
 ## MHorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_Linq_MHorizontalRule__ctor_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
@@ -32,7 +32,7 @@ public MHorizontalRule(DotMarkdown.HorizontalRuleStyle style, int count, string 
 
 ### Parameters
 
-**style** &ensp; DotMarkdown\.[HorizontalRuleStyle](../../../HorizontalRuleStyle/README.md)
+**style** &ensp; [HorizontalRuleStyle](../../../HorizontalRuleStyle/README.md)
 
 **count** &ensp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
@@ -46,4 +46,4 @@ public MHorizontalRule(DotMarkdown.Linq.MHorizontalRule other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MHorizontalRule](../README.md)
+**other** &ensp; [MHorizontalRule](../README.md)

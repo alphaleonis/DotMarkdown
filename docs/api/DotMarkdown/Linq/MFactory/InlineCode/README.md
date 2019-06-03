@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,11 @@ public static DotMarkdown.Linq.MInlineCode InlineCode(DotMarkdown.Linq.MInlineCo
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md)
+**other** &ensp; [MInlineCode](../../MInlineCode/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md)
+[MInlineCode](../../MInlineCode/README.md)
 
 ## InlineCode\(String\) <a name="DotMarkdown_Linq_MFactory_InlineCode_System_String_"></a>
 
@@ -39,5 +39,5 @@ public static DotMarkdown.Linq.MInlineCode InlineCode(string text)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MInlineCode](../../MInlineCode/README.md)
+[MInlineCode](../../MInlineCode/README.md)
 

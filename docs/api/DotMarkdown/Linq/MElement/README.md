@@ -16,11 +16,11 @@ public abstract class MElement : DotMarkdown.Linq.MObject
 
 ### Derived
 
-* DotMarkdown\.Linq\.[MAutolink](../MAutolink/README.md)
-* DotMarkdown\.Linq\.[MComment](../MComment/README.md)
-* DotMarkdown\.Linq\.[MContainer](../MContainer/README.md)
-* DotMarkdown\.Linq\.[MEntityRef](../MEntityRef/README.md)
-* DotMarkdown\.Linq\.[MFencedCodeBlock](../MFencedCodeBlock/README.md)
+* [MAutolink](../MAutolink/README.md)
+* [MComment](../MComment/README.md)
+* [MContainer](../MContainer/README.md)
+* [MEntityRef](../MEntityRef/README.md)
+* [MFencedCodeBlock](../MFencedCodeBlock/README.md)
 * [...](#derived-all "See all derived types")
 
 ## Constructors
@@ -62,18 +62,18 @@ public abstract class MElement : DotMarkdown.Linq.MObject
 
 ## Derived \(All\)
 
-* DotMarkdown\.Linq\.[MAutolink](../MAutolink/README.md)
-* DotMarkdown\.Linq\.[MComment](../MComment/README.md)
-* DotMarkdown\.Linq\.[MContainer](../MContainer/README.md)
-* DotMarkdown\.Linq\.[MEntityRef](../MEntityRef/README.md)
-* DotMarkdown\.Linq\.[MFencedCodeBlock](../MFencedCodeBlock/README.md)
+* [MAutolink](../MAutolink/README.md)
+* [MComment](../MComment/README.md)
+* [MContainer](../MContainer/README.md)
+* [MEntityRef](../MEntityRef/README.md)
+* [MFencedCodeBlock](../MFencedCodeBlock/README.md)
 * &mdash;&mdash;&mdash;&mdash;&mdash;
-* DotMarkdown\.Linq\.[MHorizontalRule](../MHorizontalRule/README.md)
-* DotMarkdown\.Linq\.[MCharEntity](../MCharEntity/README.md)
-* DotMarkdown\.Linq\.[MImage](../MImage/README.md)
-* DotMarkdown\.Linq\.[MIndentedCodeBlock](../MIndentedCodeBlock/README.md)
-* DotMarkdown\.Linq\.[MInlineCode](../MInlineCode/README.md)
-* DotMarkdown\.Linq\.[MLabel](../MLabel/README.md)
-* DotMarkdown\.Linq\.[MRaw](../MRaw/README.md)
-* DotMarkdown\.Linq\.[MText](../MText/README.md)
+* [MHorizontalRule](../MHorizontalRule/README.md)
+* [MCharEntity](../MCharEntity/README.md)
+* [MImage](../MImage/README.md)
+* [MIndentedCodeBlock](../MIndentedCodeBlock/README.md)
+* [MInlineCode](../MInlineCode/README.md)
+* [MLabel](../MLabel/README.md)
+* [MRaw](../MRaw/README.md)
+* [MText](../MText/README.md)
 

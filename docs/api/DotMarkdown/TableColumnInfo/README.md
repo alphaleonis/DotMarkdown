@@ -16,7 +16,7 @@ public readonly struct TableColumnInfo : IEquatable<DotMarkdown.TableColumnInfo>
 
 ### Implements
 
-* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<DotMarkdown\.[TableColumnInfo](./README.md)>
+* [IEquatable](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)\<[TableColumnInfo](./README.md)>
 
 ## Constructors
 

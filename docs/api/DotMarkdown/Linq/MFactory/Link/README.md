@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md)
 
-**Containing Type**: DotMarkdown\.Linq\.[MFactory](../README.md)
+**Containing Type**: [MFactory](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -21,11 +21,11 @@ public static DotMarkdown.Linq.MLink Link(DotMarkdown.Linq.MLink other)
 
 ### Parameters
 
-**other** &ensp; DotMarkdown\.Linq\.[MLink](../../MLink/README.md)
+**other** &ensp; [MLink](../../MLink/README.md)
 
 ### Returns
 
-DotMarkdown\.Linq\.[MLink](../../MLink/README.md)
+[MLink](../../MLink/README.md)
 
 ## Link\(Object, String, String\) <a name="DotMarkdown_Linq_MFactory_Link_System_Object_System_String_System_String_"></a>
 
@@ -43,5 +43,5 @@ public static DotMarkdown.Linq.MLink Link(object content, string url, string tit
 
 ### Returns
 
-DotMarkdown\.Linq\.[MLink](../../MLink/README.md)
+[MLink](../../MLink/README.md)
 

@@ -2,7 +2,7 @@
 
 [Home](../../../README.md)
 
-**Containing Type**: DotMarkdown\.[MarkdownFormat](../README.md)
+**Containing Type**: [MarkdownFormat](../README.md)
 
 **Assembly**: DotMarkdown\.dll
 
@@ -12,9 +12,9 @@ public DotMarkdown.MarkdownFormat WithItalicStyle(DotMarkdown.EmphasisStyle ital
 
 ### Parameters
 
-**italicStyle** &ensp; DotMarkdown\.[EmphasisStyle](../../EmphasisStyle/README.md)
+**italicStyle** &ensp; [EmphasisStyle](../../EmphasisStyle/README.md)
 
 ### Returns
 
-DotMarkdown\.[MarkdownFormat](../README.md)
+[MarkdownFormat](../README.md)
 
