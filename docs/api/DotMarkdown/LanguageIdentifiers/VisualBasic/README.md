@@ -6,8 +6,7 @@
 
 **Assembly**: DotMarkdown\.dll
 
-## Summary
-
+\
 Identifier for VB\.NET\.
 
 ```csharp

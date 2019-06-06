@@ -7,15 +7,16 @@
 * [DotMarkdown](DotMarkdown/README.md)
 * [DotMarkdown.Linq](DotMarkdown/Linq/README.md)
 
-## Classes
+## Class Hierarchy
 
-* System\.Object
+* \([Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\)
 * &emsp; [MarkdownFormat](DotMarkdown/MarkdownFormat/README.md)
 * &emsp; [MarkdownWriter](DotMarkdown/MarkdownWriter/README.md)
 * &emsp; [MarkdownWriterSettings](DotMarkdown/MarkdownWriterSettings/README.md)
 * &emsp; [MObject](DotMarkdown/Linq/MObject/README.md)
 * &emsp; \| &emsp; [MElement](DotMarkdown/Linq/MElement/README.md)
 * &emsp; \| &emsp; \| &emsp; [MAutolink](DotMarkdown/Linq/MAutolink/README.md)
+* &emsp; \| &emsp; \| &emsp; [MCharEntity](DotMarkdown/Linq/MCharEntity/README.md)
 * &emsp; \| &emsp; \| &emsp; [MComment](DotMarkdown/Linq/MComment/README.md)
 * &emsp; \| &emsp; \| &emsp; [MContainer](DotMarkdown/Linq/MContainer/README.md)
 * &emsp; \| &emsp; \| &emsp; \| &emsp; [MBlockContainer](DotMarkdown/Linq/MBlockContainer/README.md)
@@ -40,7 +41,6 @@
 * &emsp; \| &emsp; \| &emsp; [MEntityRef](DotMarkdown/Linq/MEntityRef/README.md)
 * &emsp; \| &emsp; \| &emsp; [MFencedCodeBlock](DotMarkdown/Linq/MFencedCodeBlock/README.md)
 * &emsp; \| &emsp; \| &emsp; [MHorizontalRule](DotMarkdown/Linq/MHorizontalRule/README.md)
-* &emsp; \| &emsp; \| &emsp; [MCharEntity](DotMarkdown/Linq/MCharEntity/README.md)
 * &emsp; \| &emsp; \| &emsp; [MImage](DotMarkdown/Linq/MImage/README.md)
 * &emsp; \| &emsp; \| &emsp; [MIndentedCodeBlock](DotMarkdown/Linq/MIndentedCodeBlock/README.md)
 * &emsp; \| &emsp; \| &emsp; [MInlineCode](DotMarkdown/Linq/MInlineCode/README.md)
@@ -66,6 +66,7 @@
 ## Enums
 
 * [BulletListStyle](DotMarkdown/BulletListStyle/README.md)
+* [CharEntityFormat](DotMarkdown/CharEntityFormat/README.md)
 * [CodeBlockOptions](DotMarkdown/CodeBlockOptions/README.md)
 * [CodeFenceStyle](DotMarkdown/CodeFenceStyle/README.md)
 * [EmphasisStyle](DotMarkdown/EmphasisStyle/README.md)
@@ -73,7 +74,6 @@
 * [HeadingStyle](DotMarkdown/HeadingStyle/README.md)
 * [HorizontalAlignment](DotMarkdown/HorizontalAlignment/README.md)
 * [HorizontalRuleStyle](DotMarkdown/HorizontalRuleStyle/README.md)
-* [CharEntityFormat](DotMarkdown/CharEntityFormat/README.md)
 * [MarkdownKind](DotMarkdown/MarkdownKind/README.md)
 * [NewLineHandling](DotMarkdown/NewLineHandling/README.md)
 * [OrderedListStyle](DotMarkdown/OrderedListStyle/README.md)

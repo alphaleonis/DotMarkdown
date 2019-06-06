@@ -6,8 +6,7 @@
 
 **Assembly**: DotMarkdown\.dll
 
-## Summary
-
+\
 Identifier for x86 Assembly\.
 
 ```csharp

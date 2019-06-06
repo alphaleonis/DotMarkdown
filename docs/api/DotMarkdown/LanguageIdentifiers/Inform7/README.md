@@ -6,8 +6,7 @@
 
 **Assembly**: DotMarkdown\.dll
 
-## Summary
-
+\
 Identifier for Inform7\.
 
 ```csharp

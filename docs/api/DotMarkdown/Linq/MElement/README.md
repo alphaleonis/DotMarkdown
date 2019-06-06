@@ -17,10 +17,10 @@ public abstract class MElement : DotMarkdown.Linq.MObject
 ### Derived
 
 * [MAutolink](../MAutolink/README.md)
+* [MCharEntity](../MCharEntity/README.md)
 * [MComment](../MComment/README.md)
 * [MContainer](../MContainer/README.md)
 * [MEntityRef](../MEntityRef/README.md)
-* [MFencedCodeBlock](../MFencedCodeBlock/README.md)
 * [...](#derived-all "See all derived types")
 
 ## Constructors
@@ -63,13 +63,13 @@ public abstract class MElement : DotMarkdown.Linq.MObject
 ## Derived \(All\)
 
 * [MAutolink](../MAutolink/README.md)
+* [MCharEntity](../MCharEntity/README.md)
 * [MComment](../MComment/README.md)
 * [MContainer](../MContainer/README.md)
 * [MEntityRef](../MEntityRef/README.md)
-* [MFencedCodeBlock](../MFencedCodeBlock/README.md)
 * &mdash;&mdash;&mdash;&mdash;&mdash;
+* [MFencedCodeBlock](../MFencedCodeBlock/README.md)
 * [MHorizontalRule](../MHorizontalRule/README.md)
-* [MCharEntity](../MCharEntity/README.md)
 * [MImage](../MImage/README.md)
 * [MIndentedCodeBlock](../MIndentedCodeBlock/README.md)
 * [MInlineCode](../MInlineCode/README.md)
