@@ -1,6 +1,6 @@
 # DotMarkdown API Reference
 
-[Namespaces](#namespaces) &#x2022; [Classes](#classes) &#x2022; [Static Classes](#static-classes) &#x2022; [Structs](#structs) &#x2022; [Interfaces](#interfaces) &#x2022; [Enums](#enums)
+[Namespaces](#namespaces) &#x2022; [Class Hierarchy](#class-hierarchy)
 
 ## Namespaces
 
@@ -48,22 +48,22 @@
 * &emsp; \| &emsp; \| &emsp; [MRaw](DotMarkdown/Linq/MRaw/README.md)
 * &emsp; \| &emsp; \| &emsp; [MText](DotMarkdown/Linq/MText/README.md)
 
-## Static Classes
+## DotMarkdown Namespace
+
+### Classes
 
 * [LanguageIdentifiers](DotMarkdown/LanguageIdentifiers/README.md)
 * [MarkdownEscaper](DotMarkdown/MarkdownEscaper/README.md)
-* [MFactory](DotMarkdown/Linq/MFactory/README.md)
+* [MarkdownFormat](DotMarkdown/MarkdownFormat/README.md)
+* [MarkdownWriter](DotMarkdown/MarkdownWriter/README.md)
+* [MarkdownWriterSettings](DotMarkdown/MarkdownWriterSettings/README.md)
 
-## Structs
+### Structs
 
 * [HorizontalRuleFormat](DotMarkdown/HorizontalRuleFormat/README.md)
 * [TableColumnInfo](DotMarkdown/TableColumnInfo/README.md)
 
-## Interfaces
-
-* [ITableAnalyzer](DotMarkdown/Linq/ITableAnalyzer/README.md)
-
-## Enums
+### Enums
 
 * [BulletListStyle](DotMarkdown/BulletListStyle/README.md)
 * [CharEntityFormat](DotMarkdown/CharEntityFormat/README.md)
@@ -79,3 +79,47 @@
 * [OrderedListStyle](DotMarkdown/OrderedListStyle/README.md)
 * [TableOptions](DotMarkdown/TableOptions/README.md)
 * [WriteState](DotMarkdown/WriteState/README.md)
+
+## DotMarkdown\.Linq Namespace
+
+### Classes
+
+* [MAutolink](DotMarkdown/Linq/MAutolink/README.md)
+* [MBlockContainer](DotMarkdown/Linq/MBlockContainer/README.md)
+* [MBlockQuote](DotMarkdown/Linq/MBlockQuote/README.md)
+* [MBold](DotMarkdown/Linq/MBold/README.md)
+* [MBulletItem](DotMarkdown/Linq/MBulletItem/README.md)
+* [MBulletList](DotMarkdown/Linq/MBulletList/README.md)
+* [MCharEntity](DotMarkdown/Linq/MCharEntity/README.md)
+* [MComment](DotMarkdown/Linq/MComment/README.md)
+* [MContainer](DotMarkdown/Linq/MContainer/README.md)
+* [MDocument](DotMarkdown/Linq/MDocument/README.md)
+* [MElement](DotMarkdown/Linq/MElement/README.md)
+* [MEntityRef](DotMarkdown/Linq/MEntityRef/README.md)
+* [MFactory](DotMarkdown/Linq/MFactory/README.md)
+* [MFencedCodeBlock](DotMarkdown/Linq/MFencedCodeBlock/README.md)
+* [MHeading](DotMarkdown/Linq/MHeading/README.md)
+* [MHorizontalRule](DotMarkdown/Linq/MHorizontalRule/README.md)
+* [MImage](DotMarkdown/Linq/MImage/README.md)
+* [MIndentedCodeBlock](DotMarkdown/Linq/MIndentedCodeBlock/README.md)
+* [MInline](DotMarkdown/Linq/MInline/README.md)
+* [MInlineCode](DotMarkdown/Linq/MInlineCode/README.md)
+* [MItalic](DotMarkdown/Linq/MItalic/README.md)
+* [MLabel](DotMarkdown/Linq/MLabel/README.md)
+* [MLink](DotMarkdown/Linq/MLink/README.md)
+* [MList](DotMarkdown/Linq/MList/README.md)
+* [MObject](DotMarkdown/Linq/MObject/README.md)
+* [MOrderedItem](DotMarkdown/Linq/MOrderedItem/README.md)
+* [MOrderedList](DotMarkdown/Linq/MOrderedList/README.md)
+* [MRaw](DotMarkdown/Linq/MRaw/README.md)
+* [MStrikethrough](DotMarkdown/Linq/MStrikethrough/README.md)
+* [MTable](DotMarkdown/Linq/MTable/README.md)
+* [MTableColumn](DotMarkdown/Linq/MTableColumn/README.md)
+* [MTableRow](DotMarkdown/Linq/MTableRow/README.md)
+* [MTaskItem](DotMarkdown/Linq/MTaskItem/README.md)
+* [MTaskList](DotMarkdown/Linq/MTaskList/README.md)
+* [MText](DotMarkdown/Linq/MText/README.md)
+
+### Interfaces
+
+* [ITableAnalyzer](DotMarkdown/Linq/ITableAnalyzer/README.md)
