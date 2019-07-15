@@ -15,13 +15,13 @@
 | [MItalic(Object)](#DotMarkdown_Linq_MItalic__ctor_System_Object_) | |
 | [MItalic(Object\[\])](#DotMarkdown_Linq_MItalic__ctor_System_Object___) | |
 
-## MItalic\(\) <a name="DotMarkdown_Linq_MItalic__ctor"></a>
+## MItalic\(\) <a id="DotMarkdown_Linq_MItalic__ctor"></a>
 
 ```csharp
 public MItalic()
 ```
 
-## MItalic\(MItalic\) <a name="DotMarkdown_Linq_MItalic__ctor_DotMarkdown_Linq_MItalic_"></a>
+## MItalic\(MItalic\) <a id="DotMarkdown_Linq_MItalic__ctor_DotMarkdown_Linq_MItalic_"></a>
 
 ```csharp
 public MItalic(DotMarkdown.Linq.MItalic other)
@@ -31,7 +31,7 @@ public MItalic(DotMarkdown.Linq.MItalic other)
 
 **other** &ensp; [MItalic](../README.md)
 
-## MItalic\(Object\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object_"></a>
+## MItalic\(Object\) <a id="DotMarkdown_Linq_MItalic__ctor_System_Object_"></a>
 
 ```csharp
 public MItalic(object content)
@@ -41,7 +41,7 @@ public MItalic(object content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-## MItalic\(Object\[\]\) <a name="DotMarkdown_Linq_MItalic__ctor_System_Object___"></a>
+## MItalic\(Object\[\]\) <a id="DotMarkdown_Linq_MItalic__ctor_System_Object___"></a>
 
 ```csharp
 public MItalic(params object[] content)

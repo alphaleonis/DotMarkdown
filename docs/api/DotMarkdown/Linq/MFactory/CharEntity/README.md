@@ -13,7 +13,7 @@
 | [CharEntity(Char)](#DotMarkdown_Linq_MFactory_CharEntity_System_Char_) | |
 | [CharEntity(MCharEntity)](#DotMarkdown_Linq_MFactory_CharEntity_DotMarkdown_Linq_MCharEntity_) | |
 
-## CharEntity\(Char\) <a name="DotMarkdown_Linq_MFactory_CharEntity_System_Char_"></a>
+## CharEntity\(Char\) <a id="DotMarkdown_Linq_MFactory_CharEntity_System_Char_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MCharEntity CharEntity(char value)
@@ -27,7 +27,7 @@ public static DotMarkdown.Linq.MCharEntity CharEntity(char value)
 
 [MCharEntity](../../MCharEntity/README.md)
 
-## CharEntity\(MCharEntity\) <a name="DotMarkdown_Linq_MFactory_CharEntity_DotMarkdown_Linq_MCharEntity_"></a>
+## CharEntity\(MCharEntity\) <a id="DotMarkdown_Linq_MFactory_CharEntity_DotMarkdown_Linq_MCharEntity_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MCharEntity CharEntity(DotMarkdown.Linq.MCharEntity other)

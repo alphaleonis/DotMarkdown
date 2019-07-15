@@ -13,7 +13,7 @@
 | [MText(MText)](#DotMarkdown_Linq_MText__ctor_DotMarkdown_Linq_MText_) | |
 | [MText(String)](#DotMarkdown_Linq_MText__ctor_System_String_) | |
 
-## MText\(MText\) <a name="DotMarkdown_Linq_MText__ctor_DotMarkdown_Linq_MText_"></a>
+## MText\(MText\) <a id="DotMarkdown_Linq_MText__ctor_DotMarkdown_Linq_MText_"></a>
 
 ```csharp
 public MText(DotMarkdown.Linq.MText other)
@@ -23,7 +23,7 @@ public MText(DotMarkdown.Linq.MText other)
 
 **other** &ensp; [MText](../README.md)
 
-## MText\(String\) <a name="DotMarkdown_Linq_MText__ctor_System_String_"></a>
+## MText\(String\) <a id="DotMarkdown_Linq_MText__ctor_System_String_"></a>
 
 ```csharp
 public MText(string value)

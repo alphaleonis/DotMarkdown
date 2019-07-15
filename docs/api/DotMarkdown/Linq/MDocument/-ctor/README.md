@@ -15,13 +15,13 @@
 | [MDocument(Object)](#DotMarkdown_Linq_MDocument__ctor_System_Object_) | |
 | [MDocument(Object\[\])](#DotMarkdown_Linq_MDocument__ctor_System_Object___) | |
 
-## MDocument\(\) <a name="DotMarkdown_Linq_MDocument__ctor"></a>
+## MDocument\(\) <a id="DotMarkdown_Linq_MDocument__ctor"></a>
 
 ```csharp
 public MDocument()
 ```
 
-## MDocument\(MDocument\) <a name="DotMarkdown_Linq_MDocument__ctor_DotMarkdown_Linq_MDocument_"></a>
+## MDocument\(MDocument\) <a id="DotMarkdown_Linq_MDocument__ctor_DotMarkdown_Linq_MDocument_"></a>
 
 ```csharp
 public MDocument(DotMarkdown.Linq.MDocument other)
@@ -31,7 +31,7 @@ public MDocument(DotMarkdown.Linq.MDocument other)
 
 **other** &ensp; [MDocument](../README.md)
 
-## MDocument\(Object\) <a name="DotMarkdown_Linq_MDocument__ctor_System_Object_"></a>
+## MDocument\(Object\) <a id="DotMarkdown_Linq_MDocument__ctor_System_Object_"></a>
 
 ```csharp
 public MDocument(object content)
@@ -41,7 +41,7 @@ public MDocument(object content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-## MDocument\(Object\[\]\) <a name="DotMarkdown_Linq_MDocument__ctor_System_Object___"></a>
+## MDocument\(Object\[\]\) <a id="DotMarkdown_Linq_MDocument__ctor_System_Object___"></a>
 
 ```csharp
 public MDocument(params object[] content)

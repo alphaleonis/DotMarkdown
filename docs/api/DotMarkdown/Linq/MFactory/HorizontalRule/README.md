@@ -14,7 +14,7 @@
 | [HorizontalRule(HorizontalRuleFormat)](#DotMarkdown_Linq_MFactory_HorizontalRule_DotMarkdown_HorizontalRuleFormat__) | |
 | [HorizontalRule(HorizontalRuleStyle, Int32, String)](#DotMarkdown_Linq_MFactory_HorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_) | |
 
-## HorizontalRule\(\) <a name="DotMarkdown_Linq_MFactory_HorizontalRule"></a>
+## HorizontalRule\(\) <a id="DotMarkdown_Linq_MFactory_HorizontalRule"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHorizontalRule HorizontalRule()
@@ -24,7 +24,7 @@ public static DotMarkdown.Linq.MHorizontalRule HorizontalRule()
 
 [MHorizontalRule](../../MHorizontalRule/README.md)
 
-## HorizontalRule\(HorizontalRuleFormat\) <a name="DotMarkdown_Linq_MFactory_HorizontalRule_DotMarkdown_HorizontalRuleFormat__"></a>
+## HorizontalRule\(HorizontalRuleFormat\) <a id="DotMarkdown_Linq_MFactory_HorizontalRule_DotMarkdown_HorizontalRuleFormat__"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHorizontalRule HorizontalRule(in DotMarkdown.HorizontalRuleFormat format)
@@ -38,7 +38,7 @@ public static DotMarkdown.Linq.MHorizontalRule HorizontalRule(in DotMarkdown.Hor
 
 [MHorizontalRule](../../MHorizontalRule/README.md)
 
-## HorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_Linq_MFactory_HorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
+## HorizontalRule\(HorizontalRuleStyle, Int32, String\) <a id="DotMarkdown_Linq_MFactory_HorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHorizontalRule HorizontalRule(DotMarkdown.HorizontalRuleStyle style, int count = 3, string separator = " ")

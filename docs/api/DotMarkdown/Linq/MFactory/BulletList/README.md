@@ -15,7 +15,7 @@
 | [BulletList(Object)](#DotMarkdown_Linq_MFactory_BulletList_System_Object_) | |
 | [BulletList(Object\[\])](#DotMarkdown_Linq_MFactory_BulletList_System_Object___) | |
 
-## BulletList\(\) <a name="DotMarkdown_Linq_MFactory_BulletList"></a>
+## BulletList\(\) <a id="DotMarkdown_Linq_MFactory_BulletList"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBulletList BulletList()
@@ -25,7 +25,7 @@ public static DotMarkdown.Linq.MBulletList BulletList()
 
 [MBulletList](../../MBulletList/README.md)
 
-## BulletList\(MBulletList\) <a name="DotMarkdown_Linq_MFactory_BulletList_DotMarkdown_Linq_MBulletList_"></a>
+## BulletList\(MBulletList\) <a id="DotMarkdown_Linq_MFactory_BulletList_DotMarkdown_Linq_MBulletList_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBulletList BulletList(DotMarkdown.Linq.MBulletList other)
@@ -39,7 +39,7 @@ public static DotMarkdown.Linq.MBulletList BulletList(DotMarkdown.Linq.MBulletLi
 
 [MBulletList](../../MBulletList/README.md)
 
-## BulletList\(Object\) <a name="DotMarkdown_Linq_MFactory_BulletList_System_Object_"></a>
+## BulletList\(Object\) <a id="DotMarkdown_Linq_MFactory_BulletList_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBulletList BulletList(object content)
@@ -53,7 +53,7 @@ public static DotMarkdown.Linq.MBulletList BulletList(object content)
 
 [MBulletList](../../MBulletList/README.md)
 
-## BulletList\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_BulletList_System_Object___"></a>
+## BulletList\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_BulletList_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBulletList BulletList(params object[] content)

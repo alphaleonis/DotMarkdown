@@ -16,7 +16,7 @@
 | [Create(StringBuilder, MarkdownWriterSettings)](#DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_DotMarkdown_MarkdownWriterSettings_) | |
 | [Create(TextWriter, MarkdownWriterSettings)](#DotMarkdown_MarkdownWriter_Create_System_IO_TextWriter_DotMarkdown_MarkdownWriterSettings_) | |
 
-## Create\(Stream, Encoding, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_IO_Stream_System_Text_Encoding_DotMarkdown_MarkdownWriterSettings_"></a>
+## Create\(Stream, Encoding, MarkdownWriterSettings\) <a id="DotMarkdown_MarkdownWriter_Create_System_IO_Stream_System_Text_Encoding_DotMarkdown_MarkdownWriterSettings_"></a>
 
 ```csharp
 public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, System.Text.Encoding encoding, DotMarkdown.MarkdownWriterSettings settings = null)
@@ -34,7 +34,7 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, System.
 
 [MarkdownWriter](../README.md)
 
-## Create\(Stream, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_IO_Stream_DotMarkdown_MarkdownWriterSettings_"></a>
+## Create\(Stream, MarkdownWriterSettings\) <a id="DotMarkdown_MarkdownWriter_Create_System_IO_Stream_DotMarkdown_MarkdownWriterSettings_"></a>
 
 ```csharp
 public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, DotMarkdown.MarkdownWriterSettings settings = null)
@@ -50,7 +50,7 @@ public static DotMarkdown.MarkdownWriter Create(System.IO.Stream stream, DotMark
 
 [MarkdownWriter](../README.md)
 
-## Create\(StringBuilder, IFormatProvider, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_System_IFormatProvider_DotMarkdown_MarkdownWriterSettings_"></a>
+## Create\(StringBuilder, IFormatProvider, MarkdownWriterSettings\) <a id="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_System_IFormatProvider_DotMarkdown_MarkdownWriterSettings_"></a>
 
 ```csharp
 public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output, IFormatProvider formatProvider, DotMarkdown.MarkdownWriterSettings settings = null)
@@ -68,7 +68,7 @@ public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output
 
 [MarkdownWriter](../README.md)
 
-## Create\(StringBuilder, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_DotMarkdown_MarkdownWriterSettings_"></a>
+## Create\(StringBuilder, MarkdownWriterSettings\) <a id="DotMarkdown_MarkdownWriter_Create_System_Text_StringBuilder_DotMarkdown_MarkdownWriterSettings_"></a>
 
 ```csharp
 public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output, DotMarkdown.MarkdownWriterSettings settings = null)
@@ -84,7 +84,7 @@ public static DotMarkdown.MarkdownWriter Create(System.Text.StringBuilder output
 
 [MarkdownWriter](../README.md)
 
-## Create\(TextWriter, MarkdownWriterSettings\) <a name="DotMarkdown_MarkdownWriter_Create_System_IO_TextWriter_DotMarkdown_MarkdownWriterSettings_"></a>
+## Create\(TextWriter, MarkdownWriterSettings\) <a id="DotMarkdown_MarkdownWriter_Create_System_IO_TextWriter_DotMarkdown_MarkdownWriterSettings_"></a>
 
 ```csharp
 public static DotMarkdown.MarkdownWriter Create(System.IO.TextWriter output, DotMarkdown.MarkdownWriterSettings settings = null)

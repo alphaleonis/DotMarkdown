@@ -15,7 +15,7 @@
 | [BulletItem(Object)](#DotMarkdown_Linq_MFactory_BulletItem_System_Object_) | |
 | [BulletItem(Object\[\])](#DotMarkdown_Linq_MFactory_BulletItem_System_Object___) | |
 
-## BulletItem\(\) <a name="DotMarkdown_Linq_MFactory_BulletItem"></a>
+## BulletItem\(\) <a id="DotMarkdown_Linq_MFactory_BulletItem"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBulletItem BulletItem()
@@ -25,7 +25,7 @@ public static DotMarkdown.Linq.MBulletItem BulletItem()
 
 [MBulletItem](../../MBulletItem/README.md)
 
-## BulletItem\(MBulletItem\) <a name="DotMarkdown_Linq_MFactory_BulletItem_DotMarkdown_Linq_MBulletItem_"></a>
+## BulletItem\(MBulletItem\) <a id="DotMarkdown_Linq_MFactory_BulletItem_DotMarkdown_Linq_MBulletItem_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBulletItem BulletItem(DotMarkdown.Linq.MBulletItem other)
@@ -39,7 +39,7 @@ public static DotMarkdown.Linq.MBulletItem BulletItem(DotMarkdown.Linq.MBulletIt
 
 [MBulletItem](../../MBulletItem/README.md)
 
-## BulletItem\(Object\) <a name="DotMarkdown_Linq_MFactory_BulletItem_System_Object_"></a>
+## BulletItem\(Object\) <a id="DotMarkdown_Linq_MFactory_BulletItem_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBulletItem BulletItem(object content)
@@ -53,7 +53,7 @@ public static DotMarkdown.Linq.MBulletItem BulletItem(object content)
 
 [MBulletItem](../../MBulletItem/README.md)
 
-## BulletItem\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_BulletItem_System_Object___"></a>
+## BulletItem\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_BulletItem_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBulletItem BulletItem(params object[] content)

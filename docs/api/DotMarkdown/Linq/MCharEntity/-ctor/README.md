@@ -13,7 +13,7 @@
 | [MCharEntity(Char)](#DotMarkdown_Linq_MCharEntity__ctor_System_Char_) | |
 | [MCharEntity(MCharEntity)](#DotMarkdown_Linq_MCharEntity__ctor_DotMarkdown_Linq_MCharEntity_) | |
 
-## MCharEntity\(Char\) <a name="DotMarkdown_Linq_MCharEntity__ctor_System_Char_"></a>
+## MCharEntity\(Char\) <a id="DotMarkdown_Linq_MCharEntity__ctor_System_Char_"></a>
 
 ```csharp
 public MCharEntity(char value)
@@ -23,7 +23,7 @@ public MCharEntity(char value)
 
 **value** &ensp; [Char](https://docs.microsoft.com/en-us/dotnet/api/system.char)
 
-## MCharEntity\(MCharEntity\) <a name="DotMarkdown_Linq_MCharEntity__ctor_DotMarkdown_Linq_MCharEntity_"></a>
+## MCharEntity\(MCharEntity\) <a id="DotMarkdown_Linq_MCharEntity__ctor_DotMarkdown_Linq_MCharEntity_"></a>
 
 ```csharp
 public MCharEntity(DotMarkdown.Linq.MCharEntity other)

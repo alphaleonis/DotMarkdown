@@ -15,7 +15,7 @@
 | [MHeading(Int32, Object\[\])](#DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object___) | |
 | [MHeading(MHeading)](#DotMarkdown_Linq_MHeading__ctor_DotMarkdown_Linq_MHeading_) | |
 
-## MHeading\(Int32\) <a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_"></a>
+## MHeading\(Int32\) <a id="DotMarkdown_Linq_MHeading__ctor_System_Int32_"></a>
 
 ```csharp
 public MHeading(int level)
@@ -25,7 +25,7 @@ public MHeading(int level)
 
 **level** &ensp; [Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
-## MHeading\(Int32, Object\) <a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object_"></a>
+## MHeading\(Int32, Object\) <a id="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object_"></a>
 
 ```csharp
 public MHeading(int level, object content)
@@ -37,7 +37,7 @@ public MHeading(int level, object content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-## MHeading\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object___"></a>
+## MHeading\(Int32, Object\[\]\) <a id="DotMarkdown_Linq_MHeading__ctor_System_Int32_System_Object___"></a>
 
 ```csharp
 public MHeading(int level, params object[] content)
@@ -49,7 +49,7 @@ public MHeading(int level, params object[] content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
-## MHeading\(MHeading\) <a name="DotMarkdown_Linq_MHeading__ctor_DotMarkdown_Linq_MHeading_"></a>
+## MHeading\(MHeading\) <a id="DotMarkdown_Linq_MHeading__ctor_DotMarkdown_Linq_MHeading_"></a>
 
 ```csharp
 public MHeading(DotMarkdown.Linq.MHeading other)

@@ -15,7 +15,7 @@
 | [MTaskItem(Boolean, Object\[\])](#DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object___) | |
 | [MTaskItem(MTaskItem)](#DotMarkdown_Linq_MTaskItem__ctor_DotMarkdown_Linq_MTaskItem_) | |
 
-## MTaskItem\(Boolean\) <a name="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_"></a>
+## MTaskItem\(Boolean\) <a id="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_"></a>
 
 ```csharp
 public MTaskItem(bool isCompleted)
@@ -25,7 +25,7 @@ public MTaskItem(bool isCompleted)
 
 **isCompleted** &ensp; [Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-## MTaskItem\(Boolean, Object\) <a name="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object_"></a>
+## MTaskItem\(Boolean, Object\) <a id="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object_"></a>
 
 ```csharp
 public MTaskItem(bool isCompleted, object content)
@@ -37,7 +37,7 @@ public MTaskItem(bool isCompleted, object content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-## MTaskItem\(Boolean, Object\[\]\) <a name="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object___"></a>
+## MTaskItem\(Boolean, Object\[\]\) <a id="DotMarkdown_Linq_MTaskItem__ctor_System_Boolean_System_Object___"></a>
 
 ```csharp
 public MTaskItem(bool isCompleted, params object[] content)
@@ -49,7 +49,7 @@ public MTaskItem(bool isCompleted, params object[] content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
-## MTaskItem\(MTaskItem\) <a name="DotMarkdown_Linq_MTaskItem__ctor_DotMarkdown_Linq_MTaskItem_"></a>
+## MTaskItem\(MTaskItem\) <a id="DotMarkdown_Linq_MTaskItem__ctor_DotMarkdown_Linq_MTaskItem_"></a>
 
 ```csharp
 public MTaskItem(DotMarkdown.Linq.MTaskItem other)

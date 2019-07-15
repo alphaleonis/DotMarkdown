@@ -15,7 +15,7 @@
 | [Bold(Object)](#DotMarkdown_Linq_MFactory_Bold_System_Object_) | |
 | [Bold(Object\[\])](#DotMarkdown_Linq_MFactory_Bold_System_Object___) | |
 
-## Bold\(\) <a name="DotMarkdown_Linq_MFactory_Bold"></a>
+## Bold\(\) <a id="DotMarkdown_Linq_MFactory_Bold"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBold Bold()
@@ -25,7 +25,7 @@ public static DotMarkdown.Linq.MBold Bold()
 
 [MBold](../../MBold/README.md)
 
-## Bold\(MBold\) <a name="DotMarkdown_Linq_MFactory_Bold_DotMarkdown_Linq_MBold_"></a>
+## Bold\(MBold\) <a id="DotMarkdown_Linq_MFactory_Bold_DotMarkdown_Linq_MBold_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBold Bold(DotMarkdown.Linq.MBold other)
@@ -39,7 +39,7 @@ public static DotMarkdown.Linq.MBold Bold(DotMarkdown.Linq.MBold other)
 
 [MBold](../../MBold/README.md)
 
-## Bold\(Object\) <a name="DotMarkdown_Linq_MFactory_Bold_System_Object_"></a>
+## Bold\(Object\) <a id="DotMarkdown_Linq_MFactory_Bold_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBold Bold(object content)
@@ -53,7 +53,7 @@ public static DotMarkdown.Linq.MBold Bold(object content)
 
 [MBold](../../MBold/README.md)
 
-## Bold\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Bold_System_Object___"></a>
+## Bold\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_Bold_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MBold Bold(params object[] content)

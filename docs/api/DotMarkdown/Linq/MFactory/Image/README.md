@@ -13,7 +13,7 @@
 | [Image(MImage)](#DotMarkdown_Linq_MFactory_Image_DotMarkdown_Linq_MImage_) | |
 | [Image(String, String, String)](#DotMarkdown_Linq_MFactory_Image_System_String_System_String_System_String_) | |
 
-## Image\(MImage\) <a name="DotMarkdown_Linq_MFactory_Image_DotMarkdown_Linq_MImage_"></a>
+## Image\(MImage\) <a id="DotMarkdown_Linq_MFactory_Image_DotMarkdown_Linq_MImage_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MImage Image(DotMarkdown.Linq.MImage other)
@@ -27,7 +27,7 @@ public static DotMarkdown.Linq.MImage Image(DotMarkdown.Linq.MImage other)
 
 [MImage](../../MImage/README.md)
 
-## Image\(String, String, String\) <a name="DotMarkdown_Linq_MFactory_Image_System_String_System_String_System_String_"></a>
+## Image\(String, String, String\) <a id="DotMarkdown_Linq_MFactory_Image_System_String_System_String_System_String_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MImage Image(string text, string url, string title = null)

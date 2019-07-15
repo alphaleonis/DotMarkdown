@@ -15,7 +15,7 @@
 | [OrderedList(Object)](#DotMarkdown_Linq_MFactory_OrderedList_System_Object_) | |
 | [OrderedList(Object\[\])](#DotMarkdown_Linq_MFactory_OrderedList_System_Object___) | |
 
-## OrderedList\(\) <a name="DotMarkdown_Linq_MFactory_OrderedList"></a>
+## OrderedList\(\) <a id="DotMarkdown_Linq_MFactory_OrderedList"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MOrderedList OrderedList()
@@ -25,7 +25,7 @@ public static DotMarkdown.Linq.MOrderedList OrderedList()
 
 [MOrderedList](../../MOrderedList/README.md)
 
-## OrderedList\(MOrderedList\) <a name="DotMarkdown_Linq_MFactory_OrderedList_DotMarkdown_Linq_MOrderedList_"></a>
+## OrderedList\(MOrderedList\) <a id="DotMarkdown_Linq_MFactory_OrderedList_DotMarkdown_Linq_MOrderedList_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MOrderedList OrderedList(DotMarkdown.Linq.MOrderedList other)
@@ -39,7 +39,7 @@ public static DotMarkdown.Linq.MOrderedList OrderedList(DotMarkdown.Linq.MOrdere
 
 [MOrderedList](../../MOrderedList/README.md)
 
-## OrderedList\(Object\) <a name="DotMarkdown_Linq_MFactory_OrderedList_System_Object_"></a>
+## OrderedList\(Object\) <a id="DotMarkdown_Linq_MFactory_OrderedList_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MOrderedList OrderedList(object content)
@@ -53,7 +53,7 @@ public static DotMarkdown.Linq.MOrderedList OrderedList(object content)
 
 [MOrderedList](../../MOrderedList/README.md)
 
-## OrderedList\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_OrderedList_System_Object___"></a>
+## OrderedList\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_OrderedList_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MOrderedList OrderedList(params object[] content)

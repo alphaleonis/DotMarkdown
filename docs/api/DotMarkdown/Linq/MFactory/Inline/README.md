@@ -15,7 +15,7 @@
 | [Inline(Object)](#DotMarkdown_Linq_MFactory_Inline_System_Object_) | |
 | [Inline(Object\[\])](#DotMarkdown_Linq_MFactory_Inline_System_Object___) | |
 
-## Inline\(\) <a name="DotMarkdown_Linq_MFactory_Inline"></a>
+## Inline\(\) <a id="DotMarkdown_Linq_MFactory_Inline"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MInline Inline()
@@ -25,7 +25,7 @@ public static DotMarkdown.Linq.MInline Inline()
 
 [MInline](../../MInline/README.md)
 
-## Inline\(MInline\) <a name="DotMarkdown_Linq_MFactory_Inline_DotMarkdown_Linq_MInline_"></a>
+## Inline\(MInline\) <a id="DotMarkdown_Linq_MFactory_Inline_DotMarkdown_Linq_MInline_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MInline Inline(DotMarkdown.Linq.MInline other)
@@ -39,7 +39,7 @@ public static DotMarkdown.Linq.MInline Inline(DotMarkdown.Linq.MInline other)
 
 [MInline](../../MInline/README.md)
 
-## Inline\(Object\) <a name="DotMarkdown_Linq_MFactory_Inline_System_Object_"></a>
+## Inline\(Object\) <a id="DotMarkdown_Linq_MFactory_Inline_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MInline Inline(object content)
@@ -53,7 +53,7 @@ public static DotMarkdown.Linq.MInline Inline(object content)
 
 [MInline](../../MInline/README.md)
 
-## Inline\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Inline_System_Object___"></a>
+## Inline\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_Inline_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MInline Inline(params object[] content)

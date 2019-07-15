@@ -13,7 +13,7 @@
 | [MComment(MComment)](#DotMarkdown_Linq_MComment__ctor_DotMarkdown_Linq_MComment_) | |
 | [MComment(String)](#DotMarkdown_Linq_MComment__ctor_System_String_) | |
 
-## MComment\(MComment\) <a name="DotMarkdown_Linq_MComment__ctor_DotMarkdown_Linq_MComment_"></a>
+## MComment\(MComment\) <a id="DotMarkdown_Linq_MComment__ctor_DotMarkdown_Linq_MComment_"></a>
 
 ```csharp
 public MComment(DotMarkdown.Linq.MComment other)
@@ -23,7 +23,7 @@ public MComment(DotMarkdown.Linq.MComment other)
 
 **other** &ensp; [MComment](../README.md)
 
-## MComment\(String\) <a name="DotMarkdown_Linq_MComment__ctor_System_String_"></a>
+## MComment\(String\) <a id="DotMarkdown_Linq_MComment__ctor_System_String_"></a>
 
 ```csharp
 public MComment(string value)

@@ -13,7 +13,7 @@
 | [IndentedCodeBlock(MIndentedCodeBlock)](#DotMarkdown_Linq_MFactory_IndentedCodeBlock_DotMarkdown_Linq_MIndentedCodeBlock_) | |
 | [IndentedCodeBlock(String)](#DotMarkdown_Linq_MFactory_IndentedCodeBlock_System_String_) | |
 
-## IndentedCodeBlock\(MIndentedCodeBlock\) <a name="DotMarkdown_Linq_MFactory_IndentedCodeBlock_DotMarkdown_Linq_MIndentedCodeBlock_"></a>
+## IndentedCodeBlock\(MIndentedCodeBlock\) <a id="DotMarkdown_Linq_MFactory_IndentedCodeBlock_DotMarkdown_Linq_MIndentedCodeBlock_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MIndentedCodeBlock IndentedCodeBlock(DotMarkdown.Linq.MIndentedCodeBlock other)
@@ -27,7 +27,7 @@ public static DotMarkdown.Linq.MIndentedCodeBlock IndentedCodeBlock(DotMarkdown.
 
 [MIndentedCodeBlock](../../MIndentedCodeBlock/README.md)
 
-## IndentedCodeBlock\(String\) <a name="DotMarkdown_Linq_MFactory_IndentedCodeBlock_System_String_"></a>
+## IndentedCodeBlock\(String\) <a id="DotMarkdown_Linq_MFactory_IndentedCodeBlock_System_String_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MIndentedCodeBlock IndentedCodeBlock(string value)

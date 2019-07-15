@@ -13,7 +13,7 @@
 | [MImage(MImage)](#DotMarkdown_Linq_MImage__ctor_DotMarkdown_Linq_MImage_) | |
 | [MImage(String, String, String)](#DotMarkdown_Linq_MImage__ctor_System_String_System_String_System_String_) | |
 
-## MImage\(MImage\) <a name="DotMarkdown_Linq_MImage__ctor_DotMarkdown_Linq_MImage_"></a>
+## MImage\(MImage\) <a id="DotMarkdown_Linq_MImage__ctor_DotMarkdown_Linq_MImage_"></a>
 
 ```csharp
 public MImage(DotMarkdown.Linq.MImage other)
@@ -23,7 +23,7 @@ public MImage(DotMarkdown.Linq.MImage other)
 
 **other** &ensp; [MImage](../README.md)
 
-## MImage\(String, String, String\) <a name="DotMarkdown_Linq_MImage__ctor_System_String_System_String_System_String_"></a>
+## MImage\(String, String, String\) <a id="DotMarkdown_Linq_MImage__ctor_System_String_System_String_System_String_"></a>
 
 ```csharp
 public MImage(string text, string url, string title = null)

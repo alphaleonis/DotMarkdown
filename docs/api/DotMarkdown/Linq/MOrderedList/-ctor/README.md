@@ -15,13 +15,13 @@
 | [MOrderedList(Object)](#DotMarkdown_Linq_MOrderedList__ctor_System_Object_) | |
 | [MOrderedList(Object\[\])](#DotMarkdown_Linq_MOrderedList__ctor_System_Object___) | |
 
-## MOrderedList\(\) <a name="DotMarkdown_Linq_MOrderedList__ctor"></a>
+## MOrderedList\(\) <a id="DotMarkdown_Linq_MOrderedList__ctor"></a>
 
 ```csharp
 public MOrderedList()
 ```
 
-## MOrderedList\(MOrderedList\) <a name="DotMarkdown_Linq_MOrderedList__ctor_DotMarkdown_Linq_MOrderedList_"></a>
+## MOrderedList\(MOrderedList\) <a id="DotMarkdown_Linq_MOrderedList__ctor_DotMarkdown_Linq_MOrderedList_"></a>
 
 ```csharp
 public MOrderedList(DotMarkdown.Linq.MOrderedList other)
@@ -31,7 +31,7 @@ public MOrderedList(DotMarkdown.Linq.MOrderedList other)
 
 **other** &ensp; [MOrderedList](../README.md)
 
-## MOrderedList\(Object\) <a name="DotMarkdown_Linq_MOrderedList__ctor_System_Object_"></a>
+## MOrderedList\(Object\) <a id="DotMarkdown_Linq_MOrderedList__ctor_System_Object_"></a>
 
 ```csharp
 public MOrderedList(object content)
@@ -41,7 +41,7 @@ public MOrderedList(object content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-## MOrderedList\(Object\[\]\) <a name="DotMarkdown_Linq_MOrderedList__ctor_System_Object___"></a>
+## MOrderedList\(Object\[\]\) <a id="DotMarkdown_Linq_MOrderedList__ctor_System_Object___"></a>
 
 ```csharp
 public MOrderedList(params object[] content)

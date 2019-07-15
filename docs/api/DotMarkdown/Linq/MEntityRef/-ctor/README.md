@@ -13,7 +13,7 @@
 | [MEntityRef(MEntityRef)](#DotMarkdown_Linq_MEntityRef__ctor_DotMarkdown_Linq_MEntityRef_) | |
 | [MEntityRef(String)](#DotMarkdown_Linq_MEntityRef__ctor_System_String_) | |
 
-## MEntityRef\(MEntityRef\) <a name="DotMarkdown_Linq_MEntityRef__ctor_DotMarkdown_Linq_MEntityRef_"></a>
+## MEntityRef\(MEntityRef\) <a id="DotMarkdown_Linq_MEntityRef__ctor_DotMarkdown_Linq_MEntityRef_"></a>
 
 ```csharp
 public MEntityRef(DotMarkdown.Linq.MEntityRef other)
@@ -23,7 +23,7 @@ public MEntityRef(DotMarkdown.Linq.MEntityRef other)
 
 **other** &ensp; [MEntityRef](../README.md)
 
-## MEntityRef\(String\) <a name="DotMarkdown_Linq_MEntityRef__ctor_System_String_"></a>
+## MEntityRef\(String\) <a id="DotMarkdown_Linq_MEntityRef__ctor_System_String_"></a>
 
 ```csharp
 public MEntityRef(string name)

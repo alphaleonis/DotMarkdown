@@ -13,7 +13,7 @@
 | [Join(Object, IEnumerable\<Object>)](#DotMarkdown_Linq_MFactory_Join_System_Object_System_Collections_Generic_IEnumerable_System_Object__) | |
 | [Join(Object, Object\[\])](#DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___) | |
 
-## Join\(Object, IEnumerable\<Object>\) <a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Collections_Generic_IEnumerable_System_Object__"></a>
+## Join\(Object, IEnumerable\<Object>\) <a id="DotMarkdown_Linq_MFactory_Join_System_Object_System_Collections_Generic_IEnumerable_System_Object__"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MInline Join(object separator, System.Collections.Generic.IEnumerable<object> values)
@@ -29,7 +29,7 @@ public static DotMarkdown.Linq.MInline Join(object separator, System.Collections
 
 [MInline](../../MInline/README.md)
 
-## Join\(Object, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___"></a>
+## Join\(Object, Object\[\]\) <a id="DotMarkdown_Linq_MFactory_Join_System_Object_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MInline Join(object separator, params object[] values)

@@ -14,13 +14,13 @@
 | [WriteHorizontalRule(HorizontalRuleFormat)](#DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleFormat__) | |
 | [WriteHorizontalRule(HorizontalRuleStyle, Int32, String)](#DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_) | |
 
-## WriteHorizontalRule\(\) <a name="DotMarkdown_MarkdownWriter_WriteHorizontalRule"></a>
+## WriteHorizontalRule\(\) <a id="DotMarkdown_MarkdownWriter_WriteHorizontalRule"></a>
 
 ```csharp
 public void WriteHorizontalRule()
 ```
 
-## WriteHorizontalRule\(HorizontalRuleFormat\) <a name="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleFormat__"></a>
+## WriteHorizontalRule\(HorizontalRuleFormat\) <a id="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleFormat__"></a>
 
 ```csharp
 public void WriteHorizontalRule(in DotMarkdown.HorizontalRuleFormat format)
@@ -30,7 +30,7 @@ public void WriteHorizontalRule(in DotMarkdown.HorizontalRuleFormat format)
 
 **format** &ensp; [HorizontalRuleFormat](../../HorizontalRuleFormat/README.md)
 
-## WriteHorizontalRule\(HorizontalRuleStyle, Int32, String\) <a name="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
+## WriteHorizontalRule\(HorizontalRuleStyle, Int32, String\) <a id="DotMarkdown_MarkdownWriter_WriteHorizontalRule_DotMarkdown_HorizontalRuleStyle_System_Int32_System_String_"></a>
 
 ```csharp
 public abstract void WriteHorizontalRule(DotMarkdown.HorizontalRuleStyle style, int count = 3, string separator = " ")

@@ -13,7 +13,7 @@
 | [MRaw(MRaw)](#DotMarkdown_Linq_MRaw__ctor_DotMarkdown_Linq_MRaw_) | |
 | [MRaw(String)](#DotMarkdown_Linq_MRaw__ctor_System_String_) | |
 
-## MRaw\(MRaw\) <a name="DotMarkdown_Linq_MRaw__ctor_DotMarkdown_Linq_MRaw_"></a>
+## MRaw\(MRaw\) <a id="DotMarkdown_Linq_MRaw__ctor_DotMarkdown_Linq_MRaw_"></a>
 
 ```csharp
 public MRaw(DotMarkdown.Linq.MRaw other)
@@ -23,7 +23,7 @@ public MRaw(DotMarkdown.Linq.MRaw other)
 
 **other** &ensp; [MRaw](../README.md)
 
-## MRaw\(String\) <a name="DotMarkdown_Linq_MRaw__ctor_System_String_"></a>
+## MRaw\(String\) <a id="DotMarkdown_Linq_MRaw__ctor_System_String_"></a>
 
 ```csharp
 public MRaw(string value)

@@ -15,7 +15,7 @@
 | [Heading(Int32, Object\[\])](#DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object___) | |
 | [Heading(MHeading)](#DotMarkdown_Linq_MFactory_Heading_DotMarkdown_Linq_MHeading_) | |
 
-## Heading\(Int32\) <a name="DotMarkdown_Linq_MFactory_Heading_System_Int32_"></a>
+## Heading\(Int32\) <a id="DotMarkdown_Linq_MFactory_Heading_System_Int32_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHeading Heading(int level)
@@ -29,7 +29,7 @@ public static DotMarkdown.Linq.MHeading Heading(int level)
 
 [MHeading](../../MHeading/README.md)
 
-## Heading\(Int32, Object\) <a name="DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object_"></a>
+## Heading\(Int32, Object\) <a id="DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHeading Heading(int level, object content)
@@ -45,7 +45,7 @@ public static DotMarkdown.Linq.MHeading Heading(int level, object content)
 
 [MHeading](../../MHeading/README.md)
 
-## Heading\(Int32, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object___"></a>
+## Heading\(Int32, Object\[\]\) <a id="DotMarkdown_Linq_MFactory_Heading_System_Int32_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHeading Heading(int level, params object[] content)
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MHeading Heading(int level, params object[] conte
 
 [MHeading](../../MHeading/README.md)
 
-## Heading\(MHeading\) <a name="DotMarkdown_Linq_MFactory_Heading_DotMarkdown_Linq_MHeading_"></a>
+## Heading\(MHeading\) <a id="DotMarkdown_Linq_MFactory_Heading_DotMarkdown_Linq_MHeading_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHeading Heading(DotMarkdown.Linq.MHeading other)

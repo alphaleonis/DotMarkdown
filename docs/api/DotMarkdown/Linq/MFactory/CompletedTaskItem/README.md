@@ -14,7 +14,7 @@
 | [CompletedTaskItem(Object)](#DotMarkdown_Linq_MFactory_CompletedTaskItem_System_Object_) | |
 | [CompletedTaskItem(Object\[\])](#DotMarkdown_Linq_MFactory_CompletedTaskItem_System_Object___) | |
 
-## CompletedTaskItem\(\) <a name="DotMarkdown_Linq_MFactory_CompletedTaskItem"></a>
+## CompletedTaskItem\(\) <a id="DotMarkdown_Linq_MFactory_CompletedTaskItem"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskItem CompletedTaskItem()
@@ -24,7 +24,7 @@ public static DotMarkdown.Linq.MTaskItem CompletedTaskItem()
 
 [MTaskItem](../../MTaskItem/README.md)
 
-## CompletedTaskItem\(Object\) <a name="DotMarkdown_Linq_MFactory_CompletedTaskItem_System_Object_"></a>
+## CompletedTaskItem\(Object\) <a id="DotMarkdown_Linq_MFactory_CompletedTaskItem_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskItem CompletedTaskItem(object content)
@@ -38,7 +38,7 @@ public static DotMarkdown.Linq.MTaskItem CompletedTaskItem(object content)
 
 [MTaskItem](../../MTaskItem/README.md)
 
-## CompletedTaskItem\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_CompletedTaskItem_System_Object___"></a>
+## CompletedTaskItem\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_CompletedTaskItem_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskItem CompletedTaskItem(params object[] content)

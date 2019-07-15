@@ -15,7 +15,7 @@
 | [TaskItem(Boolean, Object\[\])](#DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_System_Object___) | |
 | [TaskItem(MTaskItem)](#DotMarkdown_Linq_MFactory_TaskItem_DotMarkdown_Linq_MTaskItem_) | |
 
-## TaskItem\(Boolean\) <a name="DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_"></a>
+## TaskItem\(Boolean\) <a id="DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted)
@@ -29,7 +29,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted)
 
 [MTaskItem](../../MTaskItem/README.md)
 
-## TaskItem\(Boolean, Object\) <a name="DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_System_Object_"></a>
+## TaskItem\(Boolean, Object\) <a id="DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, object content)
@@ -45,7 +45,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, object conte
 
 [MTaskItem](../../MTaskItem/README.md)
 
-## TaskItem\(Boolean, Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_System_Object___"></a>
+## TaskItem\(Boolean, Object\[\]\) <a id="DotMarkdown_Linq_MFactory_TaskItem_System_Boolean_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, params object[] content)
@@ -61,7 +61,7 @@ public static DotMarkdown.Linq.MTaskItem TaskItem(bool isCompleted, params objec
 
 [MTaskItem](../../MTaskItem/README.md)
 
-## TaskItem\(MTaskItem\) <a name="DotMarkdown_Linq_MFactory_TaskItem_DotMarkdown_Linq_MTaskItem_"></a>
+## TaskItem\(MTaskItem\) <a id="DotMarkdown_Linq_MFactory_TaskItem_DotMarkdown_Linq_MTaskItem_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskItem TaskItem(DotMarkdown.Linq.MTaskItem other)

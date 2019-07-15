@@ -14,7 +14,7 @@
 | [Heading2(Object)](#DotMarkdown_Linq_MFactory_Heading2_System_Object_) | |
 | [Heading2(Object\[\])](#DotMarkdown_Linq_MFactory_Heading2_System_Object___) | |
 
-## Heading2\(\) <a name="DotMarkdown_Linq_MFactory_Heading2"></a>
+## Heading2\(\) <a id="DotMarkdown_Linq_MFactory_Heading2"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHeading Heading2()
@@ -24,7 +24,7 @@ public static DotMarkdown.Linq.MHeading Heading2()
 
 [MHeading](../../MHeading/README.md)
 
-## Heading2\(Object\) <a name="DotMarkdown_Linq_MFactory_Heading2_System_Object_"></a>
+## Heading2\(Object\) <a id="DotMarkdown_Linq_MFactory_Heading2_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHeading Heading2(object content)
@@ -38,7 +38,7 @@ public static DotMarkdown.Linq.MHeading Heading2(object content)
 
 [MHeading](../../MHeading/README.md)
 
-## Heading2\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Heading2_System_Object___"></a>
+## Heading2\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_Heading2_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MHeading Heading2(params object[] content)

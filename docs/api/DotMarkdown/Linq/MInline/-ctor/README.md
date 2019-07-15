@@ -15,13 +15,13 @@
 | [MInline(Object)](#DotMarkdown_Linq_MInline__ctor_System_Object_) | |
 | [MInline(Object\[\])](#DotMarkdown_Linq_MInline__ctor_System_Object___) | |
 
-## MInline\(\) <a name="DotMarkdown_Linq_MInline__ctor"></a>
+## MInline\(\) <a id="DotMarkdown_Linq_MInline__ctor"></a>
 
 ```csharp
 public MInline()
 ```
 
-## MInline\(MContainer\) <a name="DotMarkdown_Linq_MInline__ctor_DotMarkdown_Linq_MContainer_"></a>
+## MInline\(MContainer\) <a id="DotMarkdown_Linq_MInline__ctor_DotMarkdown_Linq_MContainer_"></a>
 
 ```csharp
 public MInline(DotMarkdown.Linq.MContainer other)
@@ -31,7 +31,7 @@ public MInline(DotMarkdown.Linq.MContainer other)
 
 **other** &ensp; [MContainer](../../MContainer/README.md)
 
-## MInline\(Object\) <a name="DotMarkdown_Linq_MInline__ctor_System_Object_"></a>
+## MInline\(Object\) <a id="DotMarkdown_Linq_MInline__ctor_System_Object_"></a>
 
 ```csharp
 public MInline(object content)
@@ -41,7 +41,7 @@ public MInline(object content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-## MInline\(Object\[\]\) <a name="DotMarkdown_Linq_MInline__ctor_System_Object___"></a>
+## MInline\(Object\[\]\) <a id="DotMarkdown_Linq_MInline__ctor_System_Object___"></a>
 
 ```csharp
 public MInline(params object[] content)

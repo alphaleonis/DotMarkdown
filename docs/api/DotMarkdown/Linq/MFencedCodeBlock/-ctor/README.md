@@ -13,7 +13,7 @@
 | [MFencedCodeBlock(MFencedCodeBlock)](#DotMarkdown_Linq_MFencedCodeBlock__ctor_DotMarkdown_Linq_MFencedCodeBlock_) | |
 | [MFencedCodeBlock(String, String)](#DotMarkdown_Linq_MFencedCodeBlock__ctor_System_String_System_String_) | |
 
-## MFencedCodeBlock\(MFencedCodeBlock\) <a name="DotMarkdown_Linq_MFencedCodeBlock__ctor_DotMarkdown_Linq_MFencedCodeBlock_"></a>
+## MFencedCodeBlock\(MFencedCodeBlock\) <a id="DotMarkdown_Linq_MFencedCodeBlock__ctor_DotMarkdown_Linq_MFencedCodeBlock_"></a>
 
 ```csharp
 public MFencedCodeBlock(DotMarkdown.Linq.MFencedCodeBlock other)
@@ -23,7 +23,7 @@ public MFencedCodeBlock(DotMarkdown.Linq.MFencedCodeBlock other)
 
 **other** &ensp; [MFencedCodeBlock](../README.md)
 
-## MFencedCodeBlock\(String, String\) <a name="DotMarkdown_Linq_MFencedCodeBlock__ctor_System_String_System_String_"></a>
+## MFencedCodeBlock\(String, String\) <a id="DotMarkdown_Linq_MFencedCodeBlock__ctor_System_String_System_String_"></a>
 
 ```csharp
 public MFencedCodeBlock(string text, string info = null)

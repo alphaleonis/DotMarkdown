@@ -13,7 +13,7 @@
 | [MLink(MLink)](#DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_) | |
 | [MLink(Object, String, String)](#DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_) | |
 
-## MLink\(MLink\) <a name="DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_"></a>
+## MLink\(MLink\) <a id="DotMarkdown_Linq_MLink__ctor_DotMarkdown_Linq_MLink_"></a>
 
 ```csharp
 public MLink(DotMarkdown.Linq.MLink other)
@@ -23,7 +23,7 @@ public MLink(DotMarkdown.Linq.MLink other)
 
 **other** &ensp; [MLink](../README.md)
 
-## MLink\(Object, String, String\) <a name="DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_"></a>
+## MLink\(Object, String, String\) <a id="DotMarkdown_Linq_MLink__ctor_System_Object_System_String_System_String_"></a>
 
 ```csharp
 public MLink(object content, string url, string title = null)

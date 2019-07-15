@@ -15,7 +15,7 @@
 | [Table(Object)](#DotMarkdown_Linq_MFactory_Table_System_Object_) | |
 | [Table(Object\[\])](#DotMarkdown_Linq_MFactory_Table_System_Object___) | |
 
-## Table\(\) <a name="DotMarkdown_Linq_MFactory_Table"></a>
+## Table\(\) <a id="DotMarkdown_Linq_MFactory_Table"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTable Table()
@@ -25,7 +25,7 @@ public static DotMarkdown.Linq.MTable Table()
 
 [MTable](../../MTable/README.md)
 
-## Table\(MTable\) <a name="DotMarkdown_Linq_MFactory_Table_DotMarkdown_Linq_MTable_"></a>
+## Table\(MTable\) <a id="DotMarkdown_Linq_MFactory_Table_DotMarkdown_Linq_MTable_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTable Table(DotMarkdown.Linq.MTable other)
@@ -39,7 +39,7 @@ public static DotMarkdown.Linq.MTable Table(DotMarkdown.Linq.MTable other)
 
 [MTable](../../MTable/README.md)
 
-## Table\(Object\) <a name="DotMarkdown_Linq_MFactory_Table_System_Object_"></a>
+## Table\(Object\) <a id="DotMarkdown_Linq_MFactory_Table_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTable Table(object content)
@@ -53,7 +53,7 @@ public static DotMarkdown.Linq.MTable Table(object content)
 
 [MTable](../../MTable/README.md)
 
-## Table\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_Table_System_Object___"></a>
+## Table\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_Table_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTable Table(params object[] content)

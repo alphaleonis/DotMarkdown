@@ -13,7 +13,7 @@
 | [Add(Object)](#DotMarkdown_Linq_MContainer_Add_System_Object_) | |
 | [Add(Object\[\])](#DotMarkdown_Linq_MContainer_Add_System_Object___) | |
 
-## Add\(Object\) <a name="DotMarkdown_Linq_MContainer_Add_System_Object_"></a>
+## Add\(Object\) <a id="DotMarkdown_Linq_MContainer_Add_System_Object_"></a>
 
 ```csharp
 public void Add(object content)
@@ -23,7 +23,7 @@ public void Add(object content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-## Add\(Object\[\]\) <a name="DotMarkdown_Linq_MContainer_Add_System_Object___"></a>
+## Add\(Object\[\]\) <a id="DotMarkdown_Linq_MContainer_Add_System_Object___"></a>
 
 ```csharp
 public void Add(params object[] content)

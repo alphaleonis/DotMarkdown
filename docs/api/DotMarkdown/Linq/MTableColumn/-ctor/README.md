@@ -15,7 +15,7 @@
 | [MTableColumn(HorizontalAlignment, Object\[\])](#DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object___) | |
 | [MTableColumn(MTableColumn)](#DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_Linq_MTableColumn_) | |
 
-## MTableColumn\(HorizontalAlignment\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_"></a>
+## MTableColumn\(HorizontalAlignment\) <a id="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_"></a>
 
 ```csharp
 public MTableColumn(DotMarkdown.HorizontalAlignment alignment)
@@ -25,7 +25,7 @@ public MTableColumn(DotMarkdown.HorizontalAlignment alignment)
 
 **alignment** &ensp; [HorizontalAlignment](../../../HorizontalAlignment/README.md)
 
-## MTableColumn\(HorizontalAlignment, Object\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object_"></a>
+## MTableColumn\(HorizontalAlignment, Object\) <a id="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object_"></a>
 
 ```csharp
 public MTableColumn(DotMarkdown.HorizontalAlignment alignment, object content)
@@ -37,7 +37,7 @@ public MTableColumn(DotMarkdown.HorizontalAlignment alignment, object content)
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-## MTableColumn\(HorizontalAlignment, Object\[\]\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object___"></a>
+## MTableColumn\(HorizontalAlignment, Object\[\]\) <a id="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_HorizontalAlignment_System_Object___"></a>
 
 ```csharp
 public MTableColumn(DotMarkdown.HorizontalAlignment alignment, params object[] content)
@@ -49,7 +49,7 @@ public MTableColumn(DotMarkdown.HorizontalAlignment alignment, params object[] c
 
 **content** &ensp; [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\[\]
 
-## MTableColumn\(MTableColumn\) <a name="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_Linq_MTableColumn_"></a>
+## MTableColumn\(MTableColumn\) <a id="DotMarkdown_Linq_MTableColumn__ctor_DotMarkdown_Linq_MTableColumn_"></a>
 
 ```csharp
 public MTableColumn(DotMarkdown.Linq.MTableColumn other)

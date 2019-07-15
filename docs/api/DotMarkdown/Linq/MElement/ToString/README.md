@@ -14,7 +14,7 @@
 | [ToString(MarkdownFormat)](#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_) | |
 | [ToString(MarkdownWriterSettings)](#DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_) | |
 
-## ToString\(\) <a name="DotMarkdown_Linq_MElement_ToString"></a>
+## ToString\(\) <a id="DotMarkdown_Linq_MElement_ToString"></a>
 
 ```csharp
 public override string ToString()
@@ -24,7 +24,7 @@ public override string ToString()
 
 [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-## ToString\(MarkdownFormat\) <a name="DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_"></a>
+## ToString\(MarkdownFormat\) <a id="DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownFormat_"></a>
 
 ```csharp
 public string ToString(DotMarkdown.MarkdownFormat format)
@@ -38,7 +38,7 @@ public string ToString(DotMarkdown.MarkdownFormat format)
 
 [String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-## ToString\(MarkdownWriterSettings\) <a name="DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_"></a>
+## ToString\(MarkdownWriterSettings\) <a id="DotMarkdown_Linq_MElement_ToString_DotMarkdown_MarkdownWriterSettings_"></a>
 
 ```csharp
 public string ToString(DotMarkdown.MarkdownWriterSettings settings)

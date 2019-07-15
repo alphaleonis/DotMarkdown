@@ -15,7 +15,7 @@
 | [TaskList(Object)](#DotMarkdown_Linq_MFactory_TaskList_System_Object_) | |
 | [TaskList(Object\[\])](#DotMarkdown_Linq_MFactory_TaskList_System_Object___) | |
 
-## TaskList\(\) <a name="DotMarkdown_Linq_MFactory_TaskList"></a>
+## TaskList\(\) <a id="DotMarkdown_Linq_MFactory_TaskList"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskList TaskList()
@@ -25,7 +25,7 @@ public static DotMarkdown.Linq.MTaskList TaskList()
 
 [MTaskList](../../MTaskList/README.md)
 
-## TaskList\(MTaskList\) <a name="DotMarkdown_Linq_MFactory_TaskList_DotMarkdown_Linq_MTaskList_"></a>
+## TaskList\(MTaskList\) <a id="DotMarkdown_Linq_MFactory_TaskList_DotMarkdown_Linq_MTaskList_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskList TaskList(DotMarkdown.Linq.MTaskList other)
@@ -39,7 +39,7 @@ public static DotMarkdown.Linq.MTaskList TaskList(DotMarkdown.Linq.MTaskList oth
 
 [MTaskList](../../MTaskList/README.md)
 
-## TaskList\(Object\) <a name="DotMarkdown_Linq_MFactory_TaskList_System_Object_"></a>
+## TaskList\(Object\) <a id="DotMarkdown_Linq_MFactory_TaskList_System_Object_"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskList TaskList(object content)
@@ -53,7 +53,7 @@ public static DotMarkdown.Linq.MTaskList TaskList(object content)
 
 [MTaskList](../../MTaskList/README.md)
 
-## TaskList\(Object\[\]\) <a name="DotMarkdown_Linq_MFactory_TaskList_System_Object___"></a>
+## TaskList\(Object\[\]\) <a id="DotMarkdown_Linq_MFactory_TaskList_System_Object___"></a>
 
 ```csharp
 public static DotMarkdown.Linq.MTaskList TaskList(params object[] content)
