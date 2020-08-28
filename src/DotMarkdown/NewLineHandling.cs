@@ -2,6 +2,12 @@
 
 namespace DotMarkdown
 {
+   public enum CharacterEscaping
+   {
+      Default = 0,
+      Entitize = 1
+   }
+
     public enum NewLineHandling
     {
         Replace = 0,

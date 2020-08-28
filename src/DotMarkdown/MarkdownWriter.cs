@@ -27,6 +27,8 @@ namespace DotMarkdown
 
         internal NewLineHandling NewLineHandling => Settings.NewLineHandling;
 
+        internal CharacterEscaping CharacterEscaping => Settings.Format.CharacterEscaping;
+
         internal string NewLineChars => Settings.NewLineChars;
 
         public static MarkdownWriter Create(StringBuilder output, MarkdownWriterSettings settings = null)

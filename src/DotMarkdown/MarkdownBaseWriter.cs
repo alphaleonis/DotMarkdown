@@ -1428,7 +1428,20 @@ namespace DotMarkdown
             }
         }
 
-        protected enum State
+        protected static string Entitize(char c)
+        {
+           switch (c)
+           {
+              case '<':
+                 return "&lt;";
+              case '>':
+                 return "&gt;";
+              default:
+                 return c.ToString();
+           }
+        }
+
+      protected enum State
         {
             Start = 0,
             SimpleElement = 1,

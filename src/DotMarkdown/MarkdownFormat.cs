@@ -18,7 +18,8 @@ namespace DotMarkdown
             CodeFenceStyle codeFenceStyle = CodeFenceStyle.Backtick,
             CodeBlockOptions codeBlockOptions = CodeBlockOptions.EmptyLineBeforeAndAfter,
             CharEntityFormat charEntityFormat = CharEntityFormat.Hexadecimal,
-            HorizontalRuleFormat? horizontalRuleFormat = null)
+            HorizontalRuleFormat? horizontalRuleFormat = null, 
+            CharacterEscaping characterEscaping = CharacterEscaping.Default)
         {
             BoldStyle = boldStyle;
             ItalicStyle = italicStyle;
@@ -30,6 +31,7 @@ namespace DotMarkdown
             CodeFenceStyle = codeFenceStyle;
             CodeBlockOptions = codeBlockOptions;
             CharEntityFormat = charEntityFormat;
+            CharacterEscaping = characterEscaping;
 
             if (BulletListStyle == BulletListStyle.Asterisk)
             {
@@ -221,6 +223,8 @@ namespace DotMarkdown
 
         internal bool CloseHeading => (HeadingOptions & HeadingOptions.Close) != 0;
 
+        public CharacterEscaping CharacterEscaping { get; }
+
         public CharEntityFormat CharEntityFormat { get; }
 
         public override bool Equals(object obj)
@@ -241,7 +245,8 @@ namespace DotMarkdown
                 && CodeBlockOptions == other.CodeBlockOptions
                 && TableOptions == other.TableOptions
                 && CharEntityFormat == other.CharEntityFormat
-                && HorizontalRuleFormat == other.HorizontalRuleFormat;
+                && HorizontalRuleFormat == other.HorizontalRuleFormat 
+                && CharacterEscaping == other.CharacterEscaping;
         }
 
         public override int GetHashCode()
@@ -258,6 +263,7 @@ namespace DotMarkdown
             hashCode = Hash.Combine((int)TableOptions, hashCode);
             hashCode = Hash.Combine((int)CharEntityFormat, hashCode);
             hashCode = Hash.Combine(HorizontalRuleFormat.GetHashCode(), hashCode);
+            hashCode = Hash.Combine((int)CharacterEscaping, hashCode);
             return hashCode;
         }
 
@@ -284,7 +290,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithItalicStyle(EmphasisStyle italicStyle)
@@ -300,7 +307,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithBulletListStyle(BulletListStyle bulletListStyle)
@@ -316,7 +324,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithOrderedListStyle(OrderedListStyle orderedListStyle)
@@ -332,7 +341,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat, 
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithHorizontalRuleFormat(in HorizontalRuleFormat horizontalRuleFormat)
@@ -348,7 +358,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                horizontalRuleFormat);
+                horizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithHeadingOptions(HeadingStyle headingStyle)
@@ -364,7 +375,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithHeadingOptions(HeadingOptions headingOptions)
@@ -380,7 +392,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithTableOptions(TableOptions tableOptions)
@@ -396,7 +409,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithCodeFenceStyle(CodeFenceStyle codeFenceStyle)
@@ -412,7 +426,8 @@ namespace DotMarkdown
                 codeFenceStyle,
                 CodeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithCodeBlockOptions(CodeBlockOptions codeBlockOptions)
@@ -428,7 +443,8 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 codeBlockOptions,
                 CharEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
 
         public MarkdownFormat WithCharEntityFormat(CharEntityFormat charEntityFormat)
@@ -444,7 +460,25 @@ namespace DotMarkdown
                 CodeFenceStyle,
                 CodeBlockOptions,
                 charEntityFormat,
-                HorizontalRuleFormat);
+                HorizontalRuleFormat,
+                CharacterEscaping);
         }
-    }
+
+      public MarkdownFormat WithCharacterEscaping(CharacterEscaping characterEscaping)
+      {
+         return new MarkdownFormat(
+             BoldStyle,
+             ItalicStyle,
+             BulletListStyle,
+             OrderedListStyle,
+             HeadingStyle,
+             HeadingOptions,
+             TableOptions,
+             CodeFenceStyle,
+             CodeBlockOptions,
+             CharEntityFormat,
+             HorizontalRuleFormat,
+             characterEscaping);
+      }
+   }
 }
